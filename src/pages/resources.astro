@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FreeResourceLink from '../components/FreeResourceLink.astro';
+
+const financialResources = [
+  {
+    name: 'NFCC — National Foundation for Credit Counseling',
+    url: 'https://www.nfcc.org/budgeting-finances/',
+    note: 'Connects you to certified, legitimate nonprofit credit counselors — free or low-cost, not a debt-relief scam. Start here if debt or budgeting feels unmanageable.',
+  },
+  {
+    name: 'FDIC Money Smart',
+    url: 'https://www.fdic.gov/consumer-resource-center/money-smart',
+    note: 'Free, self-paced financial education from the federal government — budgeting, saving, credit, and banking basics, no cost and no upsell.',
+  },
+  {
+    name: 'Consumer Financial Protection Bureau (CFPB)',
+    url: 'https://www.consumerfinance.gov/',
+    note: 'Federal consumer protection agency — free tools and a real complaint process if you\'re dealing with predatory lending, debt collection, or a financial company acting in bad faith.',
+  },
+];
+---
+<BaseLayout
+  title="Free Resources — Vonguul Clarity"
+  description="Genuine free financial and self-development resources, with no affiliate relationship and no cost."
+>
+  <div class="hero-intro">
+    <h1>Free Resources</h1>
+    <p>Nothing on this page makes us any money. These are real, vetted resources for anyone starting from a harder financial position — no signup traps, no predatory framing.</p>
+  </div>
+
+  <section>
+    <h2>Financial</h2>
+    {financialResources.map((r) => (
+      <FreeResourceLink href={r.url} name={r.name} note={r.note} />
+    ))}
+  </section>
+</BaseLayout>

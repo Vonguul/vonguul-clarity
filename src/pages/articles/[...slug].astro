@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AffiliateLink from '../../components/AffiliateLink.astro';
+import Disclosure from '../../components/Disclosure.astro';
+import FreeResourceLink from '../../components/FreeResourceLink.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await article.render();
+---
+<BaseLayout
+  title={article.data.title}
+  description={article.data.description}
+  image={article.data.heroImage}
+>
+  <article class="article">
+    <span class="article__category">{article.data.category}</span>
+    <h1>{article.data.title}</h1>
+
+    {article.data.products.length > 0 && <Disclosure />}
+
+    <div class="article__body">
+      <Content />
+    </div>
+
+    {article.data.freeResources.length > 0 && (
+      <section>
+        <h2>Start here — free</h2>
+        {article.data.freeResources.map((r) => (
+          <FreeResourceLink href={r.url} name={r.name} note={r.note} />
+        ))}
+      </section>
+    )}
+
+    {article.data.products.length > 0 && (
+      <section>
+        <h2>If you want to go deeper</h2>
+        <ul class="product-list">
+          {article.data.products.map((p) => (
+            <li class="product-card">
+              {p.image && <img src={p.image} alt={p.name} class="product-card__image" />}
+              <div>
+                <p class="product-card__name">{p.name}</p>
+                {p.note && <p class="product-card__note">{p.note}</p>}
+                <AffiliateLink asin={p.asin} class="product-card__cta">Check price on Amazon</AffiliateLink>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {article.data.products.length > 0 && <Disclosure />}
+  </article>
+</BaseLayout>

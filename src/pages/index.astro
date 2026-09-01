@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+<BaseLayout
+  title="Vonguul Clarity — Self-Understanding, Without the Guesswork"
+  description="Free tools and honest guides for Human Design and practical self-development — plus real financial resources for anyone starting from a harder place."
+>
+  <div class="hero-intro">
+    <h1>Vonguul Clarity</h1>
+    <p>Free tools first, honest guides always. Self-understanding frameworks like Human Design, paired with real financial resources — because clarity shouldn't require money you don't have.</p>
+  </div>
+
+  <ul class="article-grid">
+    {articles.map((article) => (
+      <li class="article-card">
+        <a href={`/articles/${article.slug}/`} class="article-card__link">
+          {article.data.heroImage && (
+            <img src={article.data.heroImage} alt={article.data.title} class="article-card__image" />
+          )}
+          <div class="article-card__body">
+            <span class="article-card__category">{article.data.category}</span>
+            <h2 class="article-card__title">{article.data.title}</h2>
+            <p class="article-card__desc">{article.data.description}</p>
+          </div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

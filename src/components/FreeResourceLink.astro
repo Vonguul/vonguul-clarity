@@ -1,0 +1,16 @@
+---
+// A clearly-marked non-affiliate link — no commission, no tracking tag.
+// Use this for genuinely free tools/nonprofits/government resources so
+// readers can tell at a glance which links make money and which don't.
+interface Props {
+  href: string;
+  name: string;
+  note?: string;
+}
+const { href, name, note } = Astro.props;
+---
+<a href={href} class="free-resource" target="_blank" rel="noopener">
+  <span class="free-resource__tag">Free — no affiliate link</span>
+  <p class="free-resource__name">{name}</p>
+  {note && <p class="free-resource__note">{note}</p>}
+</a>
