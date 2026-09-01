@@ -1,9 +1,8 @@
 import { defineConfig } from 'astro/config';
 
-// Update `site` once this is deployed to Vercel (and again if a custom
-// domain is attached later) — Astro uses it for canonical URLs and
-// Rich Pin / Open Graph metadata.
+// Update `site` again if/when you attach a custom domain in Vercel — Astro
+// uses it for canonical URLs and Rich Pin / Open Graph metadata.
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://vonguulian-clarity.vercel.app',
   output: 'static',
 });
