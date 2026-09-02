@@ -12,12 +12,6 @@ freeResources:
   - name: "Jovian Archive — Official Free Chart Calculator"
     url: "https://jovianarchive.com/pages/get-your-human-design-chart"
     note: "Run by the organization founded by Ra Uru Hu, who originated the Human Design system. No email required. You'll need your birth date, time, and location — enter these on the official site directly rather than a third-party tool if you'd rather not share that data more widely than necessary."
-  - name: "Vonguul Zone — Web App"
-    url: "https://vonguul.com/zone"
-    note: "The browser-based version of our Human Design app — no download required."
-  - name: "Vonguul App — Free on Google Play (iOS coming soon)"
-    url: "https://vonguul.com/app"
-    note: "Free to download. Test how in-alignment you are with your specific design via the Flux, see which current transits are affecting you with the Scanner, and get tips and cautions matched to your chart — all at no cost."
 products:
   - name: "Understanding Human Design — Dr. Karen Curry Parker"
     asin: "1950253619"
