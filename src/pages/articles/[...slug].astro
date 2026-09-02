@@ -24,6 +24,13 @@ const freeResources = [
   ...article.data.freeResources,
   ...defaultFreeResources.filter((r) => !seenUrls.has(r.url)),
 ];
+
+// Related articles — internal cross-linking for SEO.
+const allArticles = await getCollection('articles');
+const related = allArticles
+  .filter((a) => a.slug !== article.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
 ---
 <BaseLayout
   title={article.data.title}
@@ -68,5 +75,21 @@ const freeResources = [
     )}
 
     {article.data.products.length > 0 && <Disclosure />}
+
+    {related.length > 0 && (
+      <section class="related-articles">
+        <h2>Explore More</h2>
+        <ul class="related-articles__list">
+          {related.map((r) => (
+            <li>
+              <a href={`/articles/${r.slug}/`}>
+                {r.data.heroImage && <img src={r.data.heroImage} alt={r.data.title} />}
+                <span>{r.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
   </article>
 </BaseLayout>
