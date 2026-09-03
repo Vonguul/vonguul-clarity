@@ -9,7 +9,10 @@ interface Props {
 }
 
 const { asin, href, marketplace = 'com', class: className } = Astro.props;
-const TAG = import.meta.env.PUBLIC_AMAZON_ASSOCIATE_TAG || 'Vonguul-20';
+// Distinct tracking ID from Vonguul Picks so the two sites' baseline
+// (direct/organic) traffic don't get lumped under one tag in Associates
+// Central. Registered as "vgclarity-20" — see PINTEREST-BOARDS.md context.
+const TAG = import.meta.env.PUBLIC_AMAZON_ASSOCIATE_TAG || 'vgclarity-20';
 
 function buildLink(): string {
   if (asin) {
@@ -25,6 +28,6 @@ function buildLink(): string {
 
 const link = buildLink();
 ---
-<a href={link} class={className} target="_blank" rel="nofollow sponsored noopener">
+<a href={link} class={className} target="_blank" rel="nofollow sponsored noopener" data-affiliate-link>
   <slot />
 </a>
