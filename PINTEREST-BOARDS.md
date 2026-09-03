@@ -30,9 +30,12 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 2. Pick exactly ONE row per run where `Pins status` is `not drafted`, in table
    order (top to bottom).
 3. Write `PIN-BATCH-XX.md` for that row (next unused number) with: the board
-   name, the article's live URL, and 3 pin variants (title + keyword-rich
-   description each, following the same style as the Vonguul Picks
-   PIN-BATCH files) linking to that article.
+   name, the article's live URL with `?src=pinterest` appended (e.g.
+   `https://vonguulian-clarity.vercel.app/articles/<slug>/?src=pinterest`) —
+   this lets Amazon Associates attribute affiliate clicks on that page to
+   Pinterest specifically, via the site's per-channel tracking IDs — and 3
+   pin variants (title + keyword-rich description each, following the same
+   style as the Vonguul Picks PIN-BATCH files) linking to that tagged URL.
 4. Flip that row's `Pins status` to `drafted`.
 5. Commit and push both the new PIN-BATCH file and this updated table.
 6. Send one push notification naming the board and whether it still needs to
