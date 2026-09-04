@@ -14,7 +14,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | # | Article | Board name | Board status | Pins status |
 |---|---------|-----------|--------------|-------------|
 | 1 | human-design-101-free-chart.md | Human Design for Beginners | created | drafted |
-| 2 | astral-projection-getting-started.md | Astral Projection | created | not drafted |
+| 2 | astral-projection-getting-started.md | Astral Projection | created | drafted |
 | 3 | hermetic-principles-the-kybalion.md | Hermetic Principles & The Kybalion | created | not drafted |
 | 4 | lucid-dreaming-getting-started.md | Lucid Dreaming | created | not drafted |
 | 5 | tarot-for-beginners.md | Tarot for Beginners | not created | not drafted |
