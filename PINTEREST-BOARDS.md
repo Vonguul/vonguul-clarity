@@ -22,7 +22,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 4 | lucid-dreaming-getting-started.md | Lucid Dreaming | created | posted |
 | 5 | tarot-for-beginners.md | Tarot for Beginners | created | posted |
 | 6 | pendulum-dowsing-for-beginners.md | Pendulum Dowsing | created | posted |
-| 7 | crystals-for-beginners.md | Crystals for Beginners | not created | drafted |
+| 7 | crystals-for-beginners.md | Crystals for Beginners | created | posted |
 | 8 | magical-herbs-for-beginners.md | Magical Herbs & Correspondences | not created | not drafted |
 
 ## How the daily routine uses this file

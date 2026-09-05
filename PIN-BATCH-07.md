@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Crystals for Beginners" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (anima-chakra-crystal-set-1.jpg, crystal-bible-judy-hall-1.jpg, selenite-charging-plate-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 7 - Crystals for Beginners, all 3 variants confirmed live, tagged with ?src=pinterest)
