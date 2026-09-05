@@ -4,6 +4,8 @@
 **Article:** `lucid-dreaming-getting-started.md`
 **Destination URL:** https://vonguulian-clarity.vercel.app/articles/lucid-dreaming-getting-started/?src=pinterest
 
+**Status:** All 3 pin variants confirmed live on the Lucid Dreaming board (tagged with ?src=pinterest).
+
 ---
 
 ## Pin 1
@@ -14,9 +16,11 @@
 
 ## Pin 2
 
-**Title:** The Only Lucid Dreaming Book Backed by Actual Sleep-Lab Research
+**Title:** Lucid Dreaming: What to Actually Do Once You're Already Lucid
 
-**Description:** Stephen LaBerge is the Stanford psychophysiologist who first proved lucid dreams happen during REM sleep, using eye-signal experiments in a real sleep lab. Not folklore — evidence-grounded technique, from the researcher who ran the studies. #stephenlaberge #luciddreamingbook #luciddreamingscience #remsleep
+**Description:** Most lucid dreaming advice stops at getting there. Robert Waggoner's material is built from thousands of dreamers' reported experiences once they're already lucid — useful once triggering isn't the hard part anymore, and you're wondering what to actually do with the dream. #luciddreaming #robertwaggoner #luciddreamingtips #dreamwork
+
+*(Note: pin copy revised at publish time to match the Waggoner book cover image actually uploaded — the article's "once you're already lucid" section supports this angle. Original LaBerge-focused draft copy is preserved in git history.)*
 
 ## Pin 3
 
