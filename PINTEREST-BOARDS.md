@@ -20,7 +20,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 2 | astral-projection-getting-started.md | Astral Projection | created | posted |
 | 3 | hermetic-principles-the-kybalion.md | Hermetic Principles & The Kybalion | created | posted |
 | 4 | lucid-dreaming-getting-started.md | Lucid Dreaming | created | posted |
-| 5 | tarot-for-beginners.md | Tarot for Beginners | not created | drafted |
+| 5 | tarot-for-beginners.md | Tarot for Beginners | created | posted |
 | 6 | pendulum-dowsing-for-beginners.md | Pendulum Dowsing | not created | not drafted |
 | 7 | crystals-for-beginners.md | Crystals for Beginners | not created | not drafted |
 | 8 | magical-herbs-for-beginners.md | Magical Herbs & Correspondences | not created | not drafted |
