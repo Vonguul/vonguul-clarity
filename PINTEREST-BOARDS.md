@@ -5,16 +5,19 @@ Profile, bio, website, and domain claim are already set up.
 
 Each row maps one article to one board. `Board status` tracks whether the board
 exists yet on Pinterest itself (done manually, in an interactive session).
-`Pins status` tracks whether a PIN-BATCH-XX.md file with drafted pin copy exists
-in this repo yet (done by the daily drafting routine, one at a time).
+`Pins status` tracks pin copy/posting progress: `not drafted` (nothing written
+yet) → `drafted` (PIN-BATCH-XX.md exists in this repo, written by the daily
+drafting routine, but not yet live on Pinterest) → `posted` (all 3 pin variants
+confirmed live on the actual Pinterest board, done manually in an interactive
+session with Claude in Chrome — the drafting routine never sets this itself).
 
 Posting the actual pins to Pinterest always happens in an interactive session
 with Claude in Chrome — the drafting routine only prepares the copy and notifies.
 
 | # | Article | Board name | Board status | Pins status |
 |---|---------|-----------|--------------|-------------|
-| 1 | human-design-101-free-chart.md | Human Design for Beginners | created | drafted |
-| 2 | astral-projection-getting-started.md | Astral Projection | created | drafted |
+| 1 | human-design-101-free-chart.md | Human Design for Beginners | created | posted |
+| 2 | astral-projection-getting-started.md | Astral Projection | created | posted |
 | 3 | hermetic-principles-the-kybalion.md | Hermetic Principles & The Kybalion | created | not drafted |
 | 4 | lucid-dreaming-getting-started.md | Lucid Dreaming | created | not drafted |
 | 5 | tarot-for-beginners.md | Tarot for Beginners | not created | not drafted |
@@ -41,5 +44,6 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 6. Send one push notification naming the board and whether it still needs to
    be created on Pinterest first (`Board status: not created`) or just needs
    pins added (`Board status: created`).
-7. If every row already has `Pins status: drafted`, send a notification
-   saying all boards are drafted and stop — don't draft anything that run.
+7. If no row has `Pins status: not drafted` (every row is already `drafted` or
+   `posted`), send a notification saying so and stop — don't draft anything
+   that run.
