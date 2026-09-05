@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Magical Herbs & Correspondences" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (cunningham-magical-herbs-1.jpg, rosemary-smudge-sticks-1.jpg, wyspell-dried-herbs-set-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 8 - Magical Herbs & Correspondences, all 3 variants confirmed live, tagged with ?src=pinterest)
