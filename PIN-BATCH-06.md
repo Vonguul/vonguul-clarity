@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Pendulum Dowsing" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (polarjade-crystal-pendulum-1.jpg, pendulum-dowsing-beginners-guide-1.jpg, pendulum-dowsing-charts-book-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 6 - Pendulum Dowsing, all 3 variants confirmed live, tagged with ?src=pinterest)
