@@ -27,6 +27,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Meditation" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (meditation-floor-cushions-1.jpg, silentmind-singing-bowl-1.jpg, mind-illuminated-book-1.jpg, jovivi-mala-beads-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 9 - Meditation, all 3 variants confirmed live, tagged with ?src=pinterest)
