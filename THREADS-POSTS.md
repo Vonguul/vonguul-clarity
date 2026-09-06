@@ -42,6 +42,7 @@ across multiple posting sessions like the Pinterest batches are.
 | pendulum-dowsing-for-beginners.md | not posted | not posted |
 | crystals-for-beginners.md | posted | not posted |
 | magical-herbs-for-beginners.md | posted | not posted |
+| meditation-for-beginners.md | posted | posted |
 
 ## How this fits the process for new articles/products
 
