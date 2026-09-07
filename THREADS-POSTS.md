@@ -44,6 +44,7 @@ across multiple posting sessions like the Pinterest batches are.
 | magical-herbs-for-beginners.md | posted | not posted |
 | meditation-for-beginners.md | posted | posted |
 | manifestation-law-of-attraction-for-beginners.md | posted | posted |
+| moon-phases-lunar-rituals-for-beginners.md | not posted | not posted |
 
 ## How this fits the process for new articles/products
 
