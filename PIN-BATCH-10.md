@@ -27,6 +27,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Manifestation" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (loa-manifestation-journal-1.jpg, dailydopamine-vision-board-1.jpg, intelligentchange-affirmation-cards-1.jpg, fiveminute-journal-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 10 - Manifestation, all 3 variants confirmed live, tagged with ?src=pinterest)
