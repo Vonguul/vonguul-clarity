@@ -33,6 +33,23 @@ Caption pulls from the same Pinterest pin's description copy, ends with
 select "Original" aspect ratio in Instagram's upload flow (default crop is
 square and will cut off a landscape card's sides).
 
+**Rendering gotcha (2026-09-08):** an HTML page sized to fill the whole
+browser viewport is NOT reliable for this — the actual Chrome viewport this
+session renders at can silently be an unsafe aspect ratio (e.g. 1568x737 =
+2.13:1, over Instagram's 1.91:1 max), `resize_window` does not reliably fix
+this, and Instagram silently rejects the upload with "isn't in an allowed
+aspect ratio." The fix: render onto an HTML5 `<canvas>` with fixed pixel
+dimensions (1200x750 used here, a safe 1.6:1) via JS `drawImage`/`fillText`
+— canvas pixel size is independent of the browser viewport. Extract with
+`canvas.toBlob()` and POST it to a same-origin local endpoint (a tiny custom
+Python `http.server` subclass handling `POST /save?name=...` by writing the
+request body to disk) rather than triggering a `<a download>` — Chrome's
+download-permission gate blocks repeated script-triggered downloads after
+the first one on a page/origin, even with a real synthetic click, and a
+cross-port fetch trips Private Network Access preflight failures. Same-origin
+POST avoids both. See `canvas-card.html` used in this session for the
+working template (takes `img`, `headline`, `brand`, `outname` query params).
+
 Always draft and show the rendered image + caption for review before
 posting — real account, real followers, same rule as Threads.
 
@@ -41,6 +58,10 @@ posting — real account, real followers, same rule as Threads.
 | Article | Posted |
 |---|---|
 | astral-projection-getting-started.md | posted 2026-09-08 (reused PIN-BATCH-02 Pin 2 copy/title) |
+| human-design-101-free-chart.md | posted 2026-09-08 (reused PIN-BATCH-01 Pin 3 copy/title) |
+| hermetic-principles-the-kybalion.md | posted 2026-09-08 (reused PIN-BATCH-03 Pin 1 copy/title) |
+| lucid-dreaming-getting-started.md | posted 2026-09-08 (reused PIN-BATCH-04 Pin 1 copy/title) |
+| tarot-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-05 Pin 1 copy/title) |
 
 ## How to apply for new articles
 
