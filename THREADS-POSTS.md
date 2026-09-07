@@ -35,7 +35,7 @@ across multiple posting sessions like the Pinterest batches are.
 | Article | Opinion thread | Linked thread |
 |---|---|---|
 | human-design-101-free-chart.md | posted | not posted |
-| astral-projection-getting-started.md | not posted | not posted |
+| astral-projection-getting-started.md | posted | posted |
 | hermetic-principles-the-kybalion.md | not posted | not posted |
 | lucid-dreaming-getting-started.md | not posted | posted |
 | tarot-for-beginners.md | not posted | posted |
@@ -73,3 +73,15 @@ board/pin batch:
   don't assume a thread failed or was removed just because a same-session
   profile check doesn't show it right away. Confirm directly in the
   Threads app/site before re-posting, to avoid accidental duplicates.
+
+## Posting notes (2026-09-08)
+
+- Starting with the astral-projection batch, every new thread should also
+  set the "Community or topic" field in the compose modal (click
+  `offbahr > Community or topic`, type a relevant existing topic like
+  `Metaphysics`/`HumanDesign`/`Spirituality`, select it from the dropdown).
+  This was being skipped before — going forward it's part of the process,
+  same as picking Pinterest tagged topics for new pins. Already-posted
+  threads are not retroactively editable (Threads has no Edit option on a
+  published post) — see the
+  `pinterest-threads-tags-not-retroactively-editable` memory note.
