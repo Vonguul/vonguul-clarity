@@ -43,7 +43,7 @@ across multiple posting sessions like the Pinterest batches are.
 | crystals-for-beginners.md | posted | not posted |
 | magical-herbs-for-beginners.md | posted | not posted |
 | meditation-for-beginners.md | posted | posted |
-| manifestation-law-of-attraction-for-beginners.md | not posted | not posted |
+| manifestation-law-of-attraction-for-beginners.md | posted | posted |
 
 ## How this fits the process for new articles/products
 
