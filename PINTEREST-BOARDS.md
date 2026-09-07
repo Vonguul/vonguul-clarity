@@ -26,7 +26,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 8 | magical-herbs-for-beginners.md | Magical Herbs & Correspondences | created | posted |
 | 9 | meditation-for-beginners.md | Meditation | created | posted |
 | 10 | manifestation-law-of-attraction-for-beginners.md | Manifestation | created | posted |
-| 11 | moon-phases-lunar-rituals-for-beginners.md | Moon Phases | not created | drafted |
+| 11 | moon-phases-lunar-rituals-for-beginners.md | Moon Phases | created | posted |
 
 ## How the daily routine uses this file
 

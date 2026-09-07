@@ -27,6 +27,9 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest ("Moon Phases" board created)
 - [x] Pin images sourced — product shots from `public/images/products/` (moon-journal-sitron-1.jpg, mydethun-moon-lamp-1.jpg, mkono-moonphase-walldecor-1.jpg, cellsdividing-moonphase-necklace-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (batch 11 - Moon Phases, all 3 variants confirmed live, tagged with ?src=pinterest)
+
+## Note (revised at publish time)
+The Mkono wall decor product's default listing thumbnail (`51izu8petlL._AC_SX679_.jpg`) was only 155px wide and rejected by Pinterest's minimum size. Replaced with the full-resolution version of the same image (`51izu8petlL.jpg`, 1500x1500) before uploading — same product photo, just not downscaled.
