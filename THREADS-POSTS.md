@@ -36,10 +36,10 @@ across multiple posting sessions like the Pinterest batches are.
 |---|---|---|
 | human-design-101-free-chart.md | posted | not posted |
 | astral-projection-getting-started.md | posted | posted |
-| hermetic-principles-the-kybalion.md | not posted | not posted |
+| hermetic-principles-the-kybalion.md | posted | posted |
 | lucid-dreaming-getting-started.md | not posted | posted |
 | tarot-for-beginners.md | not posted | posted |
-| pendulum-dowsing-for-beginners.md | not posted | not posted |
+| pendulum-dowsing-for-beginners.md | posted | posted |
 | crystals-for-beginners.md | posted | not posted |
 | magical-herbs-for-beginners.md | posted | not posted |
 | meditation-for-beginners.md | posted | posted |
