@@ -62,6 +62,10 @@ posting — real account, real followers, same rule as Threads.
 | hermetic-principles-the-kybalion.md | posted 2026-09-08 (reused PIN-BATCH-03 Pin 1 copy/title) |
 | lucid-dreaming-getting-started.md | posted 2026-09-08 (reused PIN-BATCH-04 Pin 1 copy/title) |
 | tarot-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-05 Pin 1 copy/title) |
+| pendulum-dowsing-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-06 Pin 1 copy/title) |
+| crystals-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-07 Pin 1 copy/title) |
+| magical-herbs-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-08 Pin 1 copy/title) |
+| meditation-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-09 Pin 1 copy/title) |
 
 ## How to apply for new articles
 
