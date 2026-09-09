@@ -37,3 +37,7 @@ draft and show for review before posting — real account, real followers.
 |---|---|---|
 | tarot-for-beginners.md | opinion | posted 2026-09-08 |
 | crystals-for-beginners.md | linked | posted 2026-09-08 |
+| human-design-101-free-chart.md | opinion | posted 2026-09-08 |
+| astral-projection-getting-started.md | opinion | posted 2026-09-08 |
+| hermetic-principles-the-kybalion.md | opinion | posted 2026-09-08 |
+| lucid-dreaming-getting-started.md | linked | posted 2026-09-08 |
