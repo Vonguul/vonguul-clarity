@@ -41,3 +41,10 @@ draft and show for review before posting — real account, real followers.
 | astral-projection-getting-started.md | opinion | posted 2026-09-08 |
 | hermetic-principles-the-kybalion.md | opinion | posted 2026-09-08 |
 | lucid-dreaming-getting-started.md | linked | posted 2026-09-08 |
+| pendulum-dowsing-for-beginners.md | opinion | posted 2026-09-08 |
+| magical-herbs-for-beginners.md | opinion | posted 2026-09-08 |
+| meditation-for-beginners.md | opinion | posted 2026-09-08 |
+| manifestation-law-of-attraction-for-beginners.md | opinion | posted 2026-09-08 |
+| moon-phases-lunar-rituals-for-beginners.md | linked | posted 2026-09-08 |
+
+All 11 Clarity articles now have X coverage (8 opinion, 3 linked).
