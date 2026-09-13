@@ -69,10 +69,21 @@ posting — real account, real followers, same rule as Threads.
 | manifestation-law-of-attraction-for-beginners.md | posted 2026-09-13 (reused PIN-BATCH-10 Pin 1 copy/title) |
 | moon-phases-lunar-rituals-for-beginners.md | posted 2026-09-13 (reused PIN-BATCH-11 Pin 2 copy/title) |
 
-All 11 Clarity articles now have Instagram feed coverage. See vonguul-picks'
-`INSTAGRAM-POSTS.md` for the 2026-09-13 upload-method note (direct file-input
-upload works for Instagram's post composer; product images must be
-same-origin with the canvas-render page to avoid a tainted-canvas error).
+All 11 original Clarity articles have Instagram feed coverage. See
+vonguul-picks' `INSTAGRAM-POSTS.md` for the 2026-09-13 upload-method note
+(direct file-input upload works for Instagram's post composer; product
+images must be same-origin with the canvas-render page to avoid a
+tainted-canvas error).
+
+| astrology-for-beginners.md | posted 2026-09-13 |
+| sage-smudging-energy-cleansing.md | posted 2026-09-13 |
+| numerology-for-beginners.md | posted 2026-09-13 |
+| sound-healing-singing-bowls-for-beginners.md | posted 2026-09-13 |
+
+4 of the 14 new articles from this week's research batches now have
+Instagram feed coverage too. 10 new articles remain: feng-shui-basics,
+reiki-self-healing, oracle-cards, shadow-work-journaling, i-ching,
+akashic-records, sacred-geometry, candle-magic, aura-reading-cleansing.
 
 ## How to apply for new articles
 
