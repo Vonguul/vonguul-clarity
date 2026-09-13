@@ -27,6 +27,15 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 9 | meditation-for-beginners.md | Meditation | created | posted |
 | 10 | manifestation-law-of-attraction-for-beginners.md | Manifestation | created | posted |
 | 11 | moon-phases-lunar-rituals-for-beginners.md | Moon Phases | created | posted |
+| 12 | astrology-for-beginners.md | Astrology for Beginners | not created | drafted |
+| 13 | feng-shui-basics-for-beginners.md | Feng Shui Basics | not created | not drafted |
+| 14 | numerology-for-beginners.md | Numerology for Beginners | not created | not drafted |
+| 15 | oracle-cards-for-beginners.md | Oracle Cards | not created | not drafted |
+| 16 | reiki-self-healing-for-beginners.md | Reiki & Energy Healing | not created | not drafted |
+| 17 | runes-for-beginners.md | Runes for Beginners | not created | not drafted |
+| 18 | sage-smudging-energy-cleansing.md | Sage Smudging & Energy Cleansing | not created | not drafted |
+| 19 | shadow-work-journaling-for-beginners.md | Shadow Work Journaling | not created | not drafted |
+| 20 | sound-healing-singing-bowls-for-beginners.md | Sound Healing & Singing Bowls | not created | not drafted |
 
 ## How the daily routine uses this file
 
