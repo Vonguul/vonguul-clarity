@@ -33,8 +33,8 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Astrology for Beginners" board)
-- [ ] Pin images sourced — product shots from `public/images/products/` (astrology-for-beginners-book-1.jpg, guided-astrology-workbook-1.jpg, astrology-wisdom-stars-book-1.jpg)
-- [ ] Pins posted (batch 12 - Astrology for Beginners, all 3 variants confirmed live, tagged with ?src=pinterest)
+- [x] Board created in Pinterest ("Astrology for Beginners" board)
+- [x] Pin images sourced — product shots from `public/images/products/` (astrology-for-beginners-book-1.jpg, guided-astrology-workbook-1.jpg, astrology-wisdom-stars-book-1.jpg)
+- [x] Pins posted (batch 12 - Astrology for Beginners, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 *(Drafted by the automated daily Pinterest pacing routine — board creation and posting happen manually in an interactive session with Claude in Chrome.)*

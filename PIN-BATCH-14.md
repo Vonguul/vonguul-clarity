@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Numerology" board)
+- [x] Board created in Pinterest ("Numerology" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (beginners-guide-numerology-book-1.jpg, guided-numerology-workbook-1.jpg, complete-book-numerology-1.jpg)
-- [ ] Pins posted (batch 14 - Numerology for Beginners, all 3 variants confirmed live, tagged with ?src=pinterest)
+- [x] Pins posted (batch 14 - Numerology for Beginners, all 3 variants confirmed live, tagged with ?src=pinterest)

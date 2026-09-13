@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Sound Healing" board)
+- [x] Board created in Pinterest ("Sound Healing" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (silentmind-singingbowl-1.jpg, himalayanbazaar-singingbowl-1.jpg, chakra-tuning-forks-1.jpg)
-- [ ] Pins posted (batch 15 - Sound Healing, all 3 variants confirmed live, tagged with ?src=pinterest)
+- [x] Pins posted (batch 15 - Sound Healing, all 3 variants confirmed live, tagged with ?src=pinterest)

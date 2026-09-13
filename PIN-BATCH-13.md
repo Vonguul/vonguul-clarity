@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Energy Cleansing" board)
+- [x] Board created in Pinterest ("Energy Cleansing" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (bholi-sage-smudge-kit-1.jpg, ancientveda-palosanto-1.jpg, whitesage-smudge-spray-1.jpg)
-- [ ] Pins posted (batch 13 - Sage Smudging & Energy Cleansing, all 3 variants confirmed live, tagged with ?src=pinterest)
+- [x] Pins posted (batch 13 - Sage Smudging & Energy Cleansing, all 3 variants confirmed live, tagged with ?src=pinterest)
