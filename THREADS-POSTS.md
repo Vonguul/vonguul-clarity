@@ -34,17 +34,21 @@ across multiple posting sessions like the Pinterest batches are.
 
 | Article | Opinion thread | Linked thread |
 |---|---|---|
-| human-design-101-free-chart.md | posted | not posted |
+| human-design-101-free-chart.md | posted | posted 2026-09-12 |
 | astral-projection-getting-started.md | posted | posted |
 | hermetic-principles-the-kybalion.md | posted | posted |
-| lucid-dreaming-getting-started.md | not posted | posted |
-| tarot-for-beginners.md | not posted | posted |
+| lucid-dreaming-getting-started.md | posted 2026-09-12 | posted |
+| tarot-for-beginners.md | posted 2026-09-12 | posted |
 | pendulum-dowsing-for-beginners.md | posted | posted |
-| crystals-for-beginners.md | posted | not posted |
-| magical-herbs-for-beginners.md | posted | not posted |
+| crystals-for-beginners.md | posted | posted 2026-09-12 |
+| magical-herbs-for-beginners.md | posted | posted 2026-09-12 |
 | meditation-for-beginners.md | posted | posted |
 | manifestation-law-of-attraction-for-beginners.md | posted | posted |
 | moon-phases-lunar-rituals-for-beginners.md | posted | posted |
+
+All 11 Clarity articles now have full Threads coverage (opinion + linked,
+22/22 slots). Topic tag used for all five 2026-09-12 posts: **Metaphysics**
+(except Human Design 101, which used the existing **HumanDesign** topic).
 
 ## How this fits the process for new articles/products
 
