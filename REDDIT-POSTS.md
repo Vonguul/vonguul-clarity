@@ -30,6 +30,8 @@ Reddit presence starts fresh from this file.
 |---|---|---|---|
 | r/tarot | "Why does my new tarot deck feel completely inaccurate compared to my RWS?" | comment | no |
 | r/LucidDreaming | "Best books about lucid dreaming?" | comment | no (see note below) |
+| r/tarot | "What to do if a random stranger unconsensually 'did a reading' for you and said you're cooked?" (skeptic anxious about an unsolicited Tower pull) | comment | no |
+| r/AstralProjection | "I'm excited" (beginner describing vibrations/floating/numbness, asking "did I open my third eye? How do I leave my body?") | comment | no |
 
 **r/LucidDreaming note:** this sub's rules explicitly state "No advertising is
 permitted. Some self promotion is ok within reason and we'll be assessed on
@@ -61,3 +63,12 @@ building genuine, non-promotional comment history across the sub-set above
 link only once a subreddit's own rules clearly allow it (e.g. an actual
 r/tarot megathread, or a Sunday post in r/Crystals) — don't retrofit a link
 onto any comment already posted.
+
+## New activity (2026-09-13 session)
+
+Both new comments were genuine questions with no clean product tie-in — a
+tarot-etiquette/anxiety question and a beginner OBE technique question —
+so both stayed no-link, consistent with the decision above. r/AstralProjection's
+own rules list "advertising" as reportable alongside spam, so links there stay
+treated as high-risk regardless of fit; r/tarot's megathread-only promotional
+rule still hasn't been revisited.
