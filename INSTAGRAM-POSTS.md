@@ -66,6 +66,13 @@ posting — real account, real followers, same rule as Threads.
 | crystals-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-07 Pin 1 copy/title) |
 | magical-herbs-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-08 Pin 1 copy/title) |
 | meditation-for-beginners.md | posted 2026-09-08 (reused PIN-BATCH-09 Pin 1 copy/title) |
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-09-13 (reused PIN-BATCH-10 Pin 1 copy/title) |
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-09-13 (reused PIN-BATCH-11 Pin 2 copy/title) |
+
+All 11 Clarity articles now have Instagram feed coverage. See vonguul-picks'
+`INSTAGRAM-POSTS.md` for the 2026-09-13 upload-method note (direct file-input
+upload works for Instagram's post composer; product images must be
+same-origin with the canvas-render page to avoid a tainted-canvas error).
 
 ## How to apply for new articles
 
