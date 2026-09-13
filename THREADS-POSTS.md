@@ -46,9 +46,25 @@ across multiple posting sessions like the Pinterest batches are.
 | manifestation-law-of-attraction-for-beginners.md | posted | posted |
 | moon-phases-lunar-rituals-for-beginners.md | posted | posted |
 
-All 11 Clarity articles now have full Threads coverage (opinion + linked,
+All 11 original Clarity articles have full Threads coverage (opinion + linked,
 22/22 slots). Topic tag used for all five 2026-09-12 posts: **Metaphysics**
 (except Human Design 101, which used the existing **HumanDesign** topic).
+
+## New activity (2026-09-13) — first Threads posts for the new-article batches
+
+| Article | Threads post | Topic |
+|---|---|---|
+| astrology-for-beginners.md | posted | Metaphysics |
+| sage-smudging-energy-cleansing.md | posted | Metaphysics |
+| numerology-for-beginners.md | posted | Metaphysics |
+| sound-healing-singing-bowls-for-beginners.md | posted | Metaphysics |
+
+One post each (not yet the full opinion+linked pair this tracker's earlier
+rows use) — first Threads coverage for 4 of the 14 new articles from this
+week's research batches. 10 new articles remain: feng-shui-basics,
+reiki-self-healing, oracle-cards, shadow-work-journaling, i-ching,
+akashic-records, sacred-geometry, candle-magic, aura-reading-cleansing,
+plus a second (linked) post for each of the four above.
 
 ## How this fits the process for new articles/products
 
