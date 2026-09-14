@@ -36,3 +36,5 @@
 - [x] Board created in Pinterest ("Feng Shui Basics" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (little-book-fengshui-1.jpg, move-your-stuff-fengshui-book-1.jpg, bagua-mirror-1.jpg)
 - [x] Pins posted (batch 16 - Feng Shui Basics, all 3 variants confirmed live, tagged with ?src=pinterest)
+
+*(Note: an earlier automated draft of this batch used different pin copy — superseded by the titles/descriptions above, which are what's actually live on Pinterest.)*

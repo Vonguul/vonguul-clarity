@@ -36,6 +36,11 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 18 | sage-smudging-energy-cleansing.md | Sage Smudging & Energy Cleansing | created | posted |
 | 19 | shadow-work-journaling-for-beginners.md | Shadow Work Journaling | created | posted |
 | 20 | sound-healing-singing-bowls-for-beginners.md | Sound Healing & Singing Bowls | created | posted |
+| 21 | akashic-records-for-beginners.md | Akashic Records | not created | not drafted |
+| 22 | aura-reading-cleansing-for-beginners.md | Aura Reading & Cleansing | not created | not drafted |
+| 23 | candle-magic-for-beginners.md | Candle Magic | not created | not drafted |
+| 24 | i-ching-for-beginners.md | I Ching | not created | not drafted |
+| 25 | sacred-geometry-for-beginners.md | Sacred Geometry | not created | not drafted |
 
 ## How the daily routine uses this file
 
