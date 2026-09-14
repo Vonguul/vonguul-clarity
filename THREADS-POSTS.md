@@ -58,13 +58,16 @@ All 11 original Clarity articles have full Threads coverage (opinion + linked,
 | sage-smudging-energy-cleansing.md | posted | Metaphysics |
 | numerology-for-beginners.md | posted | Metaphysics |
 | sound-healing-singing-bowls-for-beginners.md | posted | Metaphysics |
+| feng-shui-basics-for-beginners.md | posted | Metaphysics |
+| reiki-self-healing-for-beginners.md | posted | Metaphysics |
+| oracle-cards-for-beginners.md | posted | Metaphysics |
+| shadow-work-journaling-for-beginners.md | posted | Metaphysics |
 
 One post each (not yet the full opinion+linked pair this tracker's earlier
-rows use) — first Threads coverage for 4 of the 14 new articles from this
-week's research batches. 10 new articles remain: feng-shui-basics,
-reiki-self-healing, oracle-cards, shadow-work-journaling, i-ching,
-akashic-records, sacred-geometry, candle-magic, aura-reading-cleansing,
-plus a second (linked) post for each of the four above.
+rows use) — first Threads coverage for 8 of the 14 new articles from this
+week's research batches. 6 new articles remain: i-ching, akashic-records,
+sacred-geometry, candle-magic, aura-reading-cleansing, runes-for-beginners,
+plus a second (linked) post for each of the eight above.
 
 ## How this fits the process for new articles/products
 

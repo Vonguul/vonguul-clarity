@@ -79,11 +79,14 @@ tainted-canvas error).
 | sage-smudging-energy-cleansing.md | posted 2026-09-13 |
 | numerology-for-beginners.md | posted 2026-09-13 |
 | sound-healing-singing-bowls-for-beginners.md | posted 2026-09-13 |
+| feng-shui-basics-for-beginners.md | posted 2026-09-14 |
+| reiki-self-healing-for-beginners.md | posted 2026-09-14 |
+| oracle-cards-for-beginners.md | posted 2026-09-14 |
+| shadow-work-journaling-for-beginners.md | posted 2026-09-14 |
 
-4 of the 14 new articles from this week's research batches now have
-Instagram feed coverage too. 10 new articles remain: feng-shui-basics,
-reiki-self-healing, oracle-cards, shadow-work-journaling, i-ching,
-akashic-records, sacred-geometry, candle-magic, aura-reading-cleansing.
+8 of the 14 new articles from this week's research batches now have
+Instagram feed coverage too. 6 new articles remain: i-ching, akashic-records,
+sacred-geometry, candle-magic, aura-reading-cleansing, runes-for-beginners.
 
 ## How to apply for new articles
 
