@@ -32,7 +32,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 14 | numerology-for-beginners.md | Numerology for Beginners | created | posted |
 | 15 | oracle-cards-for-beginners.md | Oracle Cards | created | posted |
 | 16 | reiki-self-healing-for-beginners.md | Reiki & Energy Healing | created | posted |
-| 17 | runes-for-beginners.md | Runes for Beginners | not created | not drafted |
+| 17 | runes-for-beginners.md | Runes for Beginners | not created | drafted |
 | 18 | sage-smudging-energy-cleansing.md | Sage Smudging & Energy Cleansing | created | posted |
 | 19 | shadow-work-journaling-for-beginners.md | Shadow Work Journaling | created | posted |
 | 20 | sound-healing-singing-bowls-for-beginners.md | Sound Healing & Singing Bowls | created | posted |
