@@ -22,6 +22,10 @@ just a different destination URL per article. Not duplicating it here.
 | crystals-for-beginners.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
 | magical-herbs-for-beginners.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
 | meditation-for-beginners.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
+| feng-shui-basics-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-16 Story, same-day follow-up to the feed post. Confirmed Instagram-only via checkbox-zoom. |
+| reiki-self-healing-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-17 Story. Confirmed Instagram-only. |
+| oracle-cards-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-18 Story. Confirmed Instagram-only. |
+| shadow-work-journaling-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-19 Story. Confirmed Instagram-only. |
 
 ## Evidence
 
