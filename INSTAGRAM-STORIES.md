@@ -52,3 +52,10 @@ just a different destination URL per article. Not duplicating it here.
   vonguul-picks' checkbox-zoom method (the "Share to" list defaults to both
   the Facebook Page and Instagram checked every time the composer opens; see
   that file's "Checkbox gotcha" note).
+- 2026-09-17: Analytics re-check (7-day Vercel window, checked immediately
+  after posting the runes/akashic-records/aura-reading/candle-magic Stories):
+  16 visitors (-59% WoW), 2 referred via `l.instagram.com`. Also 6 from
+  facebook.com + 2 from m.facebook.com — consistent with the 2026-09-11
+  finding, still treated as referrer spam and not counted (Clarity has no
+  Facebook presence). This window reflects Story batches through Sep 15 —
+  too soon for the batch just posted to register. Re-check in a few days.
