@@ -39,7 +39,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 21 | akashic-records-for-beginners.md | Akashic Records | created | posted |
 | 22 | aura-reading-cleansing-for-beginners.md | Aura Reading & Cleansing | created | posted |
 | 23 | candle-magic-for-beginners.md | Candle Magic | created | posted |
-| 24 | i-ching-for-beginners.md | I Ching | not created | not drafted |
+| 24 | i-ching-for-beginners.md | I Ching | not created | drafted |
 | 25 | sacred-geometry-for-beginners.md | Sacred Geometry | not created | not drafted |
 
 ## How the daily routine uses this file
