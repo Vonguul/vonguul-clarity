@@ -26,6 +26,10 @@ just a different destination URL per article. Not duplicating it here.
 | reiki-self-healing-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-17 Story. Confirmed Instagram-only. |
 | oracle-cards-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-18 Story. Confirmed Instagram-only. |
 | shadow-work-journaling-for-beginners.md | posted 2026-09-15 | "See full breakdown" | PIN-BATCH-19 Story. Confirmed Instagram-only. |
+| runes-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-20 Story, same-day follow-up to the feed post. Confirmed Instagram-only. |
+| akashic-records-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-21 Story. Confirmed Instagram-only. |
+| aura-reading-cleansing-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-22 Story. Confirmed Instagram-only. |
+| candle-magic-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-23 Story, last of this batch. Confirmed Instagram-only. |
 
 ## Evidence
 
