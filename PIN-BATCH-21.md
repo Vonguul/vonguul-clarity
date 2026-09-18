@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Akashic Records" board)
+- [x] Board created in Pinterest ("Akashic Records" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (akashic-beginners-guide-1.jpg, akashic-radical-approach-1.jpg, akashic-unveil-guide-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted

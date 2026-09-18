@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Aura Reading & Cleansing" board)
+- [x] Board created in Pinterest ("Aura Reading & Cleansing" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (whats-my-aura-book-1.jpg, how-to-see-read-aura-book-1.jpg, angelaura-quartz-wand-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted

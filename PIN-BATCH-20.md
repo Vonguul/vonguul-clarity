@@ -33,6 +33,6 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Runes for Beginners" board)
+- [x] Board created in Pinterest ("Runes for Beginners" board)
 - [x] Pin images sourced — product shots from `public/images/products/` (runes-for-beginners-book-1.jpg, viking-rune-stone-set-1.jpg, lapislazuli-rune-stones-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted
