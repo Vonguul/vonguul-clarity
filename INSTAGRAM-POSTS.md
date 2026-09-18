@@ -83,10 +83,13 @@ tainted-canvas error).
 | reiki-self-healing-for-beginners.md | posted 2026-09-14 |
 | oracle-cards-for-beginners.md | posted 2026-09-14 |
 | shadow-work-journaling-for-beginners.md | posted 2026-09-14 |
+| runes-for-beginners.md | posted 2026-09-17 |
+| akashic-records-for-beginners.md | posted 2026-09-17 |
+| aura-reading-cleansing-for-beginners.md | posted 2026-09-17 |
+| candle-magic-for-beginners.md | posted 2026-09-17 |
 
-8 of the 14 new articles from this week's research batches now have
-Instagram feed coverage too. 6 new articles remain: i-ching, akashic-records,
-sacred-geometry, candle-magic, aura-reading-cleansing, runes-for-beginners.
+12 of the 14 new articles from this week's research batches now have
+Instagram feed coverage too. 2 new articles remain: i-ching, sacred-geometry.
 
 ## How to apply for new articles
 
