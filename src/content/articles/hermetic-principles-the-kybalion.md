@@ -1,6 +1,6 @@
 ---
 title: "The 7 Hermetic Principles: What The Kybalion Actually Says"
-description: "A plain explanation of the seven Hermetic principles from The Kybalion, and which edition to actually read."
+description: "A plain explanation of the seven Hermetic principles from The Kybalion, which edition to actually read, and the older Hermetic texts it borrows its name from."
 pubDate: 2026-09-01
 heroImage: "/images/products/kybalion-centenary-1.jpg"
 category: "Hermetic Principles"
@@ -17,6 +17,14 @@ products:
     asin: "B0FCYFVPD2"
     image: "/images/products/kybalion-emerald-tablets-1.jpg"
     note: "A compilation pairing the Kybalion with two other classic Hermetic texts — useful once the core 7 principles make sense and you want the wider tradition they came from."
+  - name: "Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius — Brian P. Copenhaver"
+    asin: "0521425433"
+    image: "/images/products/copenhaver-hermetica-1.jpg"
+    note: "The scholarly route to what the actual ancient Hermetic texts say, in a new English translation with notes and an introduction. These are the late-antique writings the Kybalion's 1908 authors were drawing their name from, and reading them is the fastest way to see how different the two are. It's the priciest book on this page and the least casual."
+  - name: "The Way of Hermes — Clement Salaman, Dorine van Oyen, William Wharton, Jean-Pierre Mahé"
+    asin: "0892811862"
+    image: "/images/products/way-of-hermes-1.jpg"
+    note: "A more accessible translation of the Corpus Hermeticum, with the first English translation of the Definitions of Hermes Trismegistus to Asclepius. Written for both scholars and religious seekers, so it reads more like a spiritual text than a scholarly edition. Pick this one over Copenhaver if you want the primary texts without the apparatus."
 ---
 
 The Kybalion is a short 1908 text, published anonymously under the name "Three Initiates," that lays out seven principles it claims summarize Hermetic philosophy — a tradition tracing back (at least in name) to the legendary figure Hermes Trismegistus. It's short enough to read in an afternoon, which is part of why it's become the default entry point into Hermeticism for most people, whether or not that's historically accurate to the actual ancient tradition.
@@ -34,6 +42,10 @@ The Kybalion is a short 1908 text, published anonymously under the name "Three I
 ## Worth being direct about
 
 The Kybalion presents itself as an ancient teaching, but there's no evidence it predates its actual 1908 publication — most historians treat it as an early-20th-century New Thought synthesis wearing older packaging, not a literal transcription of ancient Hermetic doctrine. That doesn't make the ideas worthless; it means engaging with it as a philosophical framework someone can test against their own experience, rather than as a historical document whose authority rests on its claimed age.
+
+## The older texts are a separate reading list
+
+The seven principles come from the Kybalion, but the Hermetic writings themselves, the Corpus Hermeticum and the Asclepius, are a different and much older body of work from late antiquity. They don't contain the seven-principle framework in the Kybalion's form. If the framework interests you, the Kybalion is enough. If the tradition interests you, read the older texts in a proper translation and compare them to the 1908 book yourself.
 
 ## Which edition actually matters
 
