@@ -25,6 +25,14 @@ products:
     asin: "1465464131"
     image: "/images/products/astrology-wisdom-stars-book-1.jpg"
     note: "A denser reference for once the basics are familiar — houses, aspects, and planetary placements beyond the big three, the material that makes a chart reading feel genuinely personal instead of generic."
+  - name: "Astrology for Yourself — Demetra George & Douglas Bloch"
+    asin: "0892541229"
+    image: "/images/products/george-astrology-for-yourself-1.jpg"
+    note: "Teaches you to interpret your own birth chart through self-directed exercises, rather than handing you a list of meanings. It's the best fit here if you want to learn the method instead of consulting a reference. Expect to work through it, not read it in an evening."
+  - name: "The Only Astrology Book You'll Ever Need — Joanna Martine Woolfolk (Kindle Edition)"
+    asin: "B00578T33K"
+    image: "/images/products/woolfolk-only-astrology-book-1.jpg"
+    note: "A long-selling general guide covering the history, legend, and practice of astrology, with planetary tables so you can find your own placements. It's the broad companion to the workbook-style titles above. This is the Kindle edition."
 ---
 
 Most people's entire astrology knowledge is their sun sign, which is really just one placement out of a dozen or more a real birth chart contains. Before buying anything, get your actual free chart using the resource above — it needs your exact birth date, time, and location, and gives you the real placements a book is actually going to reference.
@@ -36,6 +44,10 @@ A sun sign describes a broad personality theme, but a full birth chart also incl
 ## Read your own chart, don't just look up meanings
 
 Once you have your real chart from the free calculator, the more useful next step is working through what your specific combination of sun, moon, and rising signs means together — three signs interacting is a genuinely different reading than looking each one up separately. A guided workbook is built around doing exactly that with your own numbers.
+
+## Worth being direct about
+
+Controlled studies of astrological predictions haven't shown that birth charts predict personality or events better than chance. Its lasting appeal is as a structured vocabulary for self-reflection, something to think with, not something to plan your life around. The books here are best read in that spirit, and a method-teaching book makes that easier to see because you can watch how chart placements are being turned into meanings.
 
 ## Houses and aspects come after the big three
 

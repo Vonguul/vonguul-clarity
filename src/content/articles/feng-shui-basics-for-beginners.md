@@ -21,6 +21,10 @@ products:
     asin: "B0FPQM1161"
     image: "/images/products/bagua-mirror-1.jpg"
     note: "The most commonly referenced physical 'cure' in feng shui — a small convex mirror traditionally placed above an entry door, meant to deflect negative energy before it enters the home."
+  - name: "Western Guide to Feng Shui — Terah Kathryn Collins"
+    asin: "1561703249"
+    image: "/images/products/collins-western-guide-fengshui-1.jpg"
+    note: "A well-reviewed beginner introduction written for Western readers, presenting the practice as something to apply in an ordinary home. It's a second voice alongside the two books above, so you can see which advice recurs across authors and which is one writer's preference. The listing showed only a few copies left."
 ---
 
 Feng shui is the practice of arranging a home's layout and objects to support the flow of energy (chi) through the space — a genuinely old Chinese system, not just a modern decorating trend, though it gets treated as one often. There are actually two common approaches to learning it, and most beginner confusion comes from mixing them up without realizing it.
@@ -36,6 +40,10 @@ The second approach overlays a nine-section grid (the bagua map) onto a home's f
 ## The bagua mirror is the one "cure" almost every beginner asks about
 
 Among the various objects and adjustments feng shui recommends, a small convex mirror placed above a front door specifically to deflect negative energy is probably the single most commonly cited "cure" in beginner content — worth knowing what it actually is before assuming it's just a Chinese-style decorative mirror.
+
+## Worth being direct about
+
+There's no controlled evidence that arranging furniture changes a person's luck, wealth, or relationships, and the energy flow feng shui describes can't be measured. What is real is that a tidier, better-lit, less cluttered room is more pleasant to live in. Most of the practical advice in these books, such as clearing an entryway or giving a bed a clear view of the door, works on that level. Read it as a set of design habits with a philosophy attached.
 
 ## Don't skip straight to a compass reading
 

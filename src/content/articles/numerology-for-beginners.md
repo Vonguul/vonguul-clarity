@@ -1,6 +1,6 @@
 ---
 title: "Numerology for Beginners: Where to Actually Start"
-description: "Calculate your life path number for free first, then which books are actually worth buying if the system clicks for you — one plain-language intro, one workbook, and one deeper reference."
+description: "Calculate your life path number for free first, then which books are actually worth buying if the system clicks for you — one plain-language intro, one workbook, and two deeper references."
 pubDate: 2026-09-13
 heroImage: "/images/products/beginners-guide-numerology-book-1.jpg"
 category: "Numerology"
@@ -25,6 +25,10 @@ products:
     asin: "140190727X"
     image: "/images/products/complete-book-numerology-1.jpg"
     note: "For once the basics feel familiar — a denser reference covering master numbers, karmic debt numbers, and compatibility, the material a beginner book intentionally leaves out."
+  - name: "Numerology: A Complete Guide to Understanding and Using Your Numbers of Destiny — Hans Decoz"
+    asin: "039952732X"
+    image: "/images/products/decoz-numerology-1.jpg"
+    note: "A well-reviewed modern guide, published under the Key to Your Inner Self title, that walks through the numbers of a name and birth date in detail. It's a good second book if the beginner guide made sense and you want one author's full method. Like the others here, it describes a symbolic system, not a measurable one."
 ---
 
 Numerology reduces a birth date and a full name down to a small set of core numbers, each with an established meaning — the same basic idea as astrology's sun sign, but built entirely from numbers instead of planetary positions. The free calculator above gives you your life path number, the single most important one in the system, before you spend anything finding out whether this actually interests you.
@@ -40,6 +44,10 @@ Life path is only one of several core numbers — expression, soul urge, and per
 ## Do the math yourself once
 
 Online calculators are fast, but actually working through the reduction method by hand once — turning a birth date or name into its digits and reducing them down — is what makes the system feel like something you understand rather than something a website told you. A guided workbook is built specifically for that first hands-on pass.
+
+## Worth being direct about
+
+Numerology assigns meaning to numbers by convention, and there's no evidence that a life path number predicts anything about a person. Different authors also disagree on how to convert letters to numbers and which numbers count. If it interests you, treat it as a tool for reflection and check more than one source before deciding what a number means for you.
 
 ## Master numbers and karmic debt come later
 

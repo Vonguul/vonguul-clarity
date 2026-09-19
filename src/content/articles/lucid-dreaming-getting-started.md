@@ -25,6 +25,10 @@ products:
     asin: "1729489176"
     image: "/images/products/lucid-dreaming-journal-1.jpg"
     note: "Dream recall is the actual bottleneck for most beginners — you can't work with dreams you don't remember. A dedicated journal by the bed, used the moment you wake up, does more for that than any technique."
+  - name: "Llewellyn's Complete Book of Lucid Dreaming — Clare R. R. Johnson (Kindle Edition)"
+    asin: "B01N5RVXTF"
+    image: "/images/products/johnson-llewellyns-lucid-dreaming-1.jpg"
+    note: "A broad, practical guide to techniques and uses for lucid dreaming, and a good third book after LaBerge and Waggoner because it covers more ground than either. Its subtitle promises health and wellness benefits, which go beyond what the sleep-lab research showed, so read it for the technique. This is the Kindle edition."
 ---
 
 Most lucid dreaming advice online skips straight to exotic induction methods without mentioning the two things that actually determine whether any of them work: dream recall, and reality checks done consistently enough to become an unconscious habit.
@@ -40,6 +44,10 @@ If you can't remember your dreams, you have nothing to work with — no way to n
 ## Why LaBerge's book specifically
 
 A lot of lucid dreaming material is speculative or purely anecdotal. LaBerge's isn't — he ran actual sleep-lab research proving lucid dreams occur during verifiable REM sleep, using pre-arranged eye movements to signal from inside the dream. That background is exactly why *Exploring the World of Lucid Dreaming* is the right place to start: the techniques it teaches came out of research, not just personal impressions of what seemed to work.
+
+## Take the health claims separately from the technique
+
+The sleep-lab evidence behind lucid dreaming is about the phenomenon itself: it happens, it occurs in REM sleep, and people can learn to trigger it. Claims that it treats nightmares, boosts creativity, or improves wellbeing are less firmly established. Books that cover both are worth reading for the technique chapters, with the broader promises held to a lower standard of proof.
 
 ## Once you're getting lucid reliably
 
