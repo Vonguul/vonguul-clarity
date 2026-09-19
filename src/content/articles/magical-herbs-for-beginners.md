@@ -1,6 +1,6 @@
 ---
 title: "Magical Herbs for Beginners: What's Safe, What's Not, and What to Actually Buy"
-description: "Herbs are the one metaphysical practice on this site involving real plant chemistry — here's how to start safely, plus the reference book worth owning."
+description: "Herbs are the one metaphysical practice on this site involving real plant chemistry — here's how to start safely, plus the reference book, tools, and storage worth owning."
 pubDate: 2026-09-01
 heroImage: "/images/products/cunningham-magical-herbs-1.jpg"
 category: "Herbalism"
@@ -25,6 +25,14 @@ products:
     asin: "B0GQC73YX3"
     image: "/images/products/wyspell-dried-herbs-set-1.jpg"
     note: "For sachets, spell jars, and craft use — not labeled as food-grade, so don't use this specific product for tea or anything ingested. If you want herbal tea, buy actual culinary-grade herbs from a food retailer instead."
+  - name: "GORILLA GRIP Natural Granite Mortar and Pestle Set, 1.5 Cup"
+    asin: "B07MLTDNVD"
+    image: "/images/products/gorillagrip-mortar-pestle-1.jpg"
+    note: "For crushing dried herbs and resins into blends for sachets and incense. Unpolished granite with a non-scratch base grinds better than a smooth bowl. Given the craft-grade caveat above, keep this one for craft use only and don't reuse it for food prep."
+  - name: "LINGSHINE 8 oz Amber Glass Jars with Bamboo Lids, 6 Pack"
+    asin: "B0G4PKR69N"
+    image: "/images/products/lingshine-amber-jars-1.jpg"
+    note: "Six airtight jars with bamboo lids keep dried herbs separate and labelled, which matters more here than in most kitchens: the point is never confusing a craft herb with a culinary one. Buy the herbs first and label every jar."
 ---
 
 Herbs are different from everything else on this site: crystals, tarot, and pendulums don't have real physiological effects one way or another, but plants genuinely do. Some interact with medications, some are unsafe during pregnancy, and some are simply toxic if the wrong part is ingested. This is the one category here where "it's just for personal reflection" isn't a strong enough safety net on its own.
@@ -40,6 +48,10 @@ A bag of dried botanicals sold for "spell jars and candle making" is not the sam
 ## The white sage problem, and what to use instead
 
 Smoke cleansing with white sage has become hugely popular, and that popularity has a real cost: wild white sage in its native habitat has faced serious overharvesting pressure, and the specific practice of "smudging" carries real spiritual significance in specific Indigenous traditions that many practitioners have asked non-Native people not to appropriate. None of that means smoke cleansing itself is off-limits — rosemary, cedar, and other easily cultivated plants serve the same practical purpose without either the sustainability problem or the cultural one. It's a genuinely easy swap that costs nothing extra.
+
+## Keep craft tools and storage separate from the kitchen
+
+The same rule that separates craft-grade from food-grade herbs applies to the tools that touch them. A mortar used for crushing craft herbs shouldn't go back to grinding spices for dinner, and craft herbs are safest in their own labelled jars rather than sharing a shelf with culinary ones. It's a small habit, but it removes the most likely way someone ends up ingesting something never meant to be eaten.
 
 ## Where the folklore reference fits in
 

@@ -1,6 +1,6 @@
 ---
 title: "Oracle Cards for Beginners: How They're Different from Tarot"
-description: "What actually separates an oracle deck from a tarot deck, then three well-established decks that show how differently one 'oracle card' can work depending on the artist behind it."
+description: "What actually separates an oracle deck from a tarot deck, then five well-established decks that show how differently one 'oracle card' can work depending on the artist behind it."
 pubDate: 2026-09-13
 heroImage: "/images/products/workyourlight-oracle-1.jpg"
 category: "Oracle Cards"
@@ -21,6 +21,14 @@ products:
     asin: "0062742868"
     image: "/images/products/wildunknown-animalspirit-1.jpg"
     note: "A third distinct structure again — each card is a specific animal and its symbolic meaning, an animal-totem approach that's different from both a general-guidance deck and an archetype deck."
+  - name: "Moonology Oracle Cards — Yasmin Boland"
+    asin: "1781809968"
+    image: "/images/products/moonology-oracle-cards-1.jpg"
+    note: "A 44-card deck built around moon astrology rather than general advice, so the cards are tied to lunar cycles. It's a good fit if you already track the moon, and a narrower one if you don't, since the framework is part of how the deck is meant to be used."
+  - name: "Angels and Ancestors Oracle Cards — Kyle Gray"
+    asin: "1788170016"
+    image: "/images/products/angels-ancestors-oracle-1.jpg"
+    note: "A 55-card deck themed on angels and ancestors, with a guidebook. It leans on belief in spiritual guides more than the other decks here, so it suits you if that framing appeals, and can be used as a reflective prompt even if it doesn't."
 ---
 
 Oracle cards get lumped in with tarot constantly, but they're structurally a different thing. Tarot is a fixed 78-card system — the same Major and Minor Arcana structure no matter which deck you buy — while an oracle deck can have any number of cards, any theme, and any structure the creator wants. That flexibility is exactly why oracle decks vary so much from one to the next.
@@ -33,9 +41,9 @@ Because tarot always has the same 78 cards, its meanings are broadly consistent 
 
 Without 78 fixed meanings to learn, an oracle deck can be picked up and used meaningfully on day one, guided by its own included booklet rather than months of study. This is the real reason oracle cards are often recommended as a gentler starting point than tarot for someone new to card-based reflection.
 
-## The three decks above show the actual range
+## The decks above show the actual range
 
-A general-guidance deck, an archetype-based deck, and an animal-totem deck are three genuinely different structures within the same broad "oracle cards" label — which is worth seeing directly rather than assuming all oracle decks work the same way tarot does.
+A general-guidance deck, an archetype-based deck, an animal-totem deck, a moon-astrology deck, and an angels-and-ancestors deck are five genuinely different structures within the same broad "oracle cards" label — which is worth seeing directly rather than assuming all oracle decks work the same way tarot does.
 
 ## Pick based on what you actually want from a reading
 
