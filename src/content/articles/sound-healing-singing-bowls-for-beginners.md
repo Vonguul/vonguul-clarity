@@ -21,6 +21,10 @@ products:
     asin: "B0BVMNJ2QQ"
     image: "/images/products/chakra-tuning-forks-1.jpg"
     note: "A genuinely different tool, not an upgrade or downgrade from a bowl — each fork strikes one exact, calibrated frequency for targeted work on a specific area, instead of a bowl's broader ambient tone."
+  - name: "Fiada Singing Bowl Cushion Set, 7 Silk Rings & 3 Mallets"
+    asin: "B0CN93RBHG"
+    image: "/images/products/fiada-bowl-cushion-set-1.jpg"
+    note: "A bowl set on a hard table rattles and dampens its own tone. This set has seven silk brocade O-ring cushions in graduated sizes from 5.3 to 8.27 inches, plus three mallets, so a bowl sits on a ring that fits it. Match the ring to your bowl's base diameter before buying, since it's sold for 6-to-12-inch bowls."
 ---
 
 Sound healing isn't one practice — a singing bowl and a set of tuning forks work in different ways and get used for different purposes, and neither one replaces the other. A bowl produces a broad, ambient, sustained tone that fills a room and is meant to be listened to; a tuning fork produces one exact, narrow frequency that's meant to be applied more precisely, often close to or on the body.
@@ -36,6 +40,10 @@ A hand-hammered bowl has a more complex, layered tone than a machine-cast one �
 ## Tuning forks are a precision tool, not a bowl replacement
 
 Where a bowl fills a room with one broad tone, a calibrated tuning fork produces one specific, exact frequency associated with a particular area of focus — struck against an activator and then held near or on the body rather than just listened to from across a room. It's a genuinely different technique to learn, not a more advanced version of the same one.
+
+## What the bowl sits on changes what you hear
+
+A singing bowl needs to be free to vibrate, and setting it flat on a table or in your palm at the wrong angle deadens the tone. A cushion ring sized to the bowl's base holds it steady and lets it ring, and a softer mallet changes the sound as well. It's a small accessory, and for a beginner it's often the difference between a dull sound and a sustained one.
 
 ## Neither tool requires the other
 

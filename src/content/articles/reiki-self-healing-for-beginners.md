@@ -21,6 +21,10 @@ products:
     asin: "B0C5DRC7WV"
     image: "/images/products/reiki-crystal-wand-1.jpg"
     note: "A directional tool some practitioners use alongside hands-on technique — held and moved deliberately over an area rather than just resting a palm on it. Optional, not a substitute for learning actual hand positions."
+  - name: "The Original Reiki Handbook of Dr. Mikao Usui (Kindle Edition)"
+    asin: "B0026A6CD6"
+    image: "/images/products/usui-original-reiki-handbook-1.jpg"
+    note: "Presented as Usui's own treatment positions, translated into English for the first time, which the publisher describes as letting you study the founder's techniques directly. How much of Reiki's origin story can be verified is debated among historians, so read it as a primary source for a tradition, not as proof of what the tradition claims. This is the Kindle edition."
 ---
 
 Reiki is a Japanese energy-healing practice built around channeling energy through the practitioner's hands, traditionally taught in a formal three-level system (Level I, Level II, and Master/Teacher) through an in-person or verified remote attunement. That's worth knowing upfront: a book teaches you the theory and hand positions, but a real Reiki "attunement" — the piece that traditionally transfers the ability to channel energy — comes from a certified teacher, not a product page.
@@ -32,6 +36,10 @@ Even without a formal attunement, the self-healing hand positions themselves —
 ## Understand the levels before committing to one
 
 Level I traditionally focuses on self-healing and hands-on practice for others, Level II introduces symbols and distance healing, and Master/Teacher level is for those planning to attune others themselves. Knowing this structure ahead of time means you can find a teacher offering the specific level you're actually looking for, rather than committing to a class without knowing what it covers.
+
+## Read a primary source alongside the modern guides
+
+Most Reiki books are modern teaching guides, and the practice's history is told in a few different ways. A book presented as the founder's own handbook lets you compare the hand positions in it with the ones in a modern guide. That helps you see what's a fixed part of the tradition and what's a teacher's later addition. As always here, there's no controlled evidence that Reiki treats any condition, so treat it as a relaxation and attention practice.
 
 ## A crystal wand is a genuine optional extra, not a requirement
 
