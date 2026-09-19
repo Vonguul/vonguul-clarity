@@ -21,6 +21,10 @@ products:
     asin: "1786786516"
     image: "/images/products/iching-ultimate-guide-1.jpg"
     note: "A practical companion to the classic translation above — walks through the actual coin-tossing method and hexagram-building process step by step, for when the primary text alone feels dense."
+  - name: "The Complete I Ching, 10th Anniversary Edition — Alfred Huang"
+    asin: "1594773866"
+    image: "/images/products/huang-complete-iching-1.jpg"
+    note: "A second translation, by a Chinese Taoist master, that includes translations of the Ten Wings, the classical commentaries. Read it after Wilhelm/Baynes rather than instead of it: comparing the two on the same hexagram shows how much translators shape what the text seems to say."
 ---
 
 The I Ching (Book of Changes) is an ancient Chinese divination text built around 64 hexagrams — six-line figures, each with its own meaning, built by tossing three coins six times in a row and recording whether each toss lands heads-heavy or tails-heavy. It's one of the oldest continuously used divination systems in the world, and the actual coin-tossing mechanic is simpler than the philosophy built around it makes it seem.
@@ -36,6 +40,10 @@ Three coins are tossed together six times. Each toss produces one line of the he
 ## A physical coin set changes the practice
 
 Apps that generate a random hexagram skip the actual coin-tossing ritual, which is arguably the more meaningful part of the practice — the deliberate, repeated physical action of the toss, not just the resulting answer. A real set of coins makes the process something you do, not just a result you look up.
+
+## A second translation shows how much interpretation is involved
+
+The I Ching is a very old text, translated into English by people working from different traditions. Reading a second translation of the same hexagram next to the first is an easy way to see how much of a "meaning" comes from the translator. It's a useful check on any single source, this one included.
 
 ## Use a step-by-step guide alongside the classic text, not instead of it
 
