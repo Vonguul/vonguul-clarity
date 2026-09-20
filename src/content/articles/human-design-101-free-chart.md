@@ -29,6 +29,14 @@ products:
     asin: "B0BM3NHDD1"
     image: "/images/products/human-design-journal-mg-1.jpg"
     note: "This edition is for Manifesting Generators — the series covers all 5 Types, so search 'Human Design Journal' plus your specific Type once you know it from the free chart. Buying the wrong Type's journal defeats the point."
+  - name: "Human Design: Discover the Person You Were Born to Be — Chetan Parkyn"
+    asin: "1577319419"
+    image: "/images/products/parkyn-human-design-book-1.jpg"
+    note: "A general introduction to the system, in a 304-page paperback from New World Library, with 4.7 stars across about 1,200 reviews. It's a fuller read than the Kindle-priced options above. The listing promises a clear picture of your ideal life partner and career, which is more than a self-reflection framework can deliver."
+  - name: "How Do You Choose? — Erin Claire Jones"
+    asin: "0063412772"
+    image: "/images/products/jones-how-do-you-choose-1.jpg"
+    note: "A recent hardcover from HarperOne that applies Human Design to decisions about work and relationships. It's a mainstream, readable take with a smaller review base (about 130) than the older books here. The listing calls the insights 'mind-blowingly accurate,' and that's marketing, not evidence, so use it as a set of prompts for thinking about your choices."
 ---
 
 Before anything else: get your actual chart. Everything past this point only makes sense once you know your Type, Strategy, and Authority — buying a book or journal before that is buying instructions for a system you haven't looked up yet.
@@ -46,3 +54,11 @@ Every book and journal in this space is written around the five Types — a Proj
 ## What to actually read, once you know your Type
 
 Start cheap. A $0.99 Kindle book that explains your specific Type well is worth more right now than a $50 reference text you're not ready for yet. Work up from there only if the topic keeps being useful to you — there's no requirement to buy every book in this space to get value from the system.
+
+## Judge the books by how they treat the claims
+
+Human Design books vary a lot in how they describe their own accuracy. Some present the system as a framework you can test against your own experience, and others promise precise answers about your partner, your career, or your fate. The first kind is worth reading. With the second, treat the specifics as prompts, and give more weight to decisions you've checked against real evidence. A chart can suggest a question; it can't answer it.
+
+## A test you can run yourself
+
+If you want to know whether your Strategy and Authority are useful, try them for a few weeks on small decisions and keep a log. Note what you decided, what happened, and how you felt about it. A record like that says more about whether the system fits you than any book will, and you can stop the moment it stops helping.
