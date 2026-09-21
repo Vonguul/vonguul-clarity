@@ -1,5 +1,23 @@
 # Vonguul Clarity — Pin Refresh List (drafted 2026-09-19)
 
+## STATUS (2026-09-21)
+
+**First slice done: the top 7 fresh pins are scheduled on @vonguulian** (all link with `?src=pinterest`, 5/day pace):
+
+| Article | Slot | Topic tag |
+|---|---|---|
+| tarot-for-beginners | Tue 9/22 9:00 AM | Tarot Cards |
+| astrology-for-beginners | Tue 9/22 12:00 PM | Zodiac Signs |
+| meditation-for-beginners | Tue 9/22 3:00 PM | Meditation Room |
+| crystals-for-beginners | Tue 9/22 6:00 PM | Crystals |
+| manifestation-law-of-attraction-for-beginners | Tue 9/22 8:00 PM | Self Help Book |
+| moon-phases-lunar-rituals-for-beginners | Wed 9/23 9:00 AM | Moon Phases |
+| numerology-for-beginners | Wed 9/23 12:00 PM | Spirituality Book |
+
+Copy is as drafted below. Remaining 16 entries (oracle cards onward) are not started. Pinterest has no topic tag for
+"manifestation" or "numerology", so those two use the closest fit; scheduled pins cannot have tags edited afterward.
+Switching from the Picks account to @vonguulian is done from the account menu ("Your accounts" > Vonguul Clarity).
+
 **Short version: nothing here is stale, so nothing needs editing.** Clarity article titles have no
 numbers, and none of the 25 `PIN-BATCH` drafts, Instagram, Threads, X or Reddit drafts state an article count
 (checked by search). Product-expansion batches 1-7 added verified products and new sections to 23 Clarity
