@@ -24,6 +24,21 @@
 | astral-projection-getting-started | Thu 9/24 9:00 AM | Astral Projection | Astral Projection |
 | sage-smudging-energy-cleansing | Thu 9/24 12:00 PM | Energy Cleansing | Spirituality |
 
+**Third slice (2026-09-21): 5 more scheduled on @vonguulian** (17 of 23 done):
+
+| Article | Slot | Board | Topic tag |
+|---|---|---|---|
+| human-design-101-free-chart | Thu 9/24 3:00 PM | Human Design for Beginners | Spirituality Book |
+| feng-shui-basics-for-beginners | Thu 9/24 6:00 PM | Feng Shui Basics | Feng Shui |
+| aura-reading-cleansing-for-beginners | Thu 9/24 8:00 PM | Aura Reading & Cleansing | Aura |
+| candle-magic-for-beginners | Fri 9/25 9:00 AM | Candle Magic | Candle Snuffers |
+| magical-herbs-for-beginners | Fri 9/25 12:00 PM | Magical Herbs & Correspondences | Herbs |
+
+Notes: the feng shui pin drops the draft's "Only a few copies were left when checked" sentence (a point-in-time stock claim that
+would go stale on an evergreen pin; the article itself still carries a similar line worth revisiting). The herbs pin uses the
+mortar-and-pestle product photo, which shows guacamole in the bowl. 9/24 is full; 9/25 has 2 of 5 slots used (3 PM, 6 PM, 8 PM free).
+Remaining 6 entries: runes, shadow work, hermetic, akashic, reiki, sound healing.
+
 **Board-name mismatch:** the sage smudging board on Pinterest is called "Energy Cleansing", not "Sage Smudging & Energy
 Cleansing" as PINTEREST-BOARDS.md and the entries below say. Check each remaining entry's board name against the real
 account before scheduling (search the board picker; do not trust this file).
