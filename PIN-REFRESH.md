@@ -14,8 +14,23 @@
 | moon-phases-lunar-rituals-for-beginners | Wed 9/23 9:00 AM | Moon Phases |
 | numerology-for-beginners | Wed 9/23 12:00 PM | Spirituality Book |
 
-Copy is as drafted below. Remaining 16 entries (oracle cards onward) are not started. Pinterest has no topic tag for
-"manifestation" or "numerology", so those two use the closest fit; scheduled pins cannot have tags edited afterward.
+**Second slice (2026-09-21): 5 more scheduled on @vonguulian** (12 of 23 done):
+
+| Article | Slot | Board | Topic tag |
+|---|---|---|---|
+| oracle-cards-for-beginners | Wed 9/23 3:00 PM | Oracle Cards | Tarot Cards |
+| lucid-dreaming-getting-started | Wed 9/23 6:00 PM | Lucid Dreaming | Sleep |
+| pendulum-dowsing-for-beginners | Wed 9/23 8:00 PM | Pendulum Dowsing | Spirituality |
+| astral-projection-getting-started | Thu 9/24 9:00 AM | Astral Projection | Astral Projection |
+| sage-smudging-energy-cleansing | Thu 9/24 12:00 PM | Energy Cleansing | Spirituality |
+
+**Board-name mismatch:** the sage smudging board on Pinterest is called "Energy Cleansing", not "Sage Smudging & Energy
+Cleansing" as PINTEREST-BOARDS.md and the entries below say. Check each remaining entry's board name against the real
+account before scheduling (search the board picker; do not trust this file).
+
+Copy is as drafted below. Remaining 11 entries (human design onward) are not started. Pinterest has no topic tag for
+"manifestation", "numerology", "oracle cards", "lucid dreaming" or "pendulum", so those use the closest fit; scheduled pins
+cannot have tags edited afterward. 9/23 is full (5), 9/24 has 2 of 5 slots used (3 PM, 6 PM, 8 PM free).
 Switching from the Picks account to @vonguulian is done from the account menu ("Your accounts" > Vonguul Clarity).
 
 **Short version: nothing here is stale, so nothing needs editing.** Clarity article titles have no
