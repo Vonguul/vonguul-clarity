@@ -91,6 +91,16 @@ tainted-canvas error).
 12 of the 14 new articles from this week's research batches now have
 Instagram feed coverage too. 2 new articles remain: i-ching, sacred-geometry.
 
+## Status update (2026-09-22)
+
+| Article | Posted |
+|---|---|
+| i-ching-for-beginners.md | posted 2026-09-22 |
+| sacred-geometry-for-beginners.md | posted 2026-09-22 |
+| astrology-for-beginners.md (2nd post, birth chart angle) | posted 2026-09-22 |
+
+All 25 Clarity articles now have at least one Instagram feed post.
+
 ## How to apply for new articles
 
 1. Find the article's existing `PIN-BATCH-XX.md` and reuse one pin's title
