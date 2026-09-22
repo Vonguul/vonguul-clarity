@@ -37,7 +37,15 @@
 Notes: the feng shui pin drops the draft's "Only a few copies were left when checked" sentence (a point-in-time stock claim that
 would go stale on an evergreen pin; the article itself still carries a similar line worth revisiting). The herbs pin uses the
 mortar-and-pestle product photo, which shows guacamole in the bowl. 9/24 is full; 9/25 has 2 of 5 slots used (3 PM, 6 PM, 8 PM free).
-Remaining 6 entries: runes, shadow work, hermetic, akashic, reiki, sound healing.
+**Fourth slice (2026-09-22): 3 more PUBLISHED (not scheduled) on @vonguulian, all live now:**
+
+| Article | Board | Topic tag |
+|---|---|---|
+| runes-for-beginners | Runes for Beginners | Reading |
+| shadow-work-journaling-for-beginners | Shadow Work Journaling | Journal Ideas |
+| hermetic-principles-the-kybalion | Hermetic Principles & The Kybalion | Spirituality Book |
+
+20 of 23 fresh pins done. Remaining 3: akashic, reiki, sound healing.
 
 **Board-name mismatch:** the sage smudging board on Pinterest is called "Energy Cleansing", not "Sage Smudging & Energy
 Cleansing" as PINTEREST-BOARDS.md and the entries below say. Check each remaining entry's board name against the real
