@@ -72,6 +72,17 @@ rows use) — first Threads coverage for 12 of the 14 new articles from this
 week's research batches. 2 new articles remain: i-ching, sacred-geometry,
 plus a second (linked) post for each of the twelve above.
 
+## Status update (2026-09-22)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| i-ching-for-beginners.md | posted 2026-09-22 | Metaphysics |
+| sacred-geometry-for-beginners.md | posted 2026-09-22 (linked) | Metaphysics |
+| astrology-for-beginners.md | posted 2026-09-22 — second (linked) post | Metaphysics |
+
+All 25 Clarity articles now have at least one Threads post. 11 articles from
+the batch-9-through-23 list still need their second (linked) post.
+
 ## How this fits the process for new articles/products
 
 Whenever a new Vonguul Clarity article is drafted (new herb, crystal, practice,
