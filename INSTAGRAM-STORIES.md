@@ -33,6 +33,9 @@ just a different destination URL per article. Not duplicating it here.
 | i-ching-for-beginners.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-iching.png`. Confirmed live via /stories/offbahr/, link sticker tappable. See vonguul-picks' "Process correction (2026-09-22)" note — first attempt used a no-link vertical asset and was deleted/redone. |
 | sacred-geometry-for-beginners.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-sacredgeo.png`. Confirmed Instagram-only, Original crop. |
 | astrology-for-beginners.md (2nd post, birth chart angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-astrology2.png`. Confirmed Instagram-only, Original crop. |
+| lucid-dreaming-getting-started.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-luciddream.png`. Confirmed Instagram-only, Original crop, live via /stories/offbahr/. |
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-manifestation.png`. Confirmed Instagram-only, Original crop. |
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-moonphases.png`. Confirmed Instagram-only, Original crop. |
 
 ## Evidence
 
