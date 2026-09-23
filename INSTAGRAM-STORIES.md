@@ -30,6 +30,9 @@ just a different destination URL per article. Not duplicating it here.
 | akashic-records-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-21 Story. Confirmed Instagram-only. |
 | aura-reading-cleansing-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-22 Story. Confirmed Instagram-only. |
 | candle-magic-for-beginners.md | posted 2026-09-17 | "See full breakdown" | PIN-BATCH-23 Story, last of this batch. Confirmed Instagram-only. |
+| i-ching-for-beginners.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-iching.png`. Confirmed live via /stories/offbahr/, link sticker tappable. See vonguul-picks' "Process correction (2026-09-22)" note — first attempt used a no-link vertical asset and was deleted/redone. |
+| sacred-geometry-for-beginners.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-sacredgeo.png`. Confirmed Instagram-only, Original crop. |
+| astrology-for-beginners.md (2nd post, birth chart angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-astrology2.png`. Confirmed Instagram-only, Original crop. |
 
 ## Evidence
 
