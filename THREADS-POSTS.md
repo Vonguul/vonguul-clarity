@@ -27,6 +27,15 @@ personal account would:
    script, same convention as `?src=pinterest` / `?src=reddit`). Use these
    more sparingly than opinion threads — maybe 1 in 3.
 
+**Tracking ID note (2026-09-24):** a dedicated `vgclaritythreads-20`
+tracking ID now exists and `threads → vgclaritythreads-20` is in `TAG_MAP`
+(`src/layouts/BaseLayout.astro`), mirroring the fix applied to `X-POSTS.md`
+and to Vonguul Picks. Clarity Threads keeps using `?src=instagram` for now,
+per the deliberate 2026-09-08 decision to merge Threads and Instagram
+attribution (same account/audience, see `INSTAGRAM-POSTS.md`) — don't switch
+existing or new linked posts to `?src=threads` unless the user asks to split
+the two out.
+
 Not every article needs both types on day one; the two can be spread out
 across multiple posting sessions like the Pinterest batches are.
 
