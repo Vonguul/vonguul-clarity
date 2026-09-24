@@ -98,6 +98,7 @@ Instagram feed coverage too. 2 new articles remain: i-ching, sacred-geometry.
 | i-ching-for-beginners.md | posted 2026-09-22 |
 | sacred-geometry-for-beginners.md | posted 2026-09-22 |
 | astrology-for-beginners.md (2nd post, birth chart angle) | posted 2026-09-22 |
+| kabbalah-for-beginners.md | posted 2026-09-24 |
 
 All 25 Clarity articles now have at least one Instagram feed post.
 
