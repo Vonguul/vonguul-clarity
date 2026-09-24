@@ -10,6 +10,10 @@ const articles = defineCollection({
     heroImage: z.string().optional(),
     category: z.string(),
     keywords: z.array(z.string()).default([]),
+    // Excludes the article from the homepage grid, sitemap, and other
+    // articles' "Explore More" cross-links — still reachable at its own
+    // /articles/<slug>/ URL, just not surfaced/promoted anywhere on-site.
+    unlisted: z.boolean().default(false),
     // Genuinely free resources — no commission, no tag. Always show these
     // before any monetized product so the reader isn't funneled straight
     // to a purchase.

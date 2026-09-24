@@ -28,7 +28,7 @@ const freeResources = [
 // Related articles — internal cross-linking for SEO.
 const allArticles = await getCollection('articles');
 const related = allArticles
-  .filter((a) => a.slug !== article.slug)
+  .filter((a) => a.slug !== article.slug && !a.data.unlisted)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
 ---

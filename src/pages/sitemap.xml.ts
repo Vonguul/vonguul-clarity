@@ -6,7 +6,7 @@ import { getCollection } from 'astro:content';
 // here manually when one gets added.
 export const GET: APIRoute = async ({ site }) => {
   const base = site?.toString().replace(/\/$/, '') ?? '';
-  const articles = await getCollection('articles');
+  const articles = await getCollection('articles', ({ data }) => !data.unlisted);
 
   const paths = ['/', '/resources/', ...articles.map((a) => `/articles/${a.slug}/`)];
 
