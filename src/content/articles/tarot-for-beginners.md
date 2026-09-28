@@ -33,6 +33,10 @@ products:
     asin: "B09FJRWXWS"
     image: "/images/products/blessume-tarot-cloth-pouch-1.jpg"
     note: "A cloth to read on and a pouch to keep the deck in, which are the two things a paper box doesn't do. The velvet gives cards a smooth surface and protects the deck's edges between readings. It's an optional extra, and a cheap one, so the purchase is really about turning a reading into a small, consistent ritual."
+  - name: "Complete Book of Tarot Spreads — Evelin Bürger & Johannes Fiebig"
+    asin: "1454910798"
+    image: "/images/products/complete-book-tarot-spreads-1.jpg"
+    note: "Once card meanings start to sink in, the actual bottleneck becomes not knowing what to lay the cards out as. 122 spread layouts — well past just the three-card and Celtic Cross most beginner books stop at — from two authors with a combined 30+ books in this space. 4.6 stars across about 700 reviews."
 ---
 
 Tarot has an unusually low actual cost of entry compared to most of the metaphysical practices covered on this site — one deck and some practice is genuinely enough to start, no ongoing course or membership required. The two mistakes worth avoiding: buying an off-brand deck with inconsistent print quality as your first one, and skipping straight to memorizing 78 card meanings before understanding the structure they sit inside.

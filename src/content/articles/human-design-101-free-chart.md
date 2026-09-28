@@ -37,6 +37,10 @@ products:
     asin: "0063412772"
     image: "/images/products/jones-how-do-you-choose-1.jpg"
     note: "A recent hardcover from HarperOne that applies Human Design to decisions about work and relationships. It's a mainstream, readable take with a smaller review base (about 130) than the older books here. The listing calls the insights 'mind-blowingly accurate,' and that's marketing, not evidence, so use it as a set of prompts for thinking about your choices."
+  - name: "The Encyclopedia of Quantum Human Design — Karen Curry Parker"
+    asin: "1951694929"
+    image: "/images/products/encyclopedia-quantum-hd-1.jpg"
+    note: "Not a beginner book — a 416-page reference from the same author as the $0.99 starter pick above, once you're past the basics and want the fuller vocabulary (Types, Authorities, Gates, Channels, Circuits all reframed under her 'Quantum Human Design' system). 4.8 stars across 160 reviews. Priced like the practitioner-grade reference it is, so start with the cheaper books first and only reach for this once you're actually using the terminology regularly."
 ---
 
 Before anything else: get your actual chart. Everything past this point only makes sense once you know your Type, Strategy, and Authority — buying a book or journal before that is buying instructions for a system you haven't looked up yet.
