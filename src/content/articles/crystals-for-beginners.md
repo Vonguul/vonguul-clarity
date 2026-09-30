@@ -2,7 +2,8 @@
 title: "Crystals for Beginners: What to Actually Buy First"
 description: "Free meanings to browse before spending anything, then the starter set, two books, a mineral identification guide, and the care tool worth owning."
 pubDate: 2026-09-01
-heroImage: "/images/products/anima-chakra-crystal-set-1.jpg"
+updatedDate: 2026-09-29
+heroImage: "/images/products/atperrys-crystal-set-1.jpg"
 category: "Crystals"
 keywords:
   - crystals for beginners
@@ -13,10 +14,10 @@ freeResources:
     url: "https://www.crystalvaults.com/guides-crystals/"
     note: "A long-established reference site with free guides on individual stones, chakra associations, and how people actually use crystals in practice — worth reading before buying anything."
 products:
-  - name: "Anima 7 Chakra Healing Crystal Set"
-    asin: "B0C9MQV8KC"
-    image: "/images/products/anima-chakra-crystal-set-1.jpg"
-    note: "A proper starter set rather than seven random tumbled stones — includes clear quartz and amethyst (the two most commonly recommended beginner stones) plus a guidebook, in an actual wooden box instead of a plastic bag."
+  - name: "AtPerrys Healing Crystals Set, 16 Stones in Wooden Box"
+    asin: "B083KHM6LC"
+    image: "/images/products/atperrys-crystal-set-1.jpg"
+    note: "A proper starter set rather than a pouch of random chips — 16 full-size raw and tumbled stones including amethyst, rose quartz, selenite and black tourmaline, with an illustrated guide that names each one, in a wooden box that keeps the collection together. The listing makes stress-relief claims; treat the set as a way to learn to identify common stones, not as a remedy."
   - name: "The Crystal Bible — Judy Hall"
     asin: "1582972400"
     image: "/images/products/crystal-bible-judy-hall-1.jpg"
