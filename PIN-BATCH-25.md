@@ -33,6 +33,8 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("Sacred Geometry" board)
+- [x] Board created in Pinterest ("Sacred Geometry" board, public, 2026-09-30)
 - [x] Pin images sourced — product shots from `public/images/products/` (little-book-sacredgeometry-1.jpg, sacredgeometry-az-reference-1.jpg, mrpen-geometry-set-1.jpg, crystalgrid-flowoflife-board-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (2026-09-30) — all 3 verified linking with `?src=pinterest`
+
+Note: pin 3 used the Mr. Pen geometry set image (first of its two listed options). Topic tags: Sacred Geometry (+ Spirituality Book on pin 1).

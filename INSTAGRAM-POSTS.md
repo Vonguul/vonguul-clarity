@@ -100,6 +100,7 @@ Instagram feed coverage too. 2 new articles remain: i-ching, sacred-geometry.
 | astrology-for-beginners.md (2nd post, birth chart angle) | posted 2026-09-22 |
 | kabbalah-for-beginners.md | posted 2026-09-24 |
 | recognizing-manipulation-tactics.md | posted 2026-09-24 |
+| gift-ideas-tarot-astrology-human-design.md (3-product collage card, PIL-rendered; caption names the site since the bio links to vonguul.com/support) | posted 2026-09-30 |
 
 All 26 listed Clarity articles now have at least one Instagram feed post.
 (A 27th article, `reading-the-source-material-baller-catching.md`, exists but

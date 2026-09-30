@@ -47,6 +47,17 @@ mortar-and-pestle product photo, which shows guacamole in the bowl. 9/24 is full
 
 20 of 23 fresh pins done. Remaining 3: akashic, reiki, sound healing.
 
+**Final slice (2026-09-30): last 3 PUBLISHED on @vonguulian — all 23 of 23 fresh pins done.**
+
+| Article | Board (real name) | Topic tag |
+|---|---|---|
+| akashic-records-for-beginners | Akashic Records | Spirituality Book |
+| reiki-self-healing-for-beginners | Reiki & Energy Healing | Reiki |
+| sound-healing-singing-bowls-for-beginners | Sound Healing (not "& Singing Bowls") | Music Meditation |
+
+Batches 24 (I Ching) and 25 (Sacred Geometry) were also posted the same day, with new public boards. The
+"Remaining 11 entries ... not started" note below is stale — it predates slices 2-4.
+
 **Board-name mismatch:** the sage smudging board on Pinterest is called "Energy Cleansing", not "Sage Smudging & Energy
 Cleansing" as PINTEREST-BOARDS.md and the entries below say. Check each remaining entry's board name against the real
 account before scheduling (search the board picker; do not trust this file).

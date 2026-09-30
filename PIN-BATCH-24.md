@@ -33,6 +33,8 @@
 ---
 
 ## Status
-- [ ] Board created in Pinterest ("I Ching" board)
+- [x] Board created in Pinterest ("I Ching" board, public, 2026-09-30)
 - [x] Pin images sourced — product shots from `public/images/products/` (iching-book-of-changes-1.jpg, iching-divination-coins-1.jpg, iching-ultimate-guide-1.jpg)
-- [ ] Pins posted
+- [x] Pins posted (2026-09-30) — all 3 verified linking with `?src=pinterest`
+
+Note: pin 3 used the Ultimate I Ching guide image (one of its two listed options); pin 2 reuses the Wilhelm/Baynes cover as drafted. Topic tag: Spirituality Book.

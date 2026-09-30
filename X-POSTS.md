@@ -53,6 +53,7 @@ All 11 original Clarity articles have X coverage (8 opinion, 3 linked).
 | feng-shui-basics-for-beginners.md | opinion | posted 2026-09-22 |
 | reiki-self-healing-for-beginners.md | opinion | posted 2026-09-22 |
 | oracle-cards-for-beginners.md | linked | posted 2026-09-22 |
+| gift-ideas-tarot-astrology-human-design.md | linked (`?src=x`) | posted 2026-09-30 |
 
 14 of 25 Clarity articles now have X coverage. 11 remain: akashic-records,
 astrology, aura-reading-cleansing, candle-magic, i-ching, numerology,
