@@ -12,7 +12,7 @@ products:
   - name: "The Kybalion: Centenary Edition"
     asin: "0143131680"
     image: "/images/products/kybalion-centenary-1.jpg"
-    note: "The edition worth actually buying — from a major publisher (Tarcher/Penguin), not one of the countless reformatted public-domain reprints of wildly inconsistent quality. $4.99 at last check."
+    note: "The edition worth actually buying — from a major publisher (Tarcher/Penguin), not one of the countless reformatted public-domain reprints of wildly inconsistent quality. Still inexpensive."
   - name: "The Kybalion, The Tablet of Hermes, & The Emerald Tablets of Thoth"
     asin: "B0FCYFVPD2"
     image: "/images/products/kybalion-emerald-tablets-1.jpg"
@@ -49,4 +49,4 @@ The seven principles come from the Kybalion, but the Hermetic writings themselve
 
 ## Which edition actually matters
 
-Because the original text is public domain, Amazon is flooded with reformatted reprints of wildly inconsistent quality — some missing sections, some riddled with OCR errors from bad scans. The Centenary Edition from Tarcher/Penguin is worth the extra couple of dollars over a $0.99 no-name reprint specifically to avoid that.
+Because the original text is public domain, Amazon is flooded with reformatted reprints of wildly inconsistent quality — some missing sections, some riddled with OCR errors from bad scans. The Centenary Edition from Tarcher/Penguin is worth the small extra cost over a no-name reprint specifically to avoid that.

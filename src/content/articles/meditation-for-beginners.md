@@ -32,11 +32,11 @@ products:
   - name: "Mindfulness in Plain English — Bhante Henepola Gunaratana"
     asin: "0861719069"
     image: "/images/products/gunaratana-mindfulness-plain-english-1.jpg"
-    note: "A short, plain-language guide to sitting practice from a Buddhist monk, aimed at people who have never meditated. It's a good first book, easier to start with than The Mind Illuminated, and it covers the common problems: boredom, restlessness, doubt. The 20th anniversary edition is a paperback of about 224 pages and often under $11."
+    note: "A short, plain-language guide to sitting practice from a Buddhist monk, aimed at people who have never meditated. It's a good first book, easier to start with than The Mind Illuminated, and it covers the common problems: boredom, restlessness, doubt. The 20th anniversary edition is a paperback of about 224 pages and inexpensive."
   - name: "Florensi Folding Bamboo Meditation Bench"
     asin: "B08CF452XL"
     image: "/images/products/florensi-meditation-bench-1.jpg"
-    note: "The other answer to the sore-seat problem: a low kneeling bench instead of a cushion. It takes weight off the knees and ankles and keeps the back upright, and it folds flat for travel. A bench suits some bodies and not others, so it's worth trying if a cushion hasn't worked, not as a first purchase. At about $50, it costs more than the cushions."
+    note: "The other answer to the sore-seat problem: a low kneeling bench instead of a cushion. It takes weight off the knees and ankles and keeps the back upright, and it folds flat for travel. A bench suits some bodies and not others, so it's worth trying if a cushion hasn't worked, not as a first purchase. It costs more than the cushions."
 ---
 
 Meditation has an unusually low barrier to entry compared to most practices on this site — it requires nothing to try, and the free guided sessions above are enough to find out whether it holds your interest before spending a cent. The products below solve specific, common reasons people quit early, not "energy" claims.

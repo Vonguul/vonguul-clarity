@@ -20,7 +20,7 @@ products:
   - name: "A Beginner's Guide to Pendulum Dowsing — Brenda Hunt"
     asin: "B009JE25VA"
     image: "/images/products/pendulum-dowsing-beginners-guide-1.jpg"
-    note: "$4.99 on Kindle. Covers how to actually calibrate your own yes/no/maybe responses — which differ person to person — rather than assuming a universal standard."
+    note: "Inexpensive on Kindle. Covers how to actually calibrate your own yes/no/maybe responses — which differ person to person — rather than assuming a universal standard."
   - name: "The Pendulum: 100 Full-Color Dowsing Charts"
     asin: "B0FCBWN3Y7"
     image: "/images/products/pendulum-dowsing-charts-book-1.jpg"

@@ -24,7 +24,7 @@ products:
   - name: "Astral Projection: For Beginners — Monique Joiner Siedlak"
     asin: "B07KX836TT"
     image: "/images/products/astral-projection-beginners-1.jpg"
-    note: "$2.99 on Kindle — a much shorter, gentler primer if Astral Dynamics feels like too much to start with. Not a replacement for it, just a smaller first step."
+    note: "A low-cost Kindle book — a much shorter, gentler primer if Astral Dynamics feels like too much to start with. Not a replacement for it, just a smaller first step."
   - name: "Journeys Out of the Body — Robert A. Monroe"
     asin: "0385008619"
     image: "/images/products/monroe-journeys-out-of-body-1.jpg"
@@ -49,7 +49,7 @@ Before spending anything, go through Robert Bruce's own site and the free Energy
 
 If the free material clicks and you want the full method, *Astral Dynamics* is the actual source rather than someone else's paraphrase of it. It's dense — this isn't a quick weekend read — which is exactly why the 90-Day Guide exists as a follow-up: it turns the book's material into an actual practice schedule instead of leaving you to structure your own.
 
-If even *Astral Dynamics* feels like a lot to start with, the $2.99 beginner's guide above is a legitimate smaller first step — just don't mistake it for a substitute once you're ready to go further.
+If even *Astral Dynamics* feels like a lot to start with, the low-cost beginner's guide above is a legitimate smaller first step — just don't mistake it for a substitute once you're ready to go further.
 
 ## Read the classic account as an account
 

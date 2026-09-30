@@ -16,7 +16,7 @@ products:
   - name: "Understanding Human Design — Dr. Karen Curry Parker"
     asin: "1950253619"
     image: "/images/products/understanding-human-design-1.jpg"
-    note: "The cheapest real entry point — $0.99 on Kindle at last check. Written for someone who has their chart and wants to actually understand what it means, not a coffee-table book."
+    note: "The cheapest real entry point — a low-cost Kindle edition. Written for someone who has their chart and wants to actually understand what it means, not a coffee-table book."
   - name: "The Human Design Guidebook — Cora Maris"
     asin: "B0H1WGS1PB"
     image: "/images/products/human-design-guidebook-1.jpg"
@@ -40,7 +40,7 @@ products:
   - name: "The Encyclopedia of Quantum Human Design — Karen Curry Parker"
     asin: "1951694929"
     image: "/images/products/encyclopedia-quantum-hd-1.jpg"
-    note: "Not a beginner book — a 416-page reference from the same author as the $0.99 starter pick above, once you're past the basics and want the fuller vocabulary (Types, Authorities, Gates, Channels, Circuits all reframed under her 'Quantum Human Design' system). 4.8 stars across 160 reviews. Priced like the practitioner-grade reference it is, so start with the cheaper books first and only reach for this once you're actually using the terminology regularly."
+    note: "Not a beginner book — a 416-page reference from the same author as the low-cost starter pick above, once you're past the basics and want the fuller vocabulary (Types, Authorities, Gates, Channels, Circuits all reframed under her 'Quantum Human Design' system). 4.8 stars across 160 reviews. Priced like the practitioner-grade reference it is, so start with the cheaper books first and only reach for this once you're actually using the terminology regularly."
 ---
 
 Before anything else: get your actual chart. Everything past this point only makes sense once you know your Type, Strategy, and Authority — buying a book or journal before that is buying instructions for a system you haven't looked up yet.
@@ -57,7 +57,7 @@ Every book and journal in this space is written around the five Types — a Proj
 
 ## What to actually read, once you know your Type
 
-Start cheap. A $0.99 Kindle book that explains your specific Type well is worth more right now than a $50 reference text you're not ready for yet. Work up from there only if the topic keeps being useful to you — there's no requirement to buy every book in this space to get value from the system.
+Start cheap. A low-cost Kindle book that explains your specific Type well is worth more right now than an expensive reference text you're not ready for yet. Work up from there only if the topic keeps being useful to you — there's no requirement to buy every book in this space to get value from the system.
 
 ## Judge the books by how they treat the claims
 
