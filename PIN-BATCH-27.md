@@ -41,5 +41,7 @@
 pins (805511083396074239 / ...4371 / ...4486) are on the Picks account (@lakeramw), not Clarity
 (@vonguulian). The links are correct (the Clarity article, with `?src=pinterest`, so clicks still credit
 vgclaritypin-20), but the pins sit on the organizing account's profile, off-niche, and Clarity's audience
-never sees them. Fix pending the user's decision: recreate the board and pins on @vonguulian, then the
-user removes or archives the @lakeramw copies (deleting is left to the user).
+never sees them. **Fixed 2026-10-01:** board "Relationship Psychology" created on @vonguulian (public) with the same 3
+pins, same copy and images, all verified linking to the article with `?src=pinterest`; topic tags
+Psychology Books (+ Psychology on pin 1). The @lakeramw board was ARCHIVED, not deleted, at the
+user's request; it can be restored from the bottom of the Picks profile.
