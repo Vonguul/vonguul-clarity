@@ -36,3 +36,10 @@
 - [x] Board created in Pinterest ("Relationship Psychology" board — new)
 - [x] Pin images sourced — product shots from `public/images/products/` (gift-of-fear-1.jpg, influence-cialdini-1.jpg, sociopath-next-door-1.jpg)
 - [x] Pins posted (2026-09-24)
+
+**Found 2026-09-30: posted to the WRONG Pinterest account.** The "Relationship Psychology" board and all 3
+pins (805511083396074239 / ...4371 / ...4486) are on the Picks account (@lakeramw), not Clarity
+(@vonguulian). The links are correct (the Clarity article, with `?src=pinterest`, so clicks still credit
+vgclaritypin-20), but the pins sit on the organizing account's profile, off-niche, and Clarity's audience
+never sees them. Fix pending the user's decision: recreate the board and pins on @vonguulian, then the
+user removes or archives the @lakeramw copies (deleting is left to the user).
