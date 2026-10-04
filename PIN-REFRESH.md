@@ -190,3 +190,6 @@ moon phases, numerology), then the rest. At most 5 new pins a day.
 1. **Post I Ching and Sacred Geometry first** (create the two boards, then their drafted pins).
 2. **Approve a slice of the list above**, such as the first seven, and I add them in one Claude in Chrome session.
 3. Each new pin needs an image; the product shots are named above. A text overlay would help.
+
+
+**Week of 2026-10-04 (extra pins, published on @vonguulian):** a 5th Pendulum Dowsing pin ("Pendulum Charts for Beginners: Start With a Free One, Then Go Deeper", tag Spirituality), added because pendulum is the only topic with outbound clicks (3 in 30 days), and a 4th Gift Guides pin ("Gifts for the Skeptic in a Spiritual Family", tag Gift Guide). Full copy is in `../vonguul-picks/WEEKLY-BATCH-2026-10-04.md`.
