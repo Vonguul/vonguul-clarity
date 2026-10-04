@@ -36,3 +36,9 @@
 - [x] Board created in Pinterest ("Kabbalah" board — new)
 - [x] Pin images sourced — product shots from `public/images/products/` (kabbalah-for-beginners-moonlight-1.jpg, kabbalah-for-dummies-1.jpg, essential-kabbalah-matt-1.jpg)
 - [x] Pins posted
+
+**Found 2026-10-04, fixed the same day: posted to the wrong Pinterest account.** The "Kabbalah" board and
+its 3 pins were on the Picks account (@lakeramw), same mix-up as PIN-BATCH-27. Links were correct, so
+tracking was unaffected. Fix: a public "Kabbalah" board was created on @vonguulian with the same 3 pins
+(same copy and images, each verified linking to the article with `?src=pinterest`, topic tag Spirituality
+Book), and the @lakeramw board was ARCHIVED, not deleted (restorable from the bottom of the Picks profile).
