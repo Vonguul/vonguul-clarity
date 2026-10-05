@@ -35,5 +35,7 @@
 
 ## Status
 - [x] Pin images sourced — product shots from `public/images/products/`
-- [ ] Article approved and deployed
-- [ ] Pins posted
+- [x] Article approved and deployed (2026-10-05)
+- [x] Pins posted (2026-10-05) — all 3 verified linking with `?src=pinterest`
+
+Posted to the existing Pendulum Dowsing board on @vonguulian (account confirmed). Topic tag: Spirituality on all three (Pinterest has no pendulum topic).
