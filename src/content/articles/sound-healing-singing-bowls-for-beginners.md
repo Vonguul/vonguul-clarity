@@ -2,6 +2,7 @@
 title: "Sound Healing for Beginners: Singing Bowls and Tuning Forks"
 description: "The actual difference between a singing bowl and a tuning fork practice, and which beginner set is worth buying for each — an ambient meditation tone versus precise, targeted frequency work."
 pubDate: 2026-09-13
+updatedDate: 2026-10-05
 heroImage: "/images/products/silentmind-singingbowl-1.jpg"
 category: "Sound Healing"
 keywords:
@@ -25,6 +26,10 @@ products:
     asin: "B0CN93RBHG"
     image: "/images/products/fiada-bowl-cushion-set-1.jpg"
     note: "A bowl set on a hard table rattles and dampens its own tone. This set has seven silk brocade O-ring cushions in graduated sizes from 5.3 to 8.27 inches, plus three mallets, so a bowl sits on a ring that fits it. Match the ring to your bowl's base diameter before buying, since it's sold for 6-to-12-inch bowls."
+  - name: "Dharma Store Tibetan Tingsha Cymbals, 6.2 cm"
+    asin: "B01FEXQJX4"
+    image: "/images/products/dharmastore-tingsha-cymbals-1.jpg"
+    note: "A third kind of sound tool: two small cymbals on a cord, struck together for one clear, long ring. They're used to mark the start and end of a session, where a bowl is played throughout. Small, inexpensive, and with over 1,200 reviews, they're an easy addition once you have a bowl."
 ---
 
 Sound healing isn't one practice — a singing bowl and a set of tuning forks work in different ways and get used for different purposes, and neither one replaces the other. A bowl produces a broad, ambient, sustained tone that fills a room and is meant to be listened to; a tuning fork produces one exact, narrow frequency that's meant to be applied more precisely, often close to or on the body.
@@ -48,6 +53,10 @@ A singing bowl needs to be free to vibrate, and setting it flat on a table or in
 ## Neither tool requires the other
 
 A full sound healing practice can be built around just a bowl, just tuning forks, or both together — they're not sequential purchases. Pick based on which technique actually interests you: an ambient tone you sit with, or precise, targeted frequency work.
+
+## A bell to open and close a session
+
+Tingsha are two small cymbals joined by a cord. Struck together they give a single bright ring that fades slowly, which makes them useful as a clear start and end signal. They don't replace a bowl, which gives a sustained tone you can play continuously. As with the other tools here, the sound is pleasant and can help you settle; claims that it heals anything aren't supported by evidence.
 
 ---
 

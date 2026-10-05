@@ -2,6 +2,7 @@
 title: "Gift Ideas for Someone Into Tarot, Astrology, or Human Design"
 description: "Gifts matched to where the person actually is: a first tarot deck or a spreads book for the seasoned reader, a moon-phase necklace set to their birthday, the reference books serious Human Design students want, and a few for the curious skeptic."
 pubDate: 2026-09-29
+updatedDate: 2026-10-05
 heroImage: "/images/products/cellsdividing-moonphase-necklace-1.jpg"
 category: "Gift Guides"
 keywords:
@@ -63,6 +64,10 @@ products:
     asin: "B08V1TYGJ6"
     image: "/images/products/fiveminute-journal-1.jpg"
     note: "For someone into manifestation or intention-setting. It's built on published gratitude research rather than cosmic claims, so it's a safe gift for believers and skeptics. Five minutes a day is a small enough habit to keep."
+  - name: "AtPerrys Healing Crystals Set, 16 Stones in Wooden Box"
+    asin: "B083KHM6LC"
+    image: "/images/products/atperrys-crystal-set-1.jpg"
+    note: "For someone starting out with crystals. Sixteen raw and tumbled stones in a wooden box, with an illustrated guide that names each one, so it arrives ready to give. The listing makes stress-relief claims; it's a nice way to learn the common stones, not a remedy."
   - name: "The Crystal Bible — Judy Hall"
     asin: "1582972400"
     image: "/images/products/crystal-bible-judy-hall-1.jpg"
@@ -115,7 +120,7 @@ For Human Design, the big reference books are exactly the kind of thing people w
 
 ## Meditation, journaling, and crystals
 
-A singing bowl set is a good gift for someone who meditates because it's easy to play well on the first try. The Five Minute Journal suits anyone into intention-setting. For crystals, the standard reference book is a safer gift than stones, since collectors tend to have strong opinions about which ones they want.
+A singing bowl set is a good gift for someone who meditates because it's easy to play well on the first try. The Five Minute Journal suits anyone into intention-setting. For crystals, a boxed starter set suits a beginner, and the standard reference book is the safer gift for someone who already collects, since collectors tend to have strong opinions about which stones they want.
 
 ## Runes and dreams
 

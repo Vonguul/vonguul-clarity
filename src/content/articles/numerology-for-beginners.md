@@ -2,6 +2,7 @@
 title: "Numerology for Beginners: Where to Actually Start"
 description: "Calculate your life path number for free first, then which books are actually worth buying if the system clicks for you — one plain-language intro, one workbook, and two deeper references."
 pubDate: 2026-09-13
+updatedDate: 2026-10-05
 heroImage: "/images/products/beginners-guide-numerology-book-1.jpg"
 category: "Numerology"
 keywords:
@@ -29,6 +30,10 @@ products:
     asin: "039952732X"
     image: "/images/products/decoz-numerology-1.jpg"
     note: "A well-reviewed modern guide, published under the Key to Your Inner Self title, that walks through the numbers of a name and birth date in detail. It's a good second book if the beginner guide made sense and you want one author's full method. Like the others here, it describes a symbolic system, not a measurable one."
+  - name: "The Angel Numbers Deck — Mystic Michaela"
+    asin: "1507223544"
+    image: "/images/products/angel-numbers-deck-1.jpg"
+    note: "A card deck built on repeating number sequences ('angel numbers' like 111 or 444), with a meaning for each. It's a lighter, daily-draw way into number symbolism, different from calculating your own core numbers. Treat it as a prompt for reflection; it's a modern tradition, not part of classical numerology."
 ---
 
 Numerology reduces a birth date and a full name down to a small set of core numbers, each with an established meaning — the same basic idea as astrology's sun sign, but built entirely from numbers instead of planetary positions. The free calculator above gives you your life path number, the single most important one in the system, before you spend anything finding out whether this actually interests you.
@@ -52,6 +57,10 @@ Numerology assigns meaning to numbers by convention, and there's no evidence tha
 ## Master numbers and karmic debt come later
 
 Numbers like 11, 22, and 33 don't get reduced the way other numbers do, and karmic debt numbers (13, 14, 16, 19) carry their own separate meaning again — both are genuinely more advanced concepts that a true beginner resource skips on purpose to avoid overwhelming a first read. A deeper reference is worth picking up once the core numbers are second nature.
+
+## Angel numbers are a separate, newer idea
+
+Repeating sequences like 111 or 444 are often called angel numbers. They're popular, but they aren't part of the classical system this guide covers, which is based on calculating numbers from your name and birth date. A deck is the easiest way to explore them. The same caution applies: there's no evidence that number sequences carry messages, and noticing them more once you're looking is a well-known effect of attention.
 
 ---
 

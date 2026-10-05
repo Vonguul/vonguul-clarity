@@ -2,6 +2,7 @@
 title: "Feng Shui Basics: Where to Actually Start"
 description: "The room-by-room way to learn feng shui before the more advanced compass and life-area systems, plus a real bagua mirror — the one physical 'cure' most beginner guides reference."
 pubDate: 2026-09-13
+updatedDate: 2026-10-05
 heroImage: "/images/products/little-book-fengshui-1.jpg"
 category: "Feng Shui"
 keywords:
@@ -25,6 +26,10 @@ products:
     asin: "1561703249"
     image: "/images/products/collins-western-guide-fengshui-1.jpg"
     note: "A well-reviewed beginner introduction written for Western readers, presenting the practice as something to apply in an ordinary home. It's a second voice alongside the two books above, so you can see which advice recurs across authors and which is one writer's preference. The listing showed only a few copies left."
+  - name: "JIHUI Clear Crystal Ball Prisms, 40 mm (3-Pack)"
+    asin: "B01M0NRRPH"
+    image: "/images/products/jihui-crystal-ball-prism-1.jpg"
+    note: "Faceted glass spheres for hanging in a window, the other feng shui 'cure' people ask about after the bagua mirror. In practice they're suncatchers: they scatter sunlight into small rainbows around a room. With over 8,500 reviews, this three-pack is the well-tested choice."
 ---
 
 Feng shui is the practice of arranging a home's layout and objects to support the flow of energy (chi) through the space — a genuinely old Chinese system, not just a modern decorating trend, though it gets treated as one often. There are actually two common approaches to learning it, and most beginner confusion comes from mixing them up without realizing it.
@@ -48,6 +53,10 @@ There's no controlled evidence that arranging furniture changes a person's luck,
 ## Don't skip straight to a compass reading
 
 More advanced feng shui incorporates compass directions and a practitioner's personal "kua number," which is genuinely more complex than either book above covers on purpose. That level is worth exploring later, once the room-by-room and bagua-map basics are comfortable — not the place to start.
+
+## Hanging crystals are the other common "cure"
+
+Feng shui books often suggest hanging a faceted crystal in a window or a long hallway to "disperse" energy. What a crystal prism reliably does is split sunlight into spots of color that move around the room through the day, which many people find makes a space feel more alive. That's a good enough reason to hang one; treat the energy explanation as tradition.
 
 ---
 

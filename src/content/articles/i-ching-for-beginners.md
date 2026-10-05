@@ -2,6 +2,7 @@
 title: "I Ching for Beginners: The Coins, the Book, and How They Work Together"
 description: "The actual coin-tossing method behind an I Ching reading, the classic translation worth reading first, and a genuine set of casting coins instead of an app doing it for you."
 pubDate: 2026-09-13
+updatedDate: 2026-10-05
 heroImage: "/images/products/iching-book-of-changes-1.jpg"
 category: "I Ching"
 keywords:
@@ -25,6 +26,10 @@ products:
     asin: "1594773866"
     image: "/images/products/huang-complete-iching-1.jpg"
     note: "A second translation, by a Chinese Taoist master, that includes translations of the Ten Wings, the classical commentaries. Read it after Wilhelm/Baynes rather than instead of it: comparing the two on the same hexagram shows how much translators shape what the text seems to say."
+  - name: "Visionary I Ching Cards — Paul O'Brien"
+    asin: "1582707316"
+    image: "/images/products/visionary-iching-cards-1.jpg"
+    note: "A card deck based on the I Ching hexagrams, as an alternative to casting coins. Drawing a card is faster and easier to do daily, though you lose the changing lines that the coin method gives you. A good option if the coin method is keeping you from actually practicing."
 ---
 
 The I Ching (Book of Changes) is an ancient Chinese divination text built around 64 hexagrams — six-line figures, each with its own meaning, built by tossing three coins six times in a row and recording whether each toss lands heads-heavy or tails-heavy. It's one of the oldest continuously used divination systems in the world, and the actual coin-tossing mechanic is simpler than the philosophy built around it makes it seem.
@@ -48,6 +53,10 @@ The I Ching is a very old text, translated into English by people working from d
 ## Use a step-by-step guide alongside the classic text, not instead of it
 
 The Wilhelm/Baynes translation is dense, and it's not primarily written as a how-to guide. A companion resource that walks through the coin-tossing mechanics and how to build and interpret a hexagram fills that practical gap without replacing the primary text's actual content.
+
+## Cards are the quick alternative to coins
+
+A hexagram deck turns a reading into a single card draw instead of six coin tosses. That makes a daily practice easier to keep. The trade-off is depth: coins produce changing lines, which point to a second hexagram, and a single card draw doesn't. Use cards for a quick daily prompt and coins when you want the full method.
 
 ---
 
