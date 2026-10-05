@@ -25,6 +25,7 @@ Title (<90 chars) + Description (caption, <4000 chars, 4-5 hashtags).
 | i-ching-for-beginners.md | "The I Ching Isn't Fortune-Telling -- Here's What It Actually Is" | posted 2026-09-22 |
 | sacred-geometry-for-beginners.md | "The Shape Behind Every Sacred Geometry Print You've Seen" | posted 2026-09-22 |
 | astrology-for-beginners.md (2nd post, birth chart angle) | "Get Your Real Chart Before Buying a Book" | posted 2026-09-22 |
+| pendulum-boards-mats-charts.md | "A pendulum board doesn't make the answers more accurate" (sound: "Ambient-style emotional piano") | posted 2026-10-05; showed "Content under review" at check time |
 
 First 3 TikTok Photo Mode posts for Clarity. 22 articles remain uncovered on
 this platform.

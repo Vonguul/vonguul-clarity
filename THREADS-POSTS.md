@@ -89,6 +89,7 @@ plus a second (linked) post for each of the twelve above.
 | sacred-geometry-for-beginners.md | posted 2026-09-22 (linked) | Metaphysics |
 | astrology-for-beginners.md | posted 2026-09-22 — second (linked) post | Metaphysics |
 | gift-ideas-tarot-astrology-human-design.md | posted 2026-09-30 (linked, `?src=instagram`) | Spirituality |
+| pendulum-boards-mats-charts.md | posted 2026-10-05 (linked, `?src=instagram`) | Pendulum Divination |
 
 All 25 Clarity articles now have at least one Threads post. 11 articles from
 the batch-9-through-23 list still need their second (linked) post.
