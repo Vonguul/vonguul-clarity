@@ -34,3 +34,49 @@ this platform.
 
 Same process as `vonguul-picks/TIKTOK-POSTS.md` — see that file's "How to
 apply" section.
+
+## Repost round 2026-10-16 (articles already on Instagram, first time on TikTok)
+
+User asked for "as many reposts as you can with the remaining limit available". Every article
+already posted to Instagram but never to TikTok got a new vertical card (1080x1350, 3 products,
+rendered with PIL; Picks charcoal/amber, Clarity indigo/gold) and a Photo Mode post. Sounds:
+Picks "Lofi Chill" (Alberto Lofi), Clarity "Ambient-style emotional piano" (MoppySound).
+Captions end "Full guide on the Vonguul Clarity site, link in bio." plus 5 hashtags.
+No prices anywhere.
+
+**Limit hit:** after 60 posts in about an hour across both sites, TikTok returned
+"Too many uploading attempts. Try again later." That is the TikTok upload cap for the day.
+All 60 showed visibility "Everyone" in TikTok Studio at the end of the round.
+
+**Gotchas:** the "Schedule" option asks to "Allow your video to be saved for scheduled posting"
+(a consent prompt) so it was not used. Clicking Post then navigating in the same browser batch
+sometimes drops the batch; split post and next-upload into separate batches. The viewport
+height changed mid-run, which moved the Post button (779px tall: y=740; 737px: y=698).
+
+| Article | Title | Status |
+|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | "Gift ideas for someone into tarot, astrology or Human Design" | posted 2026-10-16 |
+| pendulum-dowsing-for-beginners.md | "Pendulum dowsing for beginners: what you actually need to start" | posted 2026-10-16 |
+| tarot-for-beginners.md | "Which tarot deck to buy first (it's not a knockoff)" | posted 2026-10-16 |
+| human-design-101-free-chart.md | "Human Design: get your free chart before you buy a single book" | posted 2026-10-16 |
+| crystals-for-beginners.md | "Crystals for beginners: what to actually buy first" | posted 2026-10-16 |
+| astral-projection-getting-started.md | "Astral projection: where to actually start" | posted 2026-10-16 |
+| lucid-dreaming-getting-started.md | "Lucid dreaming: start with reality checks tonight" | posted 2026-10-16 |
+| hermetic-principles-the-kybalion.md | "The 7 Hermetic principles, explained plainly" | posted 2026-10-16 |
+| magical-herbs-for-beginners.md | "Herbs are the one practice here with real chemistry" | posted 2026-10-16 |
+| meditation-for-beginners.md | "Meditation: the cushion, the bowl and the book worth buying" | posted 2026-10-16 |
+| manifestation-law-of-attraction-for-beginners.md | "Manifestation: what's actually doing the work" | posted 2026-10-16 |
+| moon-phases-lunar-rituals-for-beginners.md | "What the moon actually does" | posted 2026-10-16 |
+| numerology-for-beginners.md | "Numerology: calculate your life path number free first" | posted 2026-10-16 |
+| sage-smudging-energy-cleansing.md | "Energy cleansing doesn't have to mean white sage" | posted 2026-10-16 |
+| sound-healing-singing-bowls-for-beginners.md | "Singing bowl or tuning forks? They're different practices" | posted 2026-10-16 |
+| feng-shui-basics-for-beginners.md | "Feng shui: start room by room" | posted 2026-10-16 |
+| reiki-self-healing-for-beginners.md | "Reiki you can practice before any attunement" | posted 2026-10-16 |
+| oracle-cards-for-beginners.md | "Oracle cards vs tarot: what's actually different" | posted 2026-10-16 |
+| shadow-work-journaling-for-beginners.md | "Shadow work comes from Jungian psychology" | posted 2026-10-16 |
+| runes-for-beginners.md | "Runes for beginners: which set to buy first" | posted 2026-10-16 |
+| akashic-records-for-beginners.md | "Akashic Records: what they actually are" | posted 2026-10-16 |
+| aura-reading-cleansing-for-beginners.md | "Aura reading: the colors, the technique, and a real tool" | posted 2026-10-16 |
+| candle-magic-for-beginners.md | "Candle magic: color, intention and actual fire safety" | saved as TikTok draft (upload limit hit), not yet posted |
+| kabbalah-for-beginners.md | "Kabbalah is not the red string" | NOT POSTED (TikTok upload limit hit) |
+| recognizing-manipulation-tactics.md | "How manipulation actually works: tactics, not vibes" | NOT POSTED (TikTok upload limit hit) |
