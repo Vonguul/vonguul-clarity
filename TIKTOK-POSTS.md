@@ -77,6 +77,6 @@ height changed mid-run, which moved the Post button (779px tall: y=740; 737px: y
 | runes-for-beginners.md | "Runes for beginners: which set to buy first" | posted 2026-10-16 |
 | akashic-records-for-beginners.md | "Akashic Records: what they actually are" | posted 2026-10-16 |
 | aura-reading-cleansing-for-beginners.md | "Aura reading: the colors, the technique, and a real tool" | posted 2026-10-16 |
-| candle-magic-for-beginners.md | "Candle magic: color, intention and actual fire safety" | saved as TikTok draft (upload limit hit), not yet posted |
-| kabbalah-for-beginners.md | "Kabbalah is not the red string" | NOT POSTED (TikTok upload limit hit) |
-| recognizing-manipulation-tactics.md | "How manipulation actually works: tactics, not vibes" | NOT POSTED (TikTok upload limit hit) |
+| candle-magic-for-beginners.md | "Candle magic: color, intention and actual fire safety" | posted 2026-10-17 (from draft) |
+| kabbalah-for-beginners.md | "Kabbalah is not the red string" | posted 2026-10-17 |
+| recognizing-manipulation-tactics.md | "How manipulation actually works: tactics, not vibes" | posted 2026-10-17 |

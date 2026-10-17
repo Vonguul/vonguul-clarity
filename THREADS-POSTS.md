@@ -133,3 +133,12 @@ board/pin batch:
   threads are not retroactively editable (Threads has no Edit option on a
   published post) — see the
   `pinterest-threads-tags-not-retroactively-editable` memory note.
+
+## Catch-up 2026-10-17
+
+| Article | Threads post | Topic |
+|---|---|---|
+| kabbalah-for-beginners.md | posted 2026-10-17 (linked, `?src=instagram`) | Kabbalah |
+| recognizing-manipulation-tactics.md | posted 2026-10-17 (linked, `?src=instagram`) | Psychology |
+
+Every listed Clarity article now has at least one Threads post.

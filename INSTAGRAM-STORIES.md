@@ -65,3 +65,18 @@ just a different destination URL per article. Not duplicating it here.
   finding, still treated as referrer spam and not counted (Clarity has no
   Facebook presence). This window reflects Story batches through Sep 15 —
   too soon for the batch just posted to register. Re-check in a few days.
+
+## Catch-up round 2026-10-17
+
+Same process as `../vonguul-picks/INSTAGRAM-STORIES.md` (2026-10-17 section: file-input patch,
+vertical cards, uncheck offbar1 every time).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | posted 2026-10-17 | "See the gift guide" |
+| pendulum-boards-mats-charts.md | posted 2026-10-17 | "See full breakdown" |
+| human-design-101-free-chart.md | posted 2026-10-17 | "Get your chart first" |
+| kabbalah-for-beginners.md | posted 2026-10-17 | "Where to actually start" |
+| recognizing-manipulation-tactics.md | posted 2026-10-17 | "Name the tactic" |
+
+**Never had a Story yet (4):** astral-projection, numerology, sage-smudging, sound-healing.
