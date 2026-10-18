@@ -80,3 +80,15 @@ height changed mid-run, which moved the Post button (779px tall: y=740; 737px: y
 | candle-magic-for-beginners.md | "Candle magic: color, intention and actual fire safety" | posted 2026-10-17 (from draft) |
 | kabbalah-for-beginners.md | "Kabbalah is not the red string" | posted 2026-10-17 |
 | recognizing-manipulation-tactics.md | "How manipulation actually works: tactics, not vibes" | posted 2026-10-17 |
+
+## Daily round 2026-10-18 (new guides, first time on TikTok)
+
+Vertical card from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound). Both showed "Everyone" in TikTok Studio's content list after the round.
+
+| Article | Title | Status |
+|---|---|---|
+| flameless-candles-smart-lighting-for-ritual.md | "Candlelight for your practice, without the open flame" | posted 2026-10-18 |
+| telescope-stargazing-for-beginners.md | "A first telescope you'll actually take outside" | posted 2026-10-18 |
+
+Every listed Clarity article now has at least one TikTok (reading-the-source-material is unlisted).
