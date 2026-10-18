@@ -78,5 +78,10 @@ vertical cards, uncheck offbar1 every time).
 | human-design-101-free-chart.md | posted 2026-10-17 | "Get your chart first" |
 | kabbalah-for-beginners.md | posted 2026-10-17 | "Where to actually start" |
 | recognizing-manipulation-tactics.md | posted 2026-10-17 | "Name the tactic" |
+| astral-projection-getting-started.md | posted 2026-10-18 | "Where to actually start" |
+| numerology-for-beginners.md | posted 2026-10-18 | "Find your number free" |
+| sage-smudging-energy-cleansing.md | posted 2026-10-18 | "See what to use instead" |
 
-**Never had a Story yet (4):** astral-projection, numerology, sage-smudging, sound-healing.
+## Daily round 2026-10-18 (rows above)
+
+**Never had a Story yet (1):** sound-healing.
