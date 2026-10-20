@@ -63,4 +63,4 @@ There's no evidence that tarot predicts events, and a card drawn from a shuffled
 
 ## A second book, then the ritual objects
 
-Once one guidebook feels familiar, a second author's take on the same cards is more useful than a third deck. Reading two interpretations side by side shows you which meanings are shared tradition and which are one writer's view. The cloth and pouch come last, since they don't change how well you read, only how the practice feels.
+Once one guidebook feels familiar, a second author's take on the same cards is more useful than a third deck. Reading two interpretations side by side shows you which meanings are shared tradition and which are one writer's view. The cloth and pouch come last, since they don't change how well you read, only how the practice feels. When you're ready for a second deck, see [which tarot deck to buy after your first one](/articles/tarot-decks-after-your-first/).
