@@ -84,4 +84,14 @@ vertical cards, uncheck offbar1 every time).
 
 ## Daily round 2026-10-18 (rows above)
 
-**Never had a Story yet (1):** sound-healing.
+## Daily round 2026-10-20
+
+Verified as "Instagram, Active" in Business Suite's Planner (instagram.com check skipped: site
+approval prompt, unattended run).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| sound-healing-singing-bowls-for-beginners.md | posted 2026-10-20 | "Bowl or tuning fork?" |
+| tarot-decks-after-your-first.md | posted 2026-10-20 | "Pick your second deck" |
+
+**Never had a Story yet (0).** Every listed Clarity article has had a Story.

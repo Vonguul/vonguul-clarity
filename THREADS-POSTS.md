@@ -151,3 +151,11 @@ Every listed Clarity article now has at least one Threads post.
 | telescope-stargazing-for-beginners.md | posted 2026-10-19 (linked, `?src=instagram`) | Astronomy |
 
 Both new 2026-10-18 guides now have a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-20
+
+| Article | Threads post | Topic |
+|---|---|---|
+| tarot-decks-after-your-first.md | posted 2026-10-20 (linked, `?src=instagram`) | Tarot |
+
+The new 2026-10-19 tarot decks guide now has a Threads post; every listed Clarity article has at least one.
