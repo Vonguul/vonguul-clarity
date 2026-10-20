@@ -86,8 +86,8 @@ vertical cards, uncheck offbar1 every time).
 
 ## Daily round 2026-10-20
 
-Verified as "Instagram, Active" in Business Suite's Planner (instagram.com check skipped: site
-approval prompt, unattended run).
+Verified as "Instagram, Active" in Business Suite's Planner and at instagram.com/stories/offbahr/
+(6 segments with the Picks Stories).
 
 | Article | Posted | Link sticker text |
 |---|---|---|

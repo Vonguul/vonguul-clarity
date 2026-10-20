@@ -43,6 +43,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 25 | sacred-geometry-for-beginners.md | Sacred Geometry | not created | drafted |
 | 26 | flameless-candles-smart-lighting-for-ritual.md | Candle Magic (existing board, shared with row 23) | created | posted |
 | 27 | telescope-stargazing-for-beginners.md | Moon Phases (existing board; no astronomy board) | created | posted |
+| 28 | tarot-decks-after-your-first.md | Tarot for Beginners (existing board, shared with row 5) | created | posted |
 
 ## How the daily routine uses this file
 
