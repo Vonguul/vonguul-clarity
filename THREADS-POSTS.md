@@ -142,3 +142,12 @@ board/pin batch:
 | recognizing-manipulation-tactics.md | posted 2026-10-17 (linked, `?src=instagram`) | Psychology |
 
 Every listed Clarity article now has at least one Threads post.
+
+## Daily round 2026-10-19
+
+| Article | Threads post | Topic |
+|---|---|---|
+| flameless-candles-smart-lighting-for-ritual.md | posted 2026-10-19 (linked, `?src=instagram`) | Meditation |
+| telescope-stargazing-for-beginners.md | posted 2026-10-19 (linked, `?src=instagram`) | Astronomy |
+
+Both new 2026-10-18 guides now have a Threads post; every listed Clarity article has at least one.
