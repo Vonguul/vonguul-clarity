@@ -92,3 +92,17 @@ piano" (MoppySound). Both showed "Everyone" in TikTok Studio's content list afte
 | telescope-stargazing-for-beginners.md | "A first telescope you'll actually take outside" | posted 2026-10-18 |
 
 Every listed Clarity article now has at least one TikTok (reading-the-source-material is unlisted).
+
+## Daily round 2026-10-20
+
+Vertical cards from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound), Now / Everyone. All listed once in TikTok Studio's content list as "Everyone"
+(sacred geometry still "Processing" at check time).
+
+| Article | Title | Status |
+|---|---|---|
+| tarot-decks-after-your-first.md | "Your second tarot deck should fix something" | posted 2026-10-20 (first TikTok) |
+| i-ching-for-beginners.md | "I Ching: three coins, six tosses, one hexagram" | posted 2026-10-20 |
+| sacred-geometry-for-beginners.md | "Draw the Flower of Life yourself, with a compass" | posted 2026-10-20 |
+
+Every listed Clarity article has at least one TikTok again (tarot-decks was the only gap).
