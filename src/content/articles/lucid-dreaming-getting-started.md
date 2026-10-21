@@ -2,6 +2,7 @@
 title: "Lucid Dreaming: Reality Checks First, Then the Books Worth Reading"
 description: "Free reality-check techniques to start with tonight, then which lucid dreaming books are actually worth your money — starting with the one researcher who studied it in a sleep lab."
 pubDate: 2026-09-01
+updatedDate: 2026-10-21
 heroImage: "/images/products/exploring-lucid-dreaming-laberge-1.jpg"
 category: "Lucid Dreaming"
 keywords:
@@ -25,6 +26,10 @@ products:
     asin: "1729489176"
     image: "/images/products/lucid-dreaming-journal-1.jpg"
     note: "Dream recall is the actual bottleneck for most beginners — you can't work with dreams you don't remember. A dedicated journal by the bed, used the moment you wake up, does more for that than any technique."
+  - name: "CAGIE Lined Hardcover Journal, A5 (Moon and Stars Cover)"
+    asin: "B0967ZVMPK"
+    image: "/images/products/cagie-dream-journal-1.jpg"
+    note: "The no-structure alternative: a plain lined A5 hardcover with a pen loop, an elastic band and a ribbon marker, and a moon-and-stars cover that makes it easy to find on a nightstand. Some people find a blank page faster to write in half-awake than a guided diary with fields to fill. Ships from Amazon, 4.7 stars from about 3,700 reviews."
   - name: "Llewellyn's Complete Book of Lucid Dreaming — Clare R. R. Johnson (Kindle Edition)"
     asin: "B01N5RVXTF"
     image: "/images/products/johnson-llewellyns-lucid-dreaming-1.jpg"
