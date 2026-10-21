@@ -159,3 +159,13 @@ Both new 2026-10-18 guides now have a Threads post; every listed Clarity article
 | tarot-decks-after-your-first.md | posted 2026-10-20 (linked, `?src=instagram`) | Tarot |
 
 The new 2026-10-19 tarot decks guide now has a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-21
+
+| Article | Threads post | Topic |
+|---|---|---|
+| scrying-for-beginners.md | posted 2026-10-21 (linked, `?src=instagram`) | scrying |
+| tea-leaf-reading-for-beginners.md | posted 2026-10-21 (linked, `?src=instagram`) | tasseography |
+| wheel-of-the-year-yule-for-beginners.md | posted 2026-10-21 (linked, `?src=instagram`) | Winter Solstice |
+
+All three new 2026-10-20 guides now have a Threads post; every listed Clarity article has at least one.

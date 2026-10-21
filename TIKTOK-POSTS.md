@@ -106,3 +106,15 @@ piano" (MoppySound), Now / Everyone. All listed once in TikTok Studio's content 
 | sacred-geometry-for-beginners.md | "Draw the Flower of Life yourself, with a compass" | posted 2026-10-20 |
 
 Every listed Clarity article has at least one TikTok again (tarot-decks was the only gap).
+
+## Daily round 2026-10-21 (new 2026-10-20 guides, first time on TikTok)
+
+Vertical cards from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content list as "Everyone".
+
+| Article | Title | Status |
+|---|---|---|
+| scrying-for-beginners.md | "Scrying: all you need to start is a bowl of water" | posted 2026-10-21 |
+| tea-leaf-reading-for-beginners.md | "Tea leaf reading needs loose tea and a white cup" | posted 2026-10-21 |
+
+Still never on TikTok: wheel-of-the-year-yule-for-beginners.

@@ -94,4 +94,15 @@ Verified as "Instagram, Active" in Business Suite's Planner and at instagram.com
 | sound-healing-singing-bowls-for-beginners.md | posted 2026-10-20 | "Bowl or tuning fork?" |
 | tarot-decks-after-your-first.md | posted 2026-10-20 | "Pick your second deck" |
 
-**Never had a Story yet (0).** Every listed Clarity article has had a Story.
+## Daily round 2026-10-21
+
+Verified as "Instagram, Active" in Business Suite's Planner for 10/21 (6 with the Picks Stories).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| flameless-candles-smart-lighting-for-ritual.md | posted 2026-10-21 | "See the 5 options" |
+| telescope-stargazing-for-beginners.md | posted 2026-10-21 | "Pick your first scope" |
+| scrying-for-beginners.md | posted 2026-10-21 | "Try it with a bowl" |
+
+**Never had a Story yet (2):** tea-leaf-reading-for-beginners, wheel-of-the-year-yule-for-beginners.
+(The 2026-10-20 "0" note missed flameless-candles, telescope and the new guides.)

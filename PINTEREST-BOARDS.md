@@ -44,9 +44,9 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 26 | flameless-candles-smart-lighting-for-ritual.md | Candle Magic (existing board, shared with row 23) | created | posted |
 | 27 | telescope-stargazing-for-beginners.md | Moon Phases (existing board; no astronomy board) | created | posted |
 | 28 | tarot-decks-after-your-first.md | Tarot for Beginners (existing board, shared with row 5) | created | posted |
-| 29 | scrying-for-beginners.md | Scrying (created 2026-10-20) | created | not drafted |
+| 29 | scrying-for-beginners.md | Scrying (created 2026-10-20) | created | posted |
 | 30 | wheel-of-the-year-yule-for-beginners.md | Wheel of the Year (created 2026-10-20) | created | posted |
-| 31 | tea-leaf-reading-for-beginners.md | Tea Leaf Reading (created 2026-10-20) | created | not drafted |
+| 31 | tea-leaf-reading-for-beginners.md | Tea Leaf Reading (created 2026-10-20) | created | posted |
 
 ## How the daily routine uses this file
 
