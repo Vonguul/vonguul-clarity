@@ -39,11 +39,14 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 21 | akashic-records-for-beginners.md | Akashic Records | created | posted |
 | 22 | aura-reading-cleansing-for-beginners.md | Aura Reading & Cleansing | created | posted |
 | 23 | candle-magic-for-beginners.md | Candle Magic | created | posted |
-| 24 | i-ching-for-beginners.md | I Ching | not created | drafted |
-| 25 | sacred-geometry-for-beginners.md | Sacred Geometry | not created | drafted |
+| 24 | i-ching-for-beginners.md | I Ching | created | drafted |
+| 25 | sacred-geometry-for-beginners.md | Sacred Geometry | created | drafted |
 | 26 | flameless-candles-smart-lighting-for-ritual.md | Candle Magic (existing board, shared with row 23) | created | posted |
 | 27 | telescope-stargazing-for-beginners.md | Moon Phases (existing board; no astronomy board) | created | posted |
 | 28 | tarot-decks-after-your-first.md | Tarot for Beginners (existing board, shared with row 5) | created | posted |
+| 29 | scrying-for-beginners.md | Scrying (created 2026-10-20) | created | not drafted |
+| 30 | wheel-of-the-year-yule-for-beginners.md | Wheel of the Year (created 2026-10-20) | created | posted |
+| 31 | tea-leaf-reading-for-beginners.md | Tea Leaf Reading (created 2026-10-20) | created | not drafted |
 
 ## How the daily routine uses this file
 
