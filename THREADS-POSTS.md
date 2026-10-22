@@ -169,3 +169,11 @@ The new 2026-10-19 tarot decks guide now has a Threads post; every listed Clarit
 | wheel-of-the-year-yule-for-beginners.md | posted 2026-10-21 (linked, `?src=instagram`) | Winter Solstice |
 
 All three new 2026-10-20 guides now have a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-22
+
+| Article | Threads post | Topic |
+|---|---|---|
+| palmistry-for-beginners.md | posted 2026-10-22 (linked, `?src=instagram`) | Palmistry |
+
+The new 2026-10-21 palmistry guide now has a Threads post; every listed Clarity article has at least one.

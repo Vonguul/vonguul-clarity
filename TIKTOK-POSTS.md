@@ -117,4 +117,14 @@ piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content
 | scrying-for-beginners.md | "Scrying: all you need to start is a bowl of water" | posted 2026-10-21 |
 | tea-leaf-reading-for-beginners.md | "Tea leaf reading needs loose tea and a white cup" | posted 2026-10-21 |
 
-Still never on TikTok: wheel-of-the-year-yule-for-beginners.
+## Daily round 2026-10-22 (first time on TikTok)
+
+Vertical cards from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content list as "Everyone".
+
+| Article | Title | Status |
+|---|---|---|
+| wheel-of-the-year-yule-for-beginners.md | "Marking the winter solstice takes one candle and one evening" | posted 2026-10-22 |
+| palmistry-for-beginners.md | "Palmistry starts with your own two hands, not a book" | posted 2026-10-22 |
+
+Every listed Clarity article now has at least one TikTok.

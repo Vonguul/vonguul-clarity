@@ -104,5 +104,14 @@ Verified as "Instagram, Active" in Business Suite's Planner for 10/21 (6 with th
 | telescope-stargazing-for-beginners.md | posted 2026-10-21 | "Pick your first scope" |
 | scrying-for-beginners.md | posted 2026-10-21 | "Try it with a bowl" |
 
-**Never had a Story yet (2):** tea-leaf-reading-for-beginners, wheel-of-the-year-yule-for-beginners.
-(The 2026-10-20 "0" note missed flameless-candles, telescope and the new guides.)
+## Daily round 2026-10-22
+
+Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| tea-leaf-reading-for-beginners.md | posted 2026-10-22 | "Try it with a white cup" |
+| wheel-of-the-year-yule-for-beginners.md | posted 2026-10-22 | "Mark the solstice" |
+| palmistry-for-beginners.md | posted 2026-10-22 | "Start with your own hands" |
+
+**Never had a Story yet (0).** Every listed Clarity article has had a Story; from here, cycle oldest Story first.
