@@ -47,6 +47,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 29 | scrying-for-beginners.md | Scrying (created 2026-10-20) | created | posted |
 | 30 | wheel-of-the-year-yule-for-beginners.md | Wheel of the Year (created 2026-10-20) | created | posted |
 | 31 | tea-leaf-reading-for-beginners.md | Tea Leaf Reading (created 2026-10-20) | created | posted |
+| 32 | palmistry-for-beginners.md | Palmistry (created 2026-10-23) | created | posted |
 
 ## How the daily routine uses this file
 

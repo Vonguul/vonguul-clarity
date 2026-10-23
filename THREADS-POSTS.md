@@ -177,3 +177,9 @@ All three new 2026-10-20 guides now have a Threads post; every listed Clarity ar
 | palmistry-for-beginners.md | posted 2026-10-22 (linked, `?src=instagram`) | Palmistry |
 
 The new 2026-10-21 palmistry guide now has a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-23 (fresh angle, oldest thread first)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| hermetic-principles-the-kybalion.md | posted 2026-10-23 (linked, `?src=instagram`), fresh angle: the 1908 date and testing the principles against experience | Hermetic Principles |

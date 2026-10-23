@@ -128,3 +128,13 @@ piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content
 | palmistry-for-beginners.md | "Palmistry starts with your own two hands, not a book" | posted 2026-10-22 |
 
 Every listed Clarity article now has at least one TikTok.
+
+## Daily round 2026-10-23 (repeats, oldest TikTok first)
+
+Vertical cards from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content list as "Everyone".
+
+| Article | Title | Status |
+|---|---|---|
+| astrology-for-beginners.md | "Your sun sign is one placement, not your whole chart" | posted 2026-10-23 |
+| pendulum-boards-mats-charts.md | "Print a free pendulum chart before you buy a board" | posted 2026-10-23 |
