@@ -150,4 +150,15 @@ yoga-gear-for-meditation-practice has no TikTok yet.
 | chakras-for-beginners.md | "Chakras: a map for checking in, not anatomy" | posted 2026-10-24 |
 | enneagram-for-beginners.md | "The Enneagram: skip the paid test" | posted 2026-10-25 |
 
-Still never on TikTok: yoga-gear-for-meditation-practice.
+Still never on TikTok: yoga-gear-for-meditation-practice (posted 2026-10-25, below).
+
+## Daily round 2026-10-25 (first time on TikTok)
+
+Vertical card from `../vonguul-picks/tools/social/render_card.py`, sound "Ambient-style emotional
+piano" (MoppySound), Now / Everyone. Listed once in TikTok Studio's content list as "Everyone".
+
+| Article | Title | Status |
+|---|---|---|
+| yoga-gear-for-meditation-practice.md | "Sitting hurts? Loosen up on a mat before you meditate" | posted 2026-10-25 (first TikTok) |
+
+Every listed Clarity article now has at least one TikTok.

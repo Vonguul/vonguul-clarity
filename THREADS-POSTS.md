@@ -193,3 +193,10 @@ The new 2026-10-21 palmistry guide now has a Threads post; every listed Clarity 
 | yoga-gear-for-meditation-practice.md | posted 2026-10-24 (linked, `?src=instagram`) | Meditation |
 
 All three new guides now have a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-25 (fresh angle, oldest thread first)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| astral-projection-getting-started.md | posted 2026-10-25 (linked, `?src=instagram`), fresh angle: read Monroe's 1971 account as a record, not proof; sleep paralysis and the hypnagogic state | astral projection |
+| pendulum-dowsing-for-beginners.md | posted 2026-10-25 (linked, `?src=instagram`), fresh angle: the blind cup test for the ideomotor effect | Pendulum Divination |
