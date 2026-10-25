@@ -48,8 +48,8 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 30 | wheel-of-the-year-yule-for-beginners.md | Wheel of the Year (created 2026-10-20) | created | posted |
 | 31 | tea-leaf-reading-for-beginners.md | Tea Leaf Reading (created 2026-10-20) | created | posted |
 | 32 | palmistry-for-beginners.md | Palmistry (created 2026-10-23) | created | posted |
-| 33 | chakras-for-beginners.md | Chakras | not created | not drafted |
-| 34 | enneagram-for-beginners.md | Enneagram | not created | not drafted |
+| 33 | chakras-for-beginners.md | Chakras (created 2026-10-24) | created | posted |
+| 34 | enneagram-for-beginners.md | Enneagram (created 2026-10-24) | created | posted |
 | 35 | yoga-gear-for-meditation-practice.md | Meditation (existing board, shared with row 9) | created | not drafted |
 
 ## How the daily routine uses this file

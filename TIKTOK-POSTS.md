@@ -138,3 +138,16 @@ piano" (MoppySound), Now / Everyone. Both listed once in TikTok Studio's content
 |---|---|---|
 | astrology-for-beginners.md | "Your sun sign is one placement, not your whole chart" | posted 2026-10-23 |
 | pendulum-boards-mats-charts.md | "Print a free pendulum chart before you buy a board" | posted 2026-10-23 |
+
+## Daily round 2026-10-24 (new 2026-10-23 guides, first time on TikTok)
+
+Sound "Ambient-style emotional piano" (MoppySound), Now / Everyone. Both listed once as "Everyone".
+The Enneagram post went up after midnight (dated 2026-10-25, counts toward that day's quota).
+yoga-gear-for-meditation-practice has no TikTok yet.
+
+| Article | Title | Status |
+|---|---|---|
+| chakras-for-beginners.md | "Chakras: a map for checking in, not anatomy" | posted 2026-10-24 |
+| enneagram-for-beginners.md | "The Enneagram: skip the paid test" | posted 2026-10-25 |
+
+Still never on TikTok: yoga-gear-for-meditation-practice.

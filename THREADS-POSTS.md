@@ -183,3 +183,13 @@ The new 2026-10-21 palmistry guide now has a Threads post; every listed Clarity 
 | Article | Threads post | Topic |
 |---|---|---|
 | hermetic-principles-the-kybalion.md | posted 2026-10-23 (linked, `?src=instagram`), fresh angle: the 1908 date and testing the principles against experience | Hermetic Principles |
+
+## Daily round 2026-10-24 (new 2026-10-23 guides)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| chakras-for-beginners.md | posted 2026-10-24 (linked, `?src=instagram`) | Chakras |
+| enneagram-for-beginners.md | posted 2026-10-24 (linked, `?src=instagram`) | Enneagram |
+| yoga-gear-for-meditation-practice.md | posted 2026-10-24 (linked, `?src=instagram`) | Meditation |
+
+All three new guides now have a Threads post; every listed Clarity article has at least one.

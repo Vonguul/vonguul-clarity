@@ -114,4 +114,14 @@ Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
 | wheel-of-the-year-yule-for-beginners.md | posted 2026-10-22 | "Mark the solstice" |
 | palmistry-for-beginners.md | posted 2026-10-22 | "Start with your own hands" |
 
+## Daily round 2026-10-24 (new 2026-10-23 guides)
+
+Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| chakras-for-beginners.md | posted 2026-10-24 | "Start with a notebook" |
+| enneagram-for-beginners.md | posted 2026-10-24 | "Find your type free" |
+| yoga-gear-for-meditation-practice.md | posted 2026-10-24 | "See the mats and props" |
+
 **Never had a Story yet (0).** Every listed Clarity article has had a Story; from here, cycle oldest Story first.
