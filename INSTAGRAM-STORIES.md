@@ -125,3 +125,16 @@ Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
 | yoga-gear-for-meditation-practice.md | posted 2026-10-24 | "See the mats and props" |
 
 **Never had a Story yet (0).** Every listed Clarity article has had a Story; from here, cycle oldest Story first.
+
+## Daily round 2026-10-26 (new 2026-10-26 guides)
+
+Confirmed at instagram.com/stories/offbahr/ (12 segments with the Picks Stories and the 10/25 ones).
+Video Stories can't carry a link sticker in Business Suite (see the Picks file), so both used the
+still last frame of the `render_motion.py` video.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| 2027-astrology-moon-planners-calendars.md | posted 2026-10-26 | "See the 2027 planners" | still (motion last frame) |
+| incense-for-beginners-sticks-cones-holders.md | posted 2026-10-26 | "Find your first scents" | still (motion last frame) |
+
+**Never had a Story yet (0).**

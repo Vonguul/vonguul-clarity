@@ -51,6 +51,8 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 33 | chakras-for-beginners.md | Chakras (created 2026-10-24) | created | posted |
 | 34 | enneagram-for-beginners.md | Enneagram (created 2026-10-24) | created | posted |
 | 35 | yoga-gear-for-meditation-practice.md | Meditation (existing board, shared with row 9) | created | posted |
+| 36 | 2027-astrology-moon-planners-calendars.md | Moon Phases (existing board) | created | posted |
+| 37 | incense-for-beginners-sticks-cones-holders.md | Meditation (existing board, shared with row 9) | created | posted |
 
 ## How the daily routine uses this file
 

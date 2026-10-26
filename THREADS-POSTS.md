@@ -200,3 +200,14 @@ All three new guides now have a Threads post; every listed Clarity article has a
 |---|---|---|
 | astral-projection-getting-started.md | posted 2026-10-25 (linked, `?src=instagram`), fresh angle: read Monroe's 1971 account as a record, not proof; sleep paralysis and the hypnagogic state | astral projection |
 | pendulum-dowsing-for-beginners.md | posted 2026-10-25 (linked, `?src=instagram`), fresh angle: the blind cup test for the ideomotor effect | Pendulum Divination |
+
+## Daily round 2026-10-26 (new 2026-10-26 guides)
+
+Verified once each on the @offbahr profile. (Picks' 3 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| 2027-astrology-moon-planners-calendars.md | posted 2026-10-26 (linked, `?src=instagram`), tip: free moon-phase calendar first; dates are astronomy, meaning is reflection | Astrology |
+| incense-for-beginners-sticks-cones-holders.md | posted 2026-10-26 (linked, `?src=instagram`), tip: variety pack first, a holder that catches the ash, ventilate | Meditation |
+
+Both new guides have a Threads post; every listed Clarity article has at least one.

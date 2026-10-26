@@ -162,3 +162,16 @@ piano" (MoppySound), Now / Everyone. Listed once in TikTok Studio's content list
 | yoga-gear-for-meditation-practice.md | "Sitting hurts? Loosen up on a mat before you meditate" | posted 2026-10-25 (first TikTok) |
 
 Every listed Clarity article now has at least one TikTok.
+
+## Daily round 2026-10-26 (new 2026-10-26 guides, first time on TikTok)
+
+9-second motion videos from `../vonguul-picks/tools/social/render_motion.py` (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's
+content list as "Everyone". Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| 2027-astrology-moon-planners-calendars.md | "Every new and full moon of 2027, on one calendar." | posted 2026-10-26 (first TikTok) | motion-geometry |
+| incense-for-beginners-sticks-cones-holders.md | "New to incense? Start with a variety pack." | posted 2026-10-26 (first TikTok) | motion-geometry |
+
+Every listed Clarity article has at least one TikTok.
