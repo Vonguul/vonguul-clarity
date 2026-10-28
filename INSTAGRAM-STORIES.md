@@ -138,3 +138,14 @@ still last frame of the `render_motion.py` video.
 | incense-for-beginners-sticks-cones-holders.md | posted 2026-10-26 | "Find your first scents" | still (motion last frame) |
 
 **Never had a Story yet (0).**
+
+## Daily round 2026-10-28 (repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| pendulum-dowsing-for-beginners.md | posted 2026-10-28 | "Try the blind test" | still (motion last frame) |
+| tarot-for-beginners.md | posted 2026-10-28 | "Pick your first deck" | still (motion last frame) |
+
+Next oldest: the 2026-09-12 batch (hermetic, crystals, magical herbs, meditation).

@@ -175,3 +175,13 @@ content list as "Everyone". Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS
 | incense-for-beginners-sticks-cones-holders.md | "New to incense? Start with a variety pack." | posted 2026-10-26 (first TikTok) | motion-geometry |
 
 Every listed Clarity article has at least one TikTok.
+
+## Daily round 2026-10-28 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list. Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| pendulum-dowsing-for-beginners.md | "Test your pendulum blind before you trust it." | posted 2026-10-28 | motion-geometry |
+| tarot-for-beginners.md | "Learn tarot on the original deck, not a knockoff." | posted 2026-10-28 | motion-geometry |

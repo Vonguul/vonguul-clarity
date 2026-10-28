@@ -211,3 +211,12 @@ Verified once each on the @offbahr profile. (Picks' 3 posts are in `../vonguul-p
 | incense-for-beginners-sticks-cones-holders.md | posted 2026-10-26 (linked, `?src=instagram`), tip: variety pack first, a holder that catches the ash, ventilate | Meditation |
 
 Both new guides have a Threads post; every listed Clarity article has at least one.
+
+## Daily round 2026-10-28 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| meditation-for-beginners.md | posted 2026-10-28 (linked, `?src=instagram`), fresh angle: people quit because the seat hurts, not willpower; cushion or kneeling bench | Meditation (community) |
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-10-28 (linked, `?src=instagram`), fresh angle: fantasizing about the win can lower effort; mental contrasting and the next concrete step | manifestation |
