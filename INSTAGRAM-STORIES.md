@@ -149,3 +149,14 @@ Confirmed at instagram.com/stories/offbahr/ (6 segments with the Picks Stories).
 | tarot-for-beginners.md | posted 2026-10-28 | "Pick your first deck" | still (motion last frame) |
 
 Next oldest: the 2026-09-12 batch (hermetic, crystals, magical herbs, meditation).
+
+## Daily round 2026-10-29 (repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| crystals-for-beginners.md | posted 2026-10-29 | "What to buy first" | still (motion last frame) |
+| hermetic-principles-the-kybalion.md | posted 2026-10-29 | "Read the 7 principles" | still (motion last frame) |
+
+Next oldest: magical herbs and meditation (2026-09-12), then the 2026-09-15 batch.

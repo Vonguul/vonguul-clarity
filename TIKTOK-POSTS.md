@@ -185,3 +185,14 @@ off. Both listed once in TikTok Studio's content list. Picks' 3 posts are in `..
 |---|---|---|---|
 | pendulum-dowsing-for-beginners.md | "Test your pendulum blind before you trust it." | posted 2026-10-28 | motion-geometry |
 | tarot-for-beginners.md | "Learn tarot on the original deck, not a knockoff." | posted 2026-10-28 | motion-geometry |
+
+## Daily round 2026-10-29 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list (lucid dreaming still "Content under review" at check
+time). Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| crystals-for-beginners.md | "Learn what your crystal physically is first." | posted 2026-10-29 | motion-geometry |
+| lucid-dreaming-getting-started.md | "Lucid dreaming starts with remembering your dreams." | posted 2026-10-29 | motion-geometry |

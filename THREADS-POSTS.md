@@ -220,3 +220,12 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 |---|---|---|
 | meditation-for-beginners.md | posted 2026-10-28 (linked, `?src=instagram`), fresh angle: people quit because the seat hurts, not willpower; cushion or kneeling bench | Meditation (community) |
 | manifestation-law-of-attraction-for-beginners.md | posted 2026-10-28 (linked, `?src=instagram`), fresh angle: fantasizing about the win can lower effort; mental contrasting and the next concrete step | manifestation |
+
+## Daily round 2026-10-29 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-10-29 (linked, `?src=instagram`), fresh angle: tides are real physics, the "full moon effect" isn't; a fixed checkpoint every two weeks; look at the real moon with binoculars | moon phases |
+| lucid-dreaming-getting-started.md | posted 2026-10-29 (linked, `?src=instagram`), fresh angle: dream recall is the bottleneck; journal by the bed; LaBerge's sleep-lab REM work | Lucid dreaming |
