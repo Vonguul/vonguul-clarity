@@ -229,3 +229,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 |---|---|---|
 | moon-phases-lunar-rituals-for-beginners.md | posted 2026-10-29 (linked, `?src=instagram`), fresh angle: tides are real physics, the "full moon effect" isn't; a fixed checkpoint every two weeks; look at the real moon with binoculars | moon phases |
 | lucid-dreaming-getting-started.md | posted 2026-10-29 (linked, `?src=instagram`), fresh angle: dream recall is the bottleneck; journal by the bed; LaBerge's sleep-lab REM work | Lucid dreaming |
+
+## Daily round 2026-10-30 (new guide, then fresh angle, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| dream-interpretation-books.md | posted 2026-10-30 (linked, `?src=instagram`), tip: dictionaries are folklore; write the dream down and list what each image reminds you of, as reflection | Dreams |
+| magical-herbs-for-beginners.md | posted 2026-10-30 (linked, `?src=instagram`), fresh angle: spell-jar herbs aren't food grade; labelled jars away from the kitchen; check the NIH page first | Herbalism |
+
+Every listed Clarity article has at least one Threads post.

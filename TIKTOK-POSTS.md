@@ -196,3 +196,13 @@ time). Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
 |---|---|---|---|
 | crystals-for-beginners.md | "Learn what your crystal physically is first." | posted 2026-10-29 | motion-geometry |
 | lucid-dreaming-getting-started.md | "Lucid dreaming starts with remembering your dreams." | posted 2026-10-29 | motion-geometry |
+
+## Daily round 2026-10-30 (new guide, then repeat, oldest TikTok first)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| dream-interpretation-books.md | "A dream dictionary is folklore. Try this instead." | posted 2026-10-30 (first TikTok) | motion-geometry |
+| magical-herbs-for-beginners.md | "A spell jar herb isn't a tea herb, even with the same name." | posted 2026-10-30 | motion-geometry |

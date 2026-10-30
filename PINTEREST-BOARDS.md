@@ -53,6 +53,7 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 35 | yoga-gear-for-meditation-practice.md | Meditation (existing board, shared with row 9) | created | posted |
 | 36 | 2027-astrology-moon-planners-calendars.md | Moon Phases (existing board) | created | posted |
 | 37 | incense-for-beginners-sticks-cones-holders.md | Meditation (existing board, shared with row 9) | created | posted |
+| 38 | dream-interpretation-books.md | Lucid Dreaming (existing board, shared with row 4) | created | posted |
 
 ## How the daily routine uses this file
 

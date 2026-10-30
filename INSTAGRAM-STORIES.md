@@ -160,3 +160,16 @@ Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, 
 | hermetic-principles-the-kybalion.md | posted 2026-10-29 | "Read the 7 principles" | still (motion last frame) |
 
 Next oldest: magical herbs and meditation (2026-09-12), then the 2026-09-15 batch.
+
+## Daily round 2026-10-30 (new guide, then repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (9 segments with the Picks Stories and, apparently, 3 from 10/29 not
+yet expired; link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| dream-interpretation-books.md | posted 2026-10-30 (first Story) | "3 ways to read a dream" | still (motion last frame) |
+| magical-herbs-for-beginners.md | posted 2026-10-30 | "Read this before you burn" | still (motion last frame) |
+| meditation-for-beginners.md | posted 2026-10-30 | "Fix the seat first" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-09-15 batch (feng shui, reiki, oracle cards, shadow work).
