@@ -173,3 +173,15 @@ yet expired; link sticker visible).
 | meditation-for-beginners.md | posted 2026-10-30 | "Fix the seat first" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-09-15 batch (feng shui, reiki, oracle cards, shadow work).
+
+## Daily round 2026-11-01 (new guide, then repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| jung-archetypes-for-beginners.md | posted 2026-11-01 (first Story) | "Start the reading order" | still (motion last frame) |
+| feng-shui-basics-for-beginners.md | posted 2026-11-01 | "Start room by room" | still (motion last frame) |
+| reiki-self-healing-for-beginners.md | posted 2026-11-01 | "Know the three levels" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: oracle cards and shadow work (2026-09-15), then the 2026-09-17 batch.

@@ -206,3 +206,13 @@ off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 po
 |---|---|---|---|
 | dream-interpretation-books.md | "A dream dictionary is folklore. Try this instead." | posted 2026-10-30 (first TikTok) | motion-geometry |
 | magical-herbs-for-beginners.md | "A spell jar herb isn't a tea herb, even with the same name." | posted 2026-10-30 | motion-geometry |
+
+## Daily round 2026-11-01 (new guide, then repeat, oldest TikTok first)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| jung-archetypes-for-beginners.md | "Archetypes aren't personality types." | posted 2026-11-01 (first TikTok) | motion-geometry |
+| manifestation-law-of-attraction-for-beginners.md | "If it feels good but you don't act, it isn't working." | posted 2026-11-01 | motion-geometry |

@@ -240,3 +240,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | magical-herbs-for-beginners.md | posted 2026-10-30 (linked, `?src=instagram`), fresh angle: spell-jar herbs aren't food grade; labelled jars away from the kitchen; check the NIH page first | Herbalism |
 
 Every listed Clarity article has at least one Threads post.
+
+## Daily round 2026-11-01 (new guide, then fresh angle, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| jung-archetypes-for-beginners.md | posted 2026-11-01 (linked, `?src=instagram`), first post, tip: archetypes aren't personality types; a name for the pattern; interpretive, not tested science | Psychology |
+| human-design-101-free-chart.md | posted 2026-11-01 (linked, `?src=instagram`), fresh angle: not validated, so log strategy and authority on small decisions for a few weeks | Human Design |
+
+Every listed Clarity article has at least one Threads post.
