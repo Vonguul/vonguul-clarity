@@ -216,3 +216,13 @@ off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 po
 |---|---|---|---|
 | jung-archetypes-for-beginners.md | "Archetypes aren't personality types." | posted 2026-11-01 (first TikTok) | motion-geometry |
 | manifestation-law-of-attraction-for-beginners.md | "If it feels good but you don't act, it isn't working." | posted 2026-11-01 | motion-geometry |
+
+## Daily round 2026-11-02 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| moon-phases-lunar-rituals-for-beginners.md | "Tides are physics. The full moon effect isn't." | posted 2026-11-02 | motion-geometry |
+| numerology-for-beginners.md | "Do the numerology math by hand once." | posted 2026-11-02 | motion-geometry |

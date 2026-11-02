@@ -251,3 +251,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | human-design-101-free-chart.md | posted 2026-11-01 (linked, `?src=instagram`), fresh angle: not validated, so log strategy and authority on small decisions for a few weeks | Human Design |
 
 Every listed Clarity article has at least one Threads post.
+
+## Daily round 2026-11-02 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| tarot-for-beginners.md | posted 2026-11-02 (linked, `?src=instagram`), fresh angle: no evidence it predicts; a random image shows what you were already thinking | Tarot |
+| crystals-for-beginners.md | posted 2026-11-02 (linked, `?src=instagram`), fresh angle: what a stone is said to do vs what it physically is; a field guide | crystals |
+
+Every listed Clarity article has at least one Threads post.

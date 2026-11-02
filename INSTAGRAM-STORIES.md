@@ -185,3 +185,14 @@ Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, 
 | reiki-self-healing-for-beginners.md | posted 2026-11-01 | "Know the three levels" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: oracle cards and shadow work (2026-09-15), then the 2026-09-17 batch.
+
+## Daily round 2026-11-02 (repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| oracle-cards-for-beginners.md | posted 2026-11-02 | "Oracle vs tarot" | still (motion last frame) |
+| shadow-work-journaling-for-beginners.md | posted 2026-11-02 | "Start with real prompts" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-09-17 batch.
