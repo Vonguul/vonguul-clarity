@@ -1,8 +1,8 @@
 ---
 title: "Crystals for Beginners: What to Actually Buy First"
-description: "Free meanings to browse before spending anything, then the starter set, two books, a mineral identification guide, and the care tool worth owning."
+description: "Free meanings to browse before spending anything, then the starter set, two books, a mineral identification guide, the care tool worth owning, and three ways to keep a collection where you can see it."
 pubDate: 2026-09-01
-updatedDate: 2026-09-29
+updatedDate: 2026-11-02
 heroImage: "/images/products/atperrys-crystal-set-1.jpg"
 category: "Crystals"
 keywords:
@@ -34,6 +34,18 @@ products:
     asin: "1426212828"
     image: "/images/products/natgeo-rocks-minerals-pocket-guide-1.jpg"
     note: "The one book here about what the stones physically are, not what they're said to do. A pocket-sized geology guide for identifying North American rocks and minerals, useful for telling what you actually own and for spotting when a 'rare crystal' listing is really a common mineral."
+  - name: "TERDEWE Acrylic Crystal Display Stands, 12 Pieces in 3 Sizes"
+    asin: "B0BJQPP5MD"
+    image: "/images/products/terdewe-crystal-stands-1.jpg"
+    note: "Clear three-prong stands, four each in three sizes, for showing a handful of larger pieces on a shelf. They're the simplest way to display a few stones without committing to furniture. Sold by the maker, 4.8 stars from over 800 reviews."
+  - name: "Rock Collection Display Case, 36 Grid"
+    asin: "B0CQS44XCL"
+    image: "/images/products/rock-case-36-grid-1.jpg"
+    note: "A wooden case with a clear cover and adjustable dividers, about 13 by 9 inches and 1.6 inches deep, so it suits small tumbled stones rather than big clusters. It comes with a small gem handbook, gloves and a magnifying glass. Sold by a small marketplace seller, 4.6 stars from over 450 reviews."
+  - name: "Ella & Emma Wooden Crescent Moon Shelf"
+    asin: "B08ZM4T8JR"
+    image: "/images/products/ella-emma-moon-shelf-1.jpg"
+    note: "A round black pine wall shelf, 13.5 inches across and 3.5 inches deep, with five small ledges. This one is purely about looks, and the ledges limit how much it can hold. Sold by a small marketplace seller, 4.6 stars from over 1,500 reviews."
 ---
 
 Crystals are one of the cheapest metaphysical practices to actually try — a single tumbled stone costs a few dollars, and there's no course, app, or ongoing subscription required to get started. The two real questions are which stones to start with, and how to think about what "using" a crystal actually means.
@@ -57,3 +69,7 @@ There are hundreds of named crystals, each with different associated meanings de
 ## Care is optional, but common practice
 
 Many practitioners "cleanse" or "charge" crystals periodically — running water, moonlight, or resting them on a selenite plate are the most common methods. This isn't required for a crystal to be useful to you as a focus object, but it's a normal part of the practice if you want to incorporate it.
+
+## Where to keep them
+
+Once a collection outgrows its box, the useful question is whether you can see and name what you own. A few stands suit a handful of bigger pieces, a divided case suits lots of small stones and makes them easy to label, and a wall shelf is mostly decoration. None of this changes anything about the stones. Some minerals are sensitive to light or water, so look up a stone in a field guide before leaving it in a sunny window.
