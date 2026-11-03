@@ -33,9 +33,9 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 15 | oracle-cards-for-beginners.md | Oracle Cards | created | posted |
 | 16 | reiki-self-healing-for-beginners.md | Reiki & Energy Healing | created | posted |
 | 17 | runes-for-beginners.md | Runes for Beginners | created | posted |
-| 18 | sage-smudging-energy-cleansing.md | Sage Smudging & Energy Cleansing | created | posted |
+| 18 | sage-smudging-energy-cleansing.md | Energy Cleansing (real board name, verified 2026-11-03) | created | posted |
 | 19 | shadow-work-journaling-for-beginners.md | Shadow Work Journaling | created | posted |
-| 20 | sound-healing-singing-bowls-for-beginners.md | Sound Healing & Singing Bowls | created | posted |
+| 20 | sound-healing-singing-bowls-for-beginners.md | Sound Healing (real board name, verified 2026-11-03) | created | posted |
 | 21 | akashic-records-for-beginners.md | Akashic Records | created | posted |
 | 22 | aura-reading-cleansing-for-beginners.md | Aura Reading & Cleansing | created | posted |
 | 23 | candle-magic-for-beginners.md | Candle Magic | created | posted |

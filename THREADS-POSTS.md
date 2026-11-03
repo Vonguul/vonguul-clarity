@@ -262,3 +262,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | crystals-for-beginners.md | posted 2026-11-02 (linked, `?src=instagram`), fresh angle: what a stone is said to do vs what it physically is; a field guide | crystals |
 
 Every listed Clarity article has at least one Threads post.
+
+## Daily round 2026-11-03 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| sage-smudging-energy-cleansing.md | posted 2026-11-03 (linked, `?src=instagram`), fresh angle: no evidence it clears energy; white sage harvesting pressure; rosemary or lavender, ventilate, heat-safe holder | Spirituality |
+| sound-healing-singing-bowls-for-beginners.md | posted 2026-11-03 (linked, `?src=instagram`), fresh angle: bowl vs fork are different practices; a cushion ring lets a dull bowl ring; not a proven cure | Meditation |
+
+Every listed Clarity article has at least one Threads post.

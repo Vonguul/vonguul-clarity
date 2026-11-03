@@ -226,3 +226,14 @@ off. Both listed once in TikTok Studio's content list as "Everyone". Picks' 3 po
 |---|---|---|---|
 | moon-phases-lunar-rituals-for-beginners.md | "Tides are physics. The full moon effect isn't." | posted 2026-11-02 | motion-geometry |
 | numerology-for-beginners.md | "Do the numerology math by hand once." | posted 2026-11-02 | motion-geometry |
+
+## Daily round 2026-11-03 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list (sound healing still "Content under review" at check time). Picks' 3 posts
+are in `../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| sage-smudging-energy-cleansing.md | "Smudging doesn't have to mean white sage." | posted 2026-11-03 | motion-geometry |
+| sound-healing-singing-bowls-for-beginners.md | "Singing bowl or tuning fork? Two different practices." | posted 2026-11-03 | motion-geometry |

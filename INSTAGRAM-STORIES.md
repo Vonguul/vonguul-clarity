@@ -196,3 +196,15 @@ Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, 
 | shadow-work-journaling-for-beginners.md | posted 2026-11-02 | "Start with real prompts" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-09-17 batch.
+
+## Daily round 2026-11-03 (repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| runes-for-beginners.md | posted 2026-11-03 | "Learn the 24 runes first" | still (motion last frame) |
+| akashic-records-for-beginners.md | posted 2026-11-03 | "Start with the concept" | still (motion last frame) |
+| aura-reading-cleansing-for-beginners.md | posted 2026-11-03 | "Colors vs technique" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: candle magic (2026-09-17), then i-ching, sacred geometry and astrology (2026-09-22).
