@@ -208,3 +208,15 @@ Confirmed at instagram.com/stories/offbahr/ (5 segments with the Picks Stories, 
 | aura-reading-cleansing-for-beginners.md | posted 2026-11-03 | "Colors vs technique" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: candle magic (2026-09-17), then i-ching, sacred geometry and astrology (2026-09-22).
+
+## Daily round 2026-11-04 (repeats, oldest Story first)
+
+Confirmed at instagram.com/stories/offbahr/ (11 segments with the Picks Stories and 5 from 11/03, link sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| candle-magic-for-beginners.md | posted 2026-11-04 | "Color, intention, safety" | still (motion last frame) |
+| i-ching-for-beginners.md | posted 2026-11-04 | "How the coin method works" | still (motion last frame) |
+| sacred-geometry-for-beginners.md | posted 2026-11-04 | "Geometry vs meaning" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: astrology (2026-09-22), then the 2026-09-23 batch.

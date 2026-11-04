@@ -273,3 +273,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | sound-healing-singing-bowls-for-beginners.md | posted 2026-11-03 (linked, `?src=instagram`), fresh angle: bowl vs fork are different practices; a cushion ring lets a dull bowl ring; not a proven cure | Meditation |
 
 Every listed Clarity article has at least one Threads post.
+
+## Daily round 2026-11-04 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 3 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| feng-shui-basics-for-beginners.md | posted 2026-11-04 (linked, `?src=instagram`), fresh angle: two approaches get mixed up; start room by room; no evidence it changes luck, a clearer room is nicer to live in | Feng shui |
+| reiki-self-healing-for-beginners.md | posted 2026-11-04 (linked, `?src=instagram`), fresh angle: know levels I, II and Master before booking a class; no controlled evidence, a relaxation and attention practice | Reiki |
+
+Every listed Clarity article has at least one Threads post.

@@ -237,3 +237,15 @@ are in `../vonguul-picks/TIKTOK-POSTS.md`.
 |---|---|---|---|
 | sage-smudging-energy-cleansing.md | "Smudging doesn't have to mean white sage." | posted 2026-11-03 | motion-geometry |
 | sound-healing-singing-bowls-for-beginners.md | "Singing bowl or tuning fork? Two different practices." | posted 2026-11-03 | motion-geometry |
+
+## Daily round 2026-11-04 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label
+off. Both listed once in TikTok Studio's content list (reiki still "Content under review" at check time). Picks' 3 posts are in
+`../vonguul-picks/TIKTOK-POSTS.md`. Note: gift ideas, Human Design, astral projection, Hermetic principles and meditation from the
+2026-10-16 round have never had a repeat TikTok; earlier runs followed the pin order and skipped them. Do them next.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| feng-shui-basics-for-beginners.md | "Feng shui: start room by room, not with a compass." | posted 2026-11-04 | motion-geometry |
+| reiki-self-healing-for-beginners.md | "Learn the Reiki levels before you book a class." | posted 2026-11-04 | motion-geometry |
