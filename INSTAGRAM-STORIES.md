@@ -220,3 +220,15 @@ Confirmed at instagram.com/stories/offbahr/ (11 segments with the Picks Stories 
 | sacred-geometry-for-beginners.md | posted 2026-11-04 | "Geometry vs meaning" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: astrology (2026-09-22), then the 2026-09-23 batch.
+
+## Daily round 2026-11-05 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 5 segments on
+instagram.com/stories/offbahr/.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| astrology-for-beginners.md | posted 2026-11-05 | "Get your real chart first" | still (motion last frame) |
+| lucid-dreaming-getting-started.md | posted 2026-11-05 | "Start with reality checks" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: manifestation and moon phases (2026-09-23 batch).

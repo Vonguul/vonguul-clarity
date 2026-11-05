@@ -284,3 +284,14 @@ Verified once each on the @offbahr profile. (Picks' 3 posts are in `../vonguul-p
 | reiki-self-healing-for-beginners.md | posted 2026-11-04 (linked, `?src=instagram`), fresh angle: know levels I, II and Master before booking a class; no controlled evidence, a relaxation and attention practice | Reiki |
 
 Every listed Clarity article has at least one Threads post.
+
+## Daily round 2026-11-05 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| numerology-for-beginners.md | posted 2026-11-05 (linked, `?src=instagram`), fresh angle: angel numbers aren't classical numerology; noticing 111/444 is an attention effect; reflection, not prediction | Numerology |
+| oracle-cards-for-beginners.md | posted 2026-11-05 (linked, `?src=instagram`), fresh angle: tarot is a fixed 78-card system, an oracle deck's own guidebook is the reference | Oracle Cards |
+
+Every listed Clarity article has at least one Threads post. Next oldest: shadow work (2026-09-13), then runes, akashic, aura, candle magic (2026-09-17).

@@ -249,3 +249,15 @@ off. Both listed once in TikTok Studio's content list (reiki still "Content unde
 |---|---|---|---|
 | feng-shui-basics-for-beginners.md | "Feng shui: start room by room, not with a compass." | posted 2026-11-04 | motion-geometry |
 | reiki-self-healing-for-beginners.md | "Learn the Reiki levels before you book a class." | posted 2026-11-04 | motion-geometry |
+
+## Daily round 2026-11-05 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label off. Both listed once in
+TikTok Studio's content list. Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`. Still never repeated from the 2026-10-16
+round: astral projection, Hermetic principles, meditation, oracle cards, shadow work, runes, akashic records, aura, candle magic,
+Kabbalah, manipulation tactics. Do astral projection, Hermetic principles and meditation next.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | "Already reads tarot? Skip another standard deck." | posted 2026-11-05 | motion-geometry |
+| human-design-101-free-chart.md | "Judge a Human Design book by how it treats its claims." | posted 2026-11-05 | motion-geometry |
