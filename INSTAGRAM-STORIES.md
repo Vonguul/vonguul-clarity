@@ -232,3 +232,15 @@ instagram.com/stories/offbahr/.
 | lucid-dreaming-getting-started.md | posted 2026-11-05 | "Start with reality checks" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: manifestation and moon phases (2026-09-23 batch).
+
+## Daily round 2026-11-06 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 5 segments on
+instagram.com/stories/offbahr/.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-11-06 | "Goal, plan, next step" | still (motion last frame) |
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-11-06 | "Track the real moon" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-09-23 batch, then the next-oldest repeats.

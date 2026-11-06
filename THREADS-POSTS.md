@@ -295,3 +295,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | oracle-cards-for-beginners.md | posted 2026-11-05 (linked, `?src=instagram`), fresh angle: tarot is a fixed 78-card system, an oracle deck's own guidebook is the reference | Oracle Cards |
 
 Every listed Clarity article has at least one Threads post. Next oldest: shadow work (2026-09-13), then runes, akashic, aura, candle magic (2026-09-17).
+
+## Daily round 2026-11-06 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| shadow-work-journaling-for-beginners.md | posted 2026-11-06 (linked, `?src=instagram`), fresh angle: Jung's shadow isn't just flaws; what you judge in others; reflection, not therapy | Shadow Work |
+| runes-for-beginners.md | posted 2026-11-06 (linked, `?src=instagram`), fresh angle: count the stones, 24 plus a blank; rune divination as sold is largely modern | Runes |
+
+Every listed Clarity article has at least one Threads post. Next oldest: akashic records, aura, candle magic (2026-09-17).

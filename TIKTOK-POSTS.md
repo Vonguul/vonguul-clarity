@@ -261,3 +261,16 @@ Kabbalah, manipulation tactics. Do astral projection, Hermetic principles and me
 |---|---|---|---|
 | gift-ideas-tarot-astrology-human-design.md | "Already reads tarot? Skip another standard deck." | posted 2026-11-05 | motion-geometry |
 | human-design-101-free-chart.md | "Judge a Human Design book by how it treats its claims." | posted 2026-11-05 | motion-geometry |
+
+## Daily round 2026-11-06 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos), no sound added, Now / Everyone, AI label off. Both listed once in
+TikTok Studio's content list. Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`. Chose runes and Akashic records (same
+2026-10-16 round as astral projection) because they also had the oldest pins (batches 20-21), so one render served both platforms.
+Still never repeated from the 2026-10-16 round: astral projection, Hermetic principles, meditation, oracle cards, shadow work, aura,
+candle magic, Kabbalah, manipulation tactics.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| runes-for-beginners.md | "A traditional rune set has 25 stones, not 24." | posted 2026-11-06 | motion-geometry |
+| akashic-records-for-beginners.md | "There's no single agreed way to read the Akashic Records." | posted 2026-11-06 | motion-geometry |
