@@ -244,3 +244,15 @@ instagram.com/stories/offbahr/.
 | moon-phases-lunar-rituals-for-beginners.md | posted 2026-11-06 | "Track the real moon" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-09-23 batch, then the next-oldest repeats.
+
+## Daily round 2026-11-07 (repeats, oldest Story first)
+
+The 2026-09-23 batch is done, so the oldest are the 2026-10-17 catch-up Stories. Picks' 3 Stories are in
+`../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 10 segments on instagram.com/stories/offbahr/.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | posted 2026-11-07 | "Match the gift to them" | still (motion last frame) |
+| pendulum-boards-mats-charts.md | posted 2026-11-07 | "Board or mat?" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: Human Design, Kabbalah, manipulation tactics (2026-10-17), then astral projection, numerology, sage (2026-10-18).

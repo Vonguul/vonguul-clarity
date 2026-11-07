@@ -306,3 +306,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | runes-for-beginners.md | posted 2026-11-06 (linked, `?src=instagram`), fresh angle: count the stones, 24 plus a blank; rune divination as sold is largely modern | Runes |
 
 Every listed Clarity article has at least one Threads post. Next oldest: akashic records, aura, candle magic (2026-09-17).
+
+## Daily round 2026-11-07 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| akashic-records-for-beginners.md | posted 2026-11-07 (linked, `?src=instagram`), fresh angle: some teachers frame the records as present-day guidance, not past lives; check a book's framing; a belief system, not a verified record | Spirituality |
+| aura-reading-cleansing-for-beginners.md | posted 2026-11-07 (linked, `?src=instagram`), fresh angle: a blank first try is normal; framed as a practice in dim light; nothing can measure an aura, reflection not proof | Spirituality |
+
+Every listed Clarity article has at least one Threads post. Next oldest: candle magic (2026-09-17), then the 2026-09-22 batch.

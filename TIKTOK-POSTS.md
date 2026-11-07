@@ -274,3 +274,16 @@ candle magic, Kabbalah, manipulation tactics.
 |---|---|---|---|
 | runes-for-beginners.md | "A traditional rune set has 25 stones, not 24." | posted 2026-11-06 | motion-geometry |
 | akashic-records-for-beginners.md | "There's no single agreed way to read the Akashic Records." | posted 2026-11-06 | motion-geometry |
+
+## Daily round 2026-11-07 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos; symbols chakras and pentagram), no sound added, Now / Everyone,
+AI label off. Both listed once in TikTok Studio's content list. Picks' 3 posts are in `../vonguul-picks/TIKTOK-POSTS.md`. Chose
+aura and candle magic (same 2026-10-16 round) because they also had the oldest pins (batches 22-23), so one render served both
+platforms. Still never repeated from the 2026-10-16 round: astral projection, Hermetic principles, meditation, oracle cards, shadow
+work, Kabbalah, manipulation tactics.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| aura-reading-cleansing-for-beginners.md | "Aura reading: practice the technique, not just the colors." | posted 2026-11-07 | motion-geometry |
+| candle-magic-for-beginners.md | "Candle magic starts with fire safety, not a color chart." | posted 2026-11-07 | motion-geometry |
