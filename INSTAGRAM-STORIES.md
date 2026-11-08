@@ -256,3 +256,15 @@ The 2026-09-23 batch is done, so the oldest are the 2026-10-17 catch-up Stories.
 | pendulum-boards-mats-charts.md | posted 2026-11-07 | "Board or mat?" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: Human Design, Kabbalah, manipulation tactics (2026-10-17), then astral projection, numerology, sage (2026-10-18).
+
+## Daily round 2026-11-08 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 5 segments on
+instagram.com/stories/offbahr/.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| human-design-101-free-chart.md | posted 2026-11-08 | "Test it on small choices" | still (motion last frame) |
+| kabbalah-for-beginners.md | posted 2026-11-08 | "Start with the map" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: manipulation tactics (2026-10-17), then astral projection, numerology, sage (2026-10-18).

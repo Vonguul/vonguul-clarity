@@ -317,3 +317,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | aura-reading-cleansing-for-beginners.md | posted 2026-11-07 (linked, `?src=instagram`), fresh angle: a blank first try is normal; framed as a practice in dim light; nothing can measure an aura, reflection not proof | Spirituality |
 
 Every listed Clarity article has at least one Threads post. Next oldest: candle magic (2026-09-17), then the 2026-09-22 batch.
+
+## Daily round 2026-11-08 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| candle-magic-for-beginners.md | posted 2026-11-08 (linked, `?src=instagram`), fresh angle: a white candle traditionally stands in for any color; dressing is optional; focusing an intention, not a proven effect | Spirituality |
+| i-ching-for-beginners.md | posted 2026-11-08 (linked, `?src=instagram`), fresh angle: a card deck is easy for a daily draw but loses the changing lines coins give; reflection, not a forecast | Spirituality (no "I Ching" topic exists; typing it offered only "Tag new topic") |
+
+Every listed Clarity article has at least one Threads post. Next oldest: sacred geometry, astrology (2026-09-22), then the next-oldest repeats.

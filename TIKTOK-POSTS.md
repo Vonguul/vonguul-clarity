@@ -287,3 +287,16 @@ work, Kabbalah, manipulation tactics.
 |---|---|---|---|
 | aura-reading-cleansing-for-beginners.md | "Aura reading: practice the technique, not just the colors." | posted 2026-11-07 | motion-geometry |
 | candle-magic-for-beginners.md | "Candle magic starts with fire safety, not a color chart." | posted 2026-11-07 | motion-geometry |
+
+## Daily round 2026-11-08 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos; symbols metatron for Hermetic, merkaba for astral projection), no
+sound added, Now / Everyone, AI label off (checked under "Show more"). Both listed once in TikTok Studio's content list. Picks' 3
+posts are in `../vonguul-picks/TIKTOK-POSTS.md`. Today's Clarity pins (I Ching, sacred geometry) used separate renders, since their
+TikToks are newer (2026-10-20). Still never repeated from the 2026-10-16 round: meditation, oracle cards, shadow work, Kabbalah,
+manipulation tactics.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| hermetic-principles-the-kybalion.md | "The Kybalion dates to 1908. The Hermetic texts are far older." | posted 2026-11-08 | motion-geometry |
+| astral-projection-getting-started.md | "Astral projection: prepare the conditions, not the outcome." | posted 2026-11-08 | motion-geometry |

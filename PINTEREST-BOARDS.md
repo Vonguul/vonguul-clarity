@@ -39,8 +39,8 @@ with Claude in Chrome — the drafting routine only prepares the copy and notifi
 | 21 | akashic-records-for-beginners.md | Akashic Records | created | posted |
 | 22 | aura-reading-cleansing-for-beginners.md | Aura Reading & Cleansing | created | posted |
 | 23 | candle-magic-for-beginners.md | Candle Magic | created | posted |
-| 24 | i-ching-for-beginners.md | I Ching | created | drafted |
-| 25 | sacred-geometry-for-beginners.md | Sacred Geometry | created | drafted |
+| 24 | i-ching-for-beginners.md | I Ching | created | posted |
+| 25 | sacred-geometry-for-beginners.md | Sacred Geometry | created | posted |
 | 26 | flameless-candles-smart-lighting-for-ritual.md | Candle Magic (existing board, shared with row 23) | created | posted |
 | 27 | telescope-stargazing-for-beginners.md | Moon Phases (existing board; no astronomy board) | created | posted |
 | 28 | tarot-decks-after-your-first.md | Tarot for Beginners (existing board, shared with row 5) | created | posted |
