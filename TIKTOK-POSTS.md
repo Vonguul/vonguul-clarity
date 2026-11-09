@@ -300,3 +300,16 @@ manipulation tactics.
 |---|---|---|---|
 | hermetic-principles-the-kybalion.md | "The Kybalion dates to 1908. The Hermetic texts are far older." | posted 2026-11-08 | motion-geometry |
 | astral-projection-getting-started.md | "Astral projection: prepare the conditions, not the outcome." | posted 2026-11-08 | motion-geometry |
+
+## Daily round 2026-11-09 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos; symbols tree_of_life for Kabbalah, vesica for manipulation tactics),
+no sound added, Now / Everyone, AI label off (checked under "Show more"). Both listed once in TikTok Studio's content list. Picks' 3
+posts are in `../vonguul-picks/TIKTOK-POSTS.md`. Chose Kabbalah and manipulation tactics because they also had the oldest pins
+(batches 26-27), so one render served TikTok, Pinterest and (manipulation) the Story. Still never repeated from the 2026-10-16 round:
+meditation, oracle cards, shadow work.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| kabbalah-for-beginners.md | "Kabbalah is a lot more than a red string bracelet." | posted 2026-11-09 | motion-geometry |
+| recognizing-manipulation-tactics.md | "\"Trust your gut\" is true. It works better once the feeling has a name." | posted 2026-11-09 | motion-geometry |

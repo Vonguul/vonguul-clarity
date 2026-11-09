@@ -328,3 +328,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | i-ching-for-beginners.md | posted 2026-11-08 (linked, `?src=instagram`), fresh angle: a card deck is easy for a daily draw but loses the changing lines coins give; reflection, not a forecast | Spirituality (no "I Ching" topic exists; typing it offered only "Tag new topic") |
 
 Every listed Clarity article has at least one Threads post. Next oldest: sacred geometry, astrology (2026-09-22), then the next-oldest repeats.
+
+## Daily round 2026-11-09 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| sacred-geometry-for-beginners.md | posted 2026-11-09 (linked, `?src=instagram`), fresh angle: draw the Flower of Life with a compass once; geometry is math, the meaning is interpretation | Sacred Geometry |
+| astrology-for-beginners.md | posted 2026-11-09 (linked, `?src=instagram`), fresh angle: sun sign is one placement; free full chart, read sun/moon/rising together; no better than chance, a vocabulary for reflection | Astrology |
+
+Every listed Clarity article has at least one Threads post. Next oldest: the 2026-09-23 and later batches (see the oldest rows above), then the next-oldest repeats.

@@ -268,3 +268,15 @@ instagram.com/stories/offbahr/.
 | kabbalah-for-beginners.md | posted 2026-11-08 | "Start with the map" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: manipulation tactics (2026-10-17), then astral projection, numerology, sage (2026-10-18).
+
+## Daily round 2026-11-09 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 7 segments on
+instagram.com/stories/offbahr/ (manipulation tactics sticker visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| recognizing-manipulation-tactics.md | posted 2026-11-09 | "Name the tactic" | still (motion last frame) |
+| astral-projection-getting-started.md | posted 2026-11-09 | "Start with free material" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: numerology, sage (2026-10-18), then the next-oldest repeats.
