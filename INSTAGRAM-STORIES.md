@@ -280,3 +280,15 @@ instagram.com/stories/offbahr/ (manipulation tactics sticker visible).
 | astral-projection-getting-started.md | posted 2026-11-09 | "Start with free material" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: numerology, sage (2026-10-18), then the next-oldest repeats.
+
+## Daily round 2026-11-10 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both confirmed among the 5 segments on
+instagram.com/stories/offbahr/ (link stickers visible).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| numerology-for-beginners.md | posted 2026-11-10 | "Do the math once" | still (motion last frame) |
+| sage-smudging-energy-cleansing.md | posted 2026-11-10 | "Start with the holder" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-10-18 round, then the next-oldest repeats.

@@ -339,3 +339,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | astrology-for-beginners.md | posted 2026-11-09 (linked, `?src=instagram`), fresh angle: sun sign is one placement; free full chart, read sun/moon/rising together; no better than chance, a vocabulary for reflection | Astrology |
 
 Every listed Clarity article has at least one Threads post. Next oldest: the 2026-09-23 and later batches (see the oldest rows above), then the next-oldest repeats.
+
+## Daily round 2026-11-10 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | posted 2026-11-10 (linked, `?src=instagram`), fresh angle: gifts for the skeptic in the family; binoculars, a geology guide, Jung; interesting whatever you believe | Gift Ideas |
+| pendulum-boards-mats-charts.md | posted 2026-11-10 (linked, `?src=instagram`), fresh angle: print a free chart for a couple of weeks before buying a board; a board doesn't make it more accurate, reflection not answers | Pendulum Divination |
+
+Every listed Clarity article has at least one Threads post. Next oldest: Kabbalah, manipulation tactics (2026-10-17), then flameless candles, telescope (2026-10-19).

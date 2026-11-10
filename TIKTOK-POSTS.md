@@ -313,3 +313,15 @@ meditation, oracle cards, shadow work.
 |---|---|---|---|
 | kabbalah-for-beginners.md | "Kabbalah is a lot more than a red string bracelet." | posted 2026-11-09 | motion-geometry |
 | recognizing-manipulation-tactics.md | "\"Trust your gut\" is true. It works better once the feeling has a name." | posted 2026-11-09 | motion-geometry |
+
+## Daily round 2026-11-10 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos (sacred geometry + real product photos; symbols flower_of_life for meditation, merkaba for oracle cards), no
+sound added, Now / Everyone, AI label off (checked under "Show more"). Both listed once in TikTok Studio's content list. Picks' 3 posts
+are in `../vonguul-picks/TIKTOK-POSTS.md`. The first oracle `file_upload` lost its connection and did not land; the retry did. Today's
+Clarity pins (gift ideas, pendulum boards) used separate renders. Still never repeated from the 2026-10-16 round: shadow work.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| meditation-for-beginners.md | "Quit meditating in week one? Check the seat before your willpower." | posted 2026-11-10 | motion-geometry |
+| oracle-cards-for-beginners.md | "Five oracle decks, five different structures. Pick by the reading you want." | posted 2026-11-10 | motion-geometry |
