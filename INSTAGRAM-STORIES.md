@@ -292,3 +292,15 @@ instagram.com/stories/offbahr/ (link stickers visible).
 | sage-smudging-energy-cleansing.md | posted 2026-11-10 | "Start with the holder" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-10-18 round, then the next-oldest repeats.
+
+## Daily round 2026-11-11 (repeats, oldest Story first)
+
+The 2026-10-18 round is done, so the oldest are the 2026-10-20 Stories. Picks' 3 Stories are in
+`../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). instagram.com/stories/offbahr/ showed 5 segments for the day's 5 Stories.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| sound-healing-singing-bowls-for-beginners.md | posted 2026-11-11 | "Let the bowl ring" | still (motion last frame) |
+| tarot-decks-after-your-first.md | posted 2026-11-11 | "Same system, new art" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: flameless candles, telescope, scrying (2026-10-21), then the 2026-10-22 round.

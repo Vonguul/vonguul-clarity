@@ -325,3 +325,17 @@ Clarity pins (gift ideas, pendulum boards) used separate renders. Still never re
 |---|---|---|---|
 | meditation-for-beginners.md | "Quit meditating in week one? Check the seat before your willpower." | posted 2026-11-10 | motion-geometry |
 | oracle-cards-for-beginners.md | "Five oracle decks, five different structures. Pick by the reading you want." | posted 2026-11-10 | motion-geometry |
+
+## Daily round 2026-11-11 (repeats, oldest TikTok first: last of the 2026-10-16 round, then 2026-10-18)
+
+3 Clarity posts today (Picks had 2; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos; symbols vesica for shadow work, pentagram for flameless candles, zodiac_wheel for the telescope guide), no sound
+added, Now / Everyone, AI label off (checked under "Show more"). All listed once in TikTok Studio's content list. The flameless
+candles and telescope videos also went to Pinterest (they had the oldest pins, batches 30-31). The 2026-10-16 round is now fully
+repeated. Next oldest: tarot decks, I Ching, sacred geometry (2026-10-20), then scrying, tea leaf reading (2026-10-21).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| shadow-work-journaling-for-beginners.md | "Shadow work: small and consistent beats long and occasional." | posted 2026-11-11 | motion-geometry |
+| flameless-candles-smart-lighting-for-ritual.md | "A consistent warm light is a cue that the session has started." | posted 2026-11-11 | motion-geometry |
+| telescope-stargazing-for-beginners.md | "Before a telescope, try binoculars and a star chart." | posted 2026-11-11 | motion-geometry |

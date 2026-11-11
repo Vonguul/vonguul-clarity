@@ -350,3 +350,15 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | pendulum-boards-mats-charts.md | posted 2026-11-10 (linked, `?src=instagram`), fresh angle: print a free chart for a couple of weeks before buying a board; a board doesn't make it more accurate, reflection not answers | Pendulum Divination |
 
 Every listed Clarity article has at least one Threads post. Next oldest: Kabbalah, manipulation tactics (2026-10-17), then flameless candles, telescope (2026-10-19).
+
+## Daily round 2026-11-11 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.) The Kabbalah topic list
+stayed open after the first pick by `find` ref; a click on the option itself set it, so check the header before posting.
+
+| Article | Threads post | Topic |
+|---|---|---|
+| kabbalah-for-beginners.md | posted 2026-11-11 (linked, `?src=instagram`), fresh angle: every beginner guide is already an interpretation; read a primary-source anthology with Zohar excerpts after one | Kabbalah |
+| recognizing-manipulation-tactics.md | posted 2026-11-11 (linked, `?src=instagram`), fresh angle: Stout's rule of three; one lie or broken promise is data, three is a pattern, especially with appeals for pity | Psychology |
+
+Every listed Clarity article has at least one Threads post. Next oldest: flameless candles, telescope (2026-10-19), then the next-oldest repeats.
