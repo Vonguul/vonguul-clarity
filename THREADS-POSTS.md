@@ -362,3 +362,14 @@ stayed open after the first pick by `find` ref; a click on the option itself set
 | recognizing-manipulation-tactics.md | posted 2026-11-11 (linked, `?src=instagram`), fresh angle: Stout's rule of three; one lie or broken promise is data, three is a pattern, especially with appeals for pity | Psychology |
 
 Every listed Clarity article has at least one Threads post. Next oldest: flameless candles, telescope (2026-10-19), then the next-oldest repeats.
+
+## Daily round 2026-11-12 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| flameless-candles-smart-lighting-for-ritual.md | posted 2026-11-12 (linked, `?src=instagram`), fresh angle: the riskiest part of a candle practice is the candle; a flameless pillar or warm lamp keeps the mood; none of it makes a ritual "work", lighting changes mood and routine | Meditation (community) |
+| telescope-stargazing-for-beginners.md | posted 2026-11-12 (linked, `?src=instagram`), fresh angle: beginners quit because they can't find anything; pick a scope by who does the finding; seeing Saturn doesn't validate astrology | Astronomy |
+
+Every listed Clarity article has at least one Threads post. Next oldest: tarot decks (2026-10-20), then scrying, tea leaf reading, wheel of the year (2026-10-21).

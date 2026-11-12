@@ -339,3 +339,15 @@ repeated. Next oldest: tarot decks, I Ching, sacred geometry (2026-10-20), then 
 | shadow-work-journaling-for-beginners.md | "Shadow work: small and consistent beats long and occasional." | posted 2026-11-11 | motion-geometry |
 | flameless-candles-smart-lighting-for-ritual.md | "A consistent warm light is a cue that the session has started." | posted 2026-11-11 | motion-geometry |
 | telescope-stargazing-for-beginners.md | "Before a telescope, try binoculars and a star chart." | posted 2026-11-11 | motion-geometry |
+
+## Daily round 2026-11-12 (repeats, oldest TikTok first: the 2026-10-20 round)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos; symbols merkaba for tarot decks, bagua for I Ching), no sound added, Now / Everyone, AI label off (read under "Show
+more"). Both listed once in TikTok Studio's content list. The tarot decks video also went to Pinterest (oldest pin, batch 32).
+Next oldest: sacred geometry (2026-10-20), then scrying, tea leaf reading (2026-10-21).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| tarot-decks-after-your-first.md | "Thoth and Marseille aren't new art. They're different systems." | posted 2026-11-12 | motion-geometry |
+| i-ching-for-beginners.md | "Read one I Ching hexagram in two translations." | posted 2026-11-12 | motion-geometry |

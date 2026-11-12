@@ -304,3 +304,16 @@ The 2026-10-18 round is done, so the oldest are the 2026-10-20 Stories. Picks' 3
 | tarot-decks-after-your-first.md | posted 2026-11-11 | "Same system, new art" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: flameless candles, telescope, scrying (2026-10-21), then the 2026-10-22 round.
+
+## Daily round 2026-11-12 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published"; instagram.com/stories/offbahr/ showed 6 segments (the day's 5 plus, apparently, 1 from 11/11). These two were not stepped
+through one by one in the viewer.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| flameless-candles-smart-lighting-for-ritual.md | posted 2026-11-12 | "Candlelight, no flame" | still (motion last frame) |
+| telescope-stargazing-for-beginners.md | posted 2026-11-12 | "Stars for cloudy nights" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: scrying (2026-10-21), then the 2026-10-22 round (tea leaf reading, wheel of the year, palmistry).
