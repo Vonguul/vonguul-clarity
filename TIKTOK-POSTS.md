@@ -351,3 +351,17 @@ Next oldest: sacred geometry (2026-10-20), then scrying, tea leaf reading (2026-
 |---|---|---|---|
 | tarot-decks-after-your-first.md | "Thoth and Marseille aren't new art. They're different systems." | posted 2026-11-12 | motion-geometry |
 | i-ching-for-beginners.md | "Read one I Ching hexagram in two translations." | posted 2026-11-12 | motion-geometry |
+
+## Daily round 2026-11-13 (repeats, oldest TikTok first: last of the 2026-10-20 round, then 2026-10-21)
+
+3 Clarity posts today (Picks had 2; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos; symbols metatron for sacred geometry, seed_of_life for scrying and tea leaf reading), no sound added, Now / Everyone,
+AI label off (read under "Show more"). All listed once in TikTok Studio's content list. The scrying and tea leaf videos also went to
+Pinterest (oldest pins, batches 35-36) and their stills to Stories. The 2026-10-20 and 2026-10-21 rounds are now repeated.
+Next oldest: the next-oldest Clarity TikToks after 2026-10-21 (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| sacred-geometry-for-beginners.md | "Learn four shapes before any sacred geometry book." | posted 2026-11-13 | motion-geometry |
+| scrying-for-beginners.md | "Black mirror or crystal ball? They work in opposite ways." | posted 2026-11-13 | motion-geometry |
+| tea-leaf-reading-for-beginners.md | "In tea leaf reading, the handle is you." | posted 2026-11-13 | motion-geometry |

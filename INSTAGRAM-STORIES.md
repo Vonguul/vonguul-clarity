@@ -317,3 +317,16 @@ through one by one in the viewer.
 | telescope-stargazing-for-beginners.md | posted 2026-11-12 | "Stars for cloudy nights" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: scrying (2026-10-21), then the 2026-10-22 round (tea leaf reading, wheel of the year, palmistry).
+
+## Daily round 2026-11-13 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published"; instagram.com/stories/offbahr/ showed 5 segments for the day's 5 Stories, and both of these were seen in the viewer with
+their link stickers (segments 4 and 5).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| scrying-for-beginners.md | posted 2026-11-13 | "Mirror or crystal ball?" | still (motion last frame) |
+| tea-leaf-reading-for-beginners.md | posted 2026-11-13 | "Start at the handle" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-10-22 round (wheel of the year, palmistry), then the next-oldest repeats.

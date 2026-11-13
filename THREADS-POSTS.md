@@ -373,3 +373,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | telescope-stargazing-for-beginners.md | posted 2026-11-12 (linked, `?src=instagram`), fresh angle: beginners quit because they can't find anything; pick a scope by who does the finding; seeing Saturn doesn't validate astrology | Astronomy |
 
 Every listed Clarity article has at least one Threads post. Next oldest: tarot decks (2026-10-20), then scrying, tea leaf reading, wheel of the year (2026-10-21).
+
+## Daily round 2026-11-13 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| tarot-decks-after-your-first.md | posted 2026-11-13 (linked, `?src=instagram`), fresh angle: the Smith-Waite tin shows the original 1909 drawings in her muted colors; a new deck won't make readings more accurate, no evidence tarot predicts anything, buy for the art | Tarot |
+| scrying-for-beginners.md | posted 2026-11-13 (linked, `?src=instagram`), fresh angle: glass vs reconstituted quartz vs natural quartz; for gazing they behave the same; what you see comes from your own mind, not the future | Scrying |
+
+Every listed Clarity article has at least one Threads post. Next oldest: tea leaf reading, wheel of the year (2026-10-21), then the next-oldest repeats.
