@@ -330,3 +330,25 @@ their link stickers (segments 4 and 5).
 | tea-leaf-reading-for-beginners.md | posted 2026-11-13 | "Start at the handle" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-10-22 round (wheel of the year, palmistry), then the next-oldest repeats.
+
+## Daily round 2026-11-14 (repeats, oldest Story first; logged 2026-11-15)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md`. The 11-14 run posted these but never logged them; the 11-15 run
+found both in instagram.com/archive/stories/ (dated 14 Nov, with link stickers).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| palmistry-for-beginners.md | posted 2026-11-14 | "Find your three lines" | still (motion last frame) |
+| wheel-of-the-year-yule-for-beginners.md | posted 2026-11-14 | "Mark the longest night" | still (motion last frame) |
+
+## Daily round 2026-11-15 (repeats, oldest Story first: the 2026-10-24 round)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear in instagram.com/archive/stories/ dated 15 Nov with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| chakras-for-beginners.md | posted 2026-11-15 | "A weekly check-in" | still (motion last frame) |
+| enneagram-for-beginners.md | posted 2026-11-15 | "The type you resist" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: yoga gear (2026-10-24), then the 2026-10-26 round.

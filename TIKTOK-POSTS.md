@@ -365,3 +365,23 @@ Next oldest: the next-oldest Clarity TikToks after 2026-10-21 (check the dated t
 | sacred-geometry-for-beginners.md | "Learn four shapes before any sacred geometry book." | posted 2026-11-13 | motion-geometry |
 | scrying-for-beginners.md | "Black mirror or crystal ball? They work in opposite ways." | posted 2026-11-13 | motion-geometry |
 | tea-leaf-reading-for-beginners.md | "In tea leaf reading, the handle is you." | posted 2026-11-13 | motion-geometry |
+
+## Daily round 2026-11-14 (repeats, oldest TikTok first; logged 2026-11-15)
+
+The 11-14 run posted this but never logged it; the 11-15 run found it listed once in TikTok Studio (Everyone). Picks' 3 are in
+`../vonguul-picks/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| wheel-of-the-year-yule-for-beginners.md | "The winter solstice is astronomy. Marking it needs no belief." | posted 2026-11-14 | motion-geometry |
+
+## Daily round 2026-11-15 (repeats, oldest TikTok first: 2026-10-22, then 2026-10-23)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: pendulum boards (2026-10-23), then chakras (2026-10-24).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| palmistry-for-beginners.md | "The life line isn't about how long you'll live." | posted 2026-11-15 | motion-geometry |
+| astrology-for-beginners.md | "Read your sun, moon and rising together, not one at a time." | posted 2026-11-15 | motion-geometry |

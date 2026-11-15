@@ -384,3 +384,24 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | scrying-for-beginners.md | posted 2026-11-13 (linked, `?src=instagram`), fresh angle: glass vs reconstituted quartz vs natural quartz; for gazing they behave the same; what you see comes from your own mind, not the future | Scrying |
 
 Every listed Clarity article has at least one Threads post. Next oldest: tea leaf reading, wheel of the year (2026-10-21), then the next-oldest repeats.
+
+## Daily round 2026-11-14 (fresh angles, oldest thread first; logged 2026-11-15)
+
+The 11-14 scheduled run posted these but never logged or committed anything; the 11-15 run found them once each on the @offbahr
+profile and logged them from the live text. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| tea-leaf-reading-for-beginners.md | posted 2026-11-14 (linked, `?src=instagram`), fresh angle: look at the shapes before looking anything up; the leaves are random, what you decide they mean says more about your mind than your future | Tasseography |
+| wheel-of-the-year-yule-for-beginners.md | posted 2026-11-14 (linked, `?src=instagram`), fresh angle: the eight-festival wheel was put together in the 1950s; the solstice itself is astronomy and marking it needs no belief | Winter Solstice |
+
+## Daily round 2026-11-15 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| palmistry-for-beginners.md | posted 2026-11-15 (linked, `?src=instagram`), fresh angle: reading a friend's hand, ask what they think a line says first; no good evidence the lines predict anything, a conversation not a forecast | Palmistry |
+| hermetic-principles-the-kybalion.md | posted 2026-11-15 (linked, `?src=instagram`), fresh angle: public-domain reprints with missing sections and scan errors, get a careful edition; read it as a 1908 framework to test, not an ancient text | Hermetic Principles |
+
+Every listed Clarity article has at least one Threads post. Next oldest: the rest of the 2026-10-23 round, then chakras, enneagram, yoga gear (2026-10-24).
