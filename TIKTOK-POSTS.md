@@ -385,3 +385,14 @@ Next oldest: pendulum boards (2026-10-23), then chakras (2026-10-24).
 |---|---|---|---|
 | palmistry-for-beginners.md | "The life line isn't about how long you'll live." | posted 2026-11-15 | motion-geometry |
 | astrology-for-beginners.md | "Read your sun, moon and rising together, not one at a time." | posted 2026-11-15 | motion-geometry |
+
+## Daily round 2026-11-16 (repeats, oldest TikTok first: 2026-10-23, then 2026-10-24)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: enneagram, yoga gear (2026-10-25).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| pendulum-boards-mats-charts.md | "Light crystal pendulums wobble. Heavier metal ones swing cleaner." | posted 2026-11-16 | motion-geometry |
+| chakras-for-beginners.md | "Try the chakra map with a notebook before a crystal set." | posted 2026-11-16 | motion-geometry |

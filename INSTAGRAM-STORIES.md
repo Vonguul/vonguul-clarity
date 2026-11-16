@@ -352,3 +352,16 @@ published" and appear in instagram.com/archive/stories/ dated 15 Nov with their 
 | enneagram-for-beginners.md | posted 2026-11-15 | "The type you resist" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: yoga gear (2026-10-24), then the 2026-10-26 round.
+
+## Daily round 2026-11-16 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear in instagram.com/archive/stories/ dated 16 Nov. **The 2027 planners Story went live WITHOUT its link sticker**
+(none in the archive thumbnail or viewer); the yoga gear Story has its sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| yoga-gear-for-meditation-practice.md | posted 2026-11-16 | "Loosen up before sitting" | still (motion last frame) |
+| 2027-astrology-moon-planners-calendars.md | posted 2026-11-16 | none: sticker did not stick (intended "Datebook or wall calendar") | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: incense (2026-10-26), then pendulum dowsing, tarot (2026-10-28). The 2027 planners article is worth repeating early since today's Story had no link.

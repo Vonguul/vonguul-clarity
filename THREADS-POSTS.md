@@ -405,3 +405,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | hermetic-principles-the-kybalion.md | posted 2026-11-15 (linked, `?src=instagram`), fresh angle: public-domain reprints with missing sections and scan errors, get a careful edition; read it as a 1908 framework to test, not an ancient text | Hermetic Principles |
 
 Every listed Clarity article has at least one Threads post. Next oldest: the rest of the 2026-10-23 round, then chakras, enneagram, yoga gear (2026-10-24).
+
+## Daily round 2026-11-16 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| chakras-for-beginners.md | posted 2026-11-16 (linked, `?src=instagram`), fresh angle: once a week write one line per chakra about that part of your life, read back after a month; no evidence they're energy centers, a reflection checklist | Chakras |
+| enneagram-for-beginners.md | posted 2026-11-16 (linked, `?src=instagram`), fresh angle: ask someone who knows you which type fits; research support is thin, a vocabulary not a measurement; never use it to hire or diagnose | Enneagram |
+
+Every listed Clarity article has at least one Threads post. Next oldest: yoga gear (2026-10-24), then astral projection, pendulum dowsing (2026-10-25).
