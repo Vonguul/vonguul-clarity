@@ -416,3 +416,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | enneagram-for-beginners.md | posted 2026-11-16 (linked, `?src=instagram`), fresh angle: ask someone who knows you which type fits; research support is thin, a vocabulary not a measurement; never use it to hire or diagnose | Enneagram |
 
 Every listed Clarity article has at least one Threads post. Next oldest: yoga gear (2026-10-24), then astral projection, pendulum dowsing (2026-10-25).
+
+## Daily round 2026-11-17 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| yoga-gear-for-meditation-practice.md | posted 2026-11-17 (linked, `?src=instagram`), fresh angle: sitting hurts because of stiff hips and knees; a few minutes of gentle yoga first is what the postures were for, a block under the hips is an instant seat; not a treatment | Meditation |
+| astral-projection-getting-started.md | posted 2026-11-17 (linked, `?src=instagram`), fresh angle: skip the paid course, start with Robert Bruce's free Energy Work Primer, then Astral Dynamics; neuroscience hasn't validated leaving the body, the deep-relaxation experiences are what's real | Astral Projection |
+
+Every listed Clarity article has at least one Threads post. Next oldest: pendulum dowsing (2026-10-25), then the 2026-10-26 round.

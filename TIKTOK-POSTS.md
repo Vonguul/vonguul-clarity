@@ -396,3 +396,14 @@ Next oldest: enneagram, yoga gear (2026-10-25).
 |---|---|---|---|
 | pendulum-boards-mats-charts.md | "Light crystal pendulums wobble. Heavier metal ones swing cleaner." | posted 2026-11-16 | motion-geometry |
 | chakras-for-beginners.md | "Try the chakra map with a notebook before a crystal set." | posted 2026-11-16 | motion-geometry |
+
+## Daily round 2026-11-17 (repeats, oldest TikTok first: 2026-10-25)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: the 2026-10-26 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| enneagram-for-beginners.md | "The Enneagram type you resist is often closer than the one you'd like to be." | posted 2026-11-17 | motion-geometry |
+| yoga-gear-for-meditation-practice.md | "No meditation cushion? A yoga block under your hips is an instant seat." | posted 2026-11-17 | motion-geometry |

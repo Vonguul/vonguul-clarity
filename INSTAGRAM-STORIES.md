@@ -365,3 +365,16 @@ published" and appear in instagram.com/archive/stories/ dated 16 Nov. **The 2027
 | 2027-astrology-moon-planners-calendars.md | posted 2026-11-16 | none: sticker did not stick (intended "Datebook or wall calendar") | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: incense (2026-10-26), then pendulum dowsing, tarot (2026-10-28). The 2027 planners article is worth repeating early since today's Story had no link.
+
+## Daily round 2026-11-17 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear in instagram.com/archive/stories/ dated 17 Nov with their link stickers. 2027 planners repeated early to replace
+yesterday's sticker-less Story.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| incense-for-beginners-sticks-cones-holders.md | posted 2026-11-17 | "Indian or Japanese?" | still (motion last frame) |
+| 2027-astrology-moon-planners-calendars.md | posted 2026-11-17 (early repeat: 11-16 Story had no link) | "Datebook or wall calendar" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: pendulum dowsing, tarot (2026-10-28), then onward.
