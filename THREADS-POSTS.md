@@ -427,3 +427,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | astral-projection-getting-started.md | posted 2026-11-17 (linked, `?src=instagram`), fresh angle: skip the paid course, start with Robert Bruce's free Energy Work Primer, then Astral Dynamics; neuroscience hasn't validated leaving the body, the deep-relaxation experiences are what's real | Astral Projection |
 
 Every listed Clarity article has at least one Threads post. Next oldest: pendulum dowsing (2026-10-25), then the 2026-10-26 round.
+
+## Daily round 2026-11-18 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| pendulum-dowsing-for-beginners.md | posted 2026-11-18 (linked, `?src=instagram`), fresh angle: calibrate your own yes and no first, clockwise isn't universal; ideomotor effect, use it to surface what you already feel about a decision | Pendulum Divination |
+| 2027-astrology-moon-planners-calendars.md | posted 2026-11-18 (linked, `?src=instagram`), fresh angle: datebook (carry, journal) or wall calendar (household sees the phases); dates are astronomy, the meaning isn't proven, a reason to pause at new and full moons | Astrology |
+
+Every listed Clarity article has at least one Threads post. Next oldest: incense (2026-10-26), then the 2026-10-28 round.

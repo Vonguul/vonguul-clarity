@@ -407,3 +407,14 @@ Next oldest: the 2026-10-26 round onward (check the dated tables above).
 |---|---|---|---|
 | enneagram-for-beginners.md | "The Enneagram type you resist is often closer than the one you'd like to be." | posted 2026-11-17 | motion-geometry |
 | yoga-gear-for-meditation-practice.md | "No meditation cushion? A yoga block under your hips is an instant seat." | posted 2026-11-17 | motion-geometry |
+
+## Daily round 2026-11-18 (repeats, oldest TikTok first: 2026-10-26)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`, with a caption gotcha). 9-second motion videos
+(sacred geometry + real product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: pendulum dowsing, tarot (2026-10-28), then crystals, lucid dreaming (2026-10-29).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| 2027-astrology-moon-planners-calendars.md | "Datebook or wall calendar for 2027? Pick by how you'll use it." | posted 2026-11-18 | motion-geometry |
+| incense-for-beginners-sticks-cones-holders.md | "Ash all over the table? The holder is the fix." | posted 2026-11-18 | motion-geometry |
