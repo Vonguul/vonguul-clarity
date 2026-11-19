@@ -390,3 +390,15 @@ published" and appear in instagram.com/archive/stories/ dated 18 Nov with their 
 | tarot-for-beginners.md | posted 2026-11-18 | "22 Major, 56 Minor" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-10-29 round onward (check the dated tables above).
+
+## Daily round 2026-11-19 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear in instagram.com/archive/stories/ dated 19 Nov with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| crystals-for-beginners.md | posted 2026-11-19 | "Know what you own" | still (motion last frame) |
+| hermetic-principles-the-kybalion.md | posted 2026-11-19 | "Read the older texts too" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-10-30 round (dream interpretation, magical herbs, meditation), then onward.

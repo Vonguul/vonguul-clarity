@@ -438,3 +438,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | 2027-astrology-moon-planners-calendars.md | posted 2026-11-18 (linked, `?src=instagram`), fresh angle: datebook (carry, journal) or wall calendar (household sees the phases); dates are astronomy, the meaning isn't proven, a reason to pause at new and full moons | Astrology |
 
 Every listed Clarity article has at least one Threads post. Next oldest: incense (2026-10-26), then the 2026-10-28 round.
+
+## Daily round 2026-11-19 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| incense-for-beginners-sticks-cones-holders.md | posted 2026-11-19 (linked, `?src=instagram`), fresh angle: Indian style (paste on bamboo, strong and sweet) vs Japanese (no stick, less smoke, quieter); try both, open a window; a ritual cue, not proven to cleanse anything | Meditation (community) |
+| meditation-for-beginners.md | posted 2026-11-19 (linked, `?src=instagram`), fresh angle: ten minutes on a basic cushion is fine, forty is where backs complain; a floor seat with back support, supporting your back isn't cheating | Meditation (community) |
+
+Every listed Clarity article has at least one Threads post. Next oldest: manifestation (2026-10-28), then moon phases, lucid dreaming (2026-10-29).

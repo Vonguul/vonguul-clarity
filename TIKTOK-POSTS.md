@@ -418,3 +418,15 @@ Next oldest: pendulum dowsing, tarot (2026-10-28), then crystals, lucid dreaming
 |---|---|---|---|
 | 2027-astrology-moon-planners-calendars.md | "Datebook or wall calendar for 2027? Pick by how you'll use it." | posted 2026-11-18 | motion-geometry |
 | incense-for-beginners-sticks-cones-holders.md | "Ash all over the table? The holder is the fix." | posted 2026-11-18 | motion-geometry |
+
+## Daily round 2026-11-19 (repeats, oldest TikTok first: 2026-10-28)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos; symbols vesica for pendulum dowsing, merkaba for tarot), no sound added, Now / Everyone, AI label off. Both listed once
+in TikTok Studio's content list.
+Next oldest: crystals, lucid dreaming (2026-10-29), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| pendulum-dowsing-for-beginners.md | "Wondering what your pendulum is picking up? Test it blind." | posted 2026-11-19 | motion-geometry |
+| tarot-for-beginners.md | "Tarot is 22 Major and 56 Minor cards. Learn that before 78 meanings." | posted 2026-11-19 | motion-geometry |
