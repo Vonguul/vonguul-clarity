@@ -449,3 +449,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | meditation-for-beginners.md | posted 2026-11-19 (linked, `?src=instagram`), fresh angle: ten minutes on a basic cushion is fine, forty is where backs complain; a floor seat with back support, supporting your back isn't cheating | Meditation (community) |
 
 Every listed Clarity article has at least one Threads post. Next oldest: manifestation (2026-10-28), then moon phases, lucid dreaming (2026-10-29).
+
+## Daily round 2026-11-20 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-11-20 (linked, `?src=instagram`), fresh angle: a wish on paper doesn't change what you do on Tuesday; specific when/where/how plans beat a general intention; a planner does more than the vision board; no proof thought alone changes anything | Manifestation |
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-11-20 (linked, `?src=instagram`), fresh angle: a moon phase necklace from the real phase on a birthday is a calculable fact about the sky, not a symbol; the "full moon effect" on mood hasn't held up | Moon Phases |
+
+Every listed Clarity article has at least one Threads post. Next oldest: lucid dreaming (2026-10-29), then the 2026-10-30 round (dream interpretation, magical herbs).

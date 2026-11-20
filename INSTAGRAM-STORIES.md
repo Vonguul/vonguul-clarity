@@ -402,3 +402,15 @@ published" and appear in instagram.com/archive/stories/ dated 19 Nov with their 
 | hermetic-principles-the-kybalion.md | posted 2026-11-19 | "Read the older texts too" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-10-30 round (dream interpretation, magical herbs, meditation), then onward.
+
+## Daily round 2026-11-20 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear in instagram.com/archive/stories/ dated 20 Nov with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| dream-interpretation-books.md | posted 2026-11-20 | "What it reminds you of" | still (motion last frame) |
+| magical-herbs-for-beginners.md | posted 2026-11-20 | "Craft tools stay separate" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: meditation (2026-10-30), then the 2026-10-31 round onward.

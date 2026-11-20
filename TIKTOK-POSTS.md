@@ -430,3 +430,14 @@ Next oldest: crystals, lucid dreaming (2026-10-29), then onward.
 |---|---|---|---|
 | pendulum-dowsing-for-beginners.md | "Wondering what your pendulum is picking up? Test it blind." | posted 2026-11-19 | motion-geometry |
 | tarot-for-beginners.md | "Tarot is 22 Major and 56 Minor cards. Learn that before 78 meanings." | posted 2026-11-19 | motion-geometry |
+
+## Daily round 2026-11-20 (repeats, oldest TikTok first: 2026-10-29)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: dream interpretation, magical herbs (2026-10-30), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| crystals-for-beginners.md | "Rare crystal or common mineral? A field guide can tell." | posted 2026-11-20 | motion-geometry |
+| lucid-dreaming-getting-started.md | "Check the clock twice. In a dream, the time changes." | posted 2026-11-20 | motion-geometry |
