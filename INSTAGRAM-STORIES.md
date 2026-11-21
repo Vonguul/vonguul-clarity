@@ -414,3 +414,15 @@ published" and appear in instagram.com/archive/stories/ dated 20 Nov with their 
 | magical-herbs-for-beginners.md | posted 2026-11-20 | "Craft tools stay separate" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: meditation (2026-10-30), then the 2026-10-31 round onward.
+
+## Daily round 2026-11-21 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| meditation-for-beginners.md | posted 2026-11-21 | "Give your hands a job" | still (motion last frame) |
+| jung-archetypes-for-beginners.md | posted 2026-11-21 | "Name the pattern" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: feng shui, reiki (2026-11-01), then onward.

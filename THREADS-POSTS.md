@@ -460,3 +460,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | moon-phases-lunar-rituals-for-beginners.md | posted 2026-11-20 (linked, `?src=instagram`), fresh angle: a moon phase necklace from the real phase on a birthday is a calculable fact about the sky, not a symbol; the "full moon effect" on mood hasn't held up | Moon Phases |
 
 Every listed Clarity article has at least one Threads post. Next oldest: lucid dreaming (2026-10-29), then the 2026-10-30 round (dream interpretation, magical herbs).
+
+## Daily round 2026-11-21 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| lucid-dreaming-getting-started.md | posted 2026-11-21 (linked, `?src=instagram`), fresh angle: the sleep-lab evidence is solid that lucid dreams happen in REM and can be learned; nightmare and creativity claims are less established, read the technique chapters and hold the promises to a lower bar | Lucid Dreaming |
+| dream-interpretation-books.md | posted 2026-11-21 (linked, `?src=instagram`), fresh angle: sleep researchers study what dreaming is, not what a dream means; Zadra and Stickgold's loose-memory-links model as a counterweight to dictionaries (folklore); distressing dreams are for a doctor, not decoding | Dreams |
+
+Every listed Clarity article has at least one Threads post. Next oldest: magical herbs (2026-10-30), then the 2026-11-01 round (Jung, feng shui, reiki).

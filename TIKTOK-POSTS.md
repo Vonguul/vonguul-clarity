@@ -441,3 +441,14 @@ Next oldest: dream interpretation, magical herbs (2026-10-30), then onward.
 |---|---|---|---|
 | crystals-for-beginners.md | "Rare crystal or common mineral? A field guide can tell." | posted 2026-11-20 | motion-geometry |
 | lucid-dreaming-getting-started.md | "Check the clock twice. In a dream, the time changes." | posted 2026-11-20 | motion-geometry |
+
+## Daily round 2026-11-21 (repeats, oldest TikTok first: 2026-10-30)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: the 2026-11-01 round (Jung, manifestation), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| magical-herbs-for-beginners.md | "Rosemary does the smoke-cleansing job without the white sage problem." | posted 2026-11-21 | motion-geometry |
+| dream-interpretation-books.md | "Sleep science asks what dreaming is, not what a dream means." | posted 2026-11-21 | motion-geometry |
