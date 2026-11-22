@@ -471,3 +471,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | dream-interpretation-books.md | posted 2026-11-21 (linked, `?src=instagram`), fresh angle: sleep researchers study what dreaming is, not what a dream means; Zadra and Stickgold's loose-memory-links model as a counterweight to dictionaries (folklore); distressing dreams are for a doctor, not decoding | Dreams |
 
 Every listed Clarity article has at least one Threads post. Next oldest: magical herbs (2026-10-30), then the 2026-11-01 round (Jung, feng shui, reiki).
+
+## Daily round 2026-11-22 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| magical-herbs-for-beginners.md | posted 2026-11-22 (linked, `?src=instagram`), fresh angle: rosemary or cedar does the smoke-cleansing job without white sage's overharvesting and cultural problems | Herbalism |
+| jung-archetypes-for-beginners.md | posted 2026-11-22 (linked, `?src=instagram`), fresh angle: a reading order (short intro, Memories Dreams Reflections, Four Archetypes, then the full volume); interpretive, not tested science | Psychology |
+
+Every listed Clarity article has at least one Threads post. Next oldest: feng shui, reiki (2026-11-01), then the 2026-11-02 round onward.

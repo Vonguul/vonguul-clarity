@@ -452,3 +452,14 @@ Next oldest: the 2026-11-01 round (Jung, manifestation), then onward.
 |---|---|---|---|
 | magical-herbs-for-beginners.md | "Rosemary does the smoke-cleansing job without the white sage problem." | posted 2026-11-21 | motion-geometry |
 | dream-interpretation-books.md | "Sleep science asks what dreaming is, not what a dream means." | posted 2026-11-21 | motion-geometry |
+
+## Daily round 2026-11-22 (repeats, oldest TikTok first: 2026-11-01)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: the 2026-11-02 round onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| jung-archetypes-for-beginners.md | "Where to start reading Jung without giving up." | posted 2026-11-22 | motion-geometry |
+| manifestation-law-of-attraction-for-beginners.md | "A wish on paper doesn't change what you do on Tuesday." | posted 2026-11-22 | motion-geometry |
