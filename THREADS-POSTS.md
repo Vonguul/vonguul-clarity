@@ -482,3 +482,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | jung-archetypes-for-beginners.md | posted 2026-11-22 (linked, `?src=instagram`), fresh angle: a reading order (short intro, Memories Dreams Reflections, Four Archetypes, then the full volume); interpretive, not tested science | Psychology |
 
 Every listed Clarity article has at least one Threads post. Next oldest: feng shui, reiki (2026-11-01), then the 2026-11-02 round onward.
+
+## Daily round 2026-11-23 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| feng-shui-basics-for-beginners.md | posted 2026-11-23 (linked, `?src=instagram`), fresh angle: a hanging crystal reliably splits sunlight into moving spots of color; reason enough to hang one, the energy part is tradition, not fact | Feng Shui |
+| reiki-self-healing-for-beginners.md | posted 2026-11-23 (linked, `?src=instagram`), fresh angle: the self-treatment hand positions need no attunement; an illustrated guide beats text; no controlled evidence it treats anything, a relaxation practice | Reiki |
+
+Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-02 round onward.

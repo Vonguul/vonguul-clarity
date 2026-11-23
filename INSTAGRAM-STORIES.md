@@ -438,3 +438,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | reiki-self-healing-for-beginners.md | posted 2026-11-22 | "Read the primary source" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-11-02 round onward.
+
+## Daily round 2026-11-23 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| oracle-cards-for-beginners.md | posted 2026-11-23 | "Read the deck's own book" | still (motion last frame) |
+| shadow-work-journaling-for-beginners.md | posted 2026-11-23 | "Ten minutes a day" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-11-03 round (runes, akashic records, aura reading) onward.

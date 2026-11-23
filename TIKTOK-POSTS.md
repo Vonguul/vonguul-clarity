@@ -463,3 +463,14 @@ Next oldest: the 2026-11-02 round onward.
 |---|---|---|---|
 | jung-archetypes-for-beginners.md | "Where to start reading Jung without giving up." | posted 2026-11-22 | motion-geometry |
 | manifestation-law-of-attraction-for-beginners.md | "A wish on paper doesn't change what you do on Tuesday." | posted 2026-11-22 | motion-geometry |
+
+## Daily round 2026-11-23 (repeats, oldest TikTok first: 2026-11-02)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: the 2026-11-03 round (sage smudging, sound healing), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| moon-phases-lunar-rituals-for-beginners.md | "Even a cheap pair of binoculars shows the moon's craters." | posted 2026-11-23 | motion-geometry |
+| numerology-for-beginners.md | "Numerology authors don't even agree on the letter math." | posted 2026-11-23 | motion-geometry |
