@@ -474,3 +474,15 @@ Next oldest: the 2026-11-03 round (sage smudging, sound healing), then onward.
 |---|---|---|---|
 | moon-phases-lunar-rituals-for-beginners.md | "Even a cheap pair of binoculars shows the moon's craters." | posted 2026-11-23 | motion-geometry |
 | numerology-for-beginners.md | "Numerology authors don't even agree on the letter math." | posted 2026-11-23 | motion-geometry |
+
+## Daily round 2026-11-24 (repeats, oldest TikTok first: 2026-11-03)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list (sound healing still
+"Content under review" at check time).
+Next oldest: feng shui, reiki (2026-11-04), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| sage-smudging-energy-cleansing.md | "No open flame allowed? The ritual doesn't need one." | posted 2026-11-24 | motion-geometry |
+| sound-healing-singing-bowls-for-beginners.md | "Tingsha mark the start and end. A bowl plays throughout." | posted 2026-11-24 | motion-geometry |

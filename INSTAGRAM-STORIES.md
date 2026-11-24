@@ -450,3 +450,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | shadow-work-journaling-for-beginners.md | posted 2026-11-23 | "Ten minutes a day" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-11-03 round (runes, akashic records, aura reading) onward.
+
+## Daily round 2026-11-24 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| runes-for-beginners.md | posted 2026-11-24 | "Start on wood" | still (motion last frame) |
+| akashic-records-for-beginners.md | posted 2026-11-24 | "Past lives or present?" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: aura reading (2026-11-03), then the 2026-11-04 round onward.

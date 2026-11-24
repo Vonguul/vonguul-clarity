@@ -493,3 +493,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | reiki-self-healing-for-beginners.md | posted 2026-11-23 (linked, `?src=instagram`), fresh angle: the self-treatment hand positions need no attunement; an illustrated guide beats text; no controlled evidence it treats anything, a relaxation practice | Reiki |
 
 Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-02 round onward.
+
+## Daily round 2026-11-24 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| tarot-for-beginners.md | posted 2026-11-24 (linked, `?src=instagram`), fresh angle: a second guidebook does more than a third deck; two authors on one card show shared tradition vs one writer's view; cloth and pouch last; reflection, not prediction | Tarot |
+| crystals-for-beginners.md | posted 2026-11-24 (linked, `?src=instagram`), fresh angle: some minerals fade in sunlight or dislike water, look a stone up in a field guide before a sunny window; a stand changes nothing about the stone | Crystals |
+
+Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-03 round (sage smudging, sound healing) onward.
