@@ -504,3 +504,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | crystals-for-beginners.md | posted 2026-11-24 (linked, `?src=instagram`), fresh angle: some minerals fade in sunlight or dislike water, look a stone up in a field guide before a sunny window; a stand changes nothing about the stone | Crystals |
 
 Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-03 round (sage smudging, sound healing) onward.
+
+## Daily round 2026-11-25 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| sage-smudging-energy-cleansing.md | posted 2026-11-25 (linked, `?src=instagram`), fresh angle: the one thing worth buying once is the holder; no evidence smoke clears "negative energy", the ritual marks a fresh start, so clean and open a window | Spirituality |
+| sound-healing-singing-bowls-for-beginners.md | posted 2026-11-25 (linked, `?src=instagram`), fresh angle: crystal bowl listings tie each bowl to a chakra with no evidence; you're buying a clearer, longer tone, worth it for playing for others or long sessions | Sound Healing |
+
+Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-05 round onward (feng shui and reiki were repeated 2026-11-23; check the dated tables above).

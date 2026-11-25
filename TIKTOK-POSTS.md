@@ -486,3 +486,14 @@ Next oldest: feng shui, reiki (2026-11-04), then onward.
 |---|---|---|---|
 | sage-smudging-energy-cleansing.md | "No open flame allowed? The ritual doesn't need one." | posted 2026-11-24 | motion-geometry |
 | sound-healing-singing-bowls-for-beginners.md | "Tingsha mark the start and end. A bowl plays throughout." | posted 2026-11-24 | motion-geometry |
+
+## Daily round 2026-11-25 (repeats, oldest TikTok first: 2026-11-04)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). 9-second motion videos (sacred geometry + real
+product photos), no sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: the 2026-11-05 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| feng-shui-basics-for-beginners.md | "Most feng shui advice works as plain good design." | posted 2026-11-25 | motion-geometry |
+| reiki-self-healing-for-beginners.md | "Compare the founder's Reiki hand positions with a modern guide." | posted 2026-11-25 | motion-geometry |

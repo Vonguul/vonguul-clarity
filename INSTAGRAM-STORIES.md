@@ -462,3 +462,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | akashic-records-for-beginners.md | posted 2026-11-24 | "Past lives or present?" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: aura reading (2026-11-03), then the 2026-11-04 round onward.
+
+## Daily round 2026-11-25 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| aura-reading-cleansing-for-beginners.md | posted 2026-11-25 | "Blank first try? Normal" | still (motion last frame) |
+| candle-magic-for-beginners.md | posted 2026-11-25 | "Snuff it, don't blow" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: I Ching, sacred geometry (2026-11-04), then the 2026-11-05 round onward.
