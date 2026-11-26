@@ -497,3 +497,15 @@ Next oldest: the 2026-11-05 round onward (check the dated tables above).
 |---|---|---|---|
 | feng-shui-basics-for-beginners.md | "Most feng shui advice works as plain good design." | posted 2026-11-25 | motion-geometry |
 | reiki-self-healing-for-beginners.md | "Compare the founder's Reiki hand positions with a modern guide." | posted 2026-11-25 | motion-geometry |
+
+## Daily round 2026-11-26 (repeats, oldest TikTok first: 2026-11-05)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). Motion videos (sacred geometry + real product
+photos) with the Clarity music bed; the gift ideas video also carries an ElevenLabs voiceover (voice "Dallin", 181 credits). No TikTok
+sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: runes, akashic records (2026-11-06), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| gift-ideas-tarot-astrology-human-design.md | "A moon phase necklace shows the real moon on their birthday." | posted 2026-11-26 | motion-geometry+voice |
+| human-design-101-free-chart.md | "Try your Strategy on small decisions for a few weeks. Keep a log." | posted 2026-11-26 | motion-geometry |

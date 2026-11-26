@@ -515,3 +515,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | sound-healing-singing-bowls-for-beginners.md | posted 2026-11-25 (linked, `?src=instagram`), fresh angle: crystal bowl listings tie each bowl to a chakra with no evidence; you're buying a clearer, longer tone, worth it for playing for others or long sessions | Sound Healing |
 
 Every listed Clarity article has at least one Threads post. Next oldest: the 2026-11-05 round onward (feng shui and reiki were repeated 2026-11-23; check the dated tables above).
+
+## Daily round 2026-11-26 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| numerology-for-beginners.md | posted 2026-11-26 (linked, `?src=instagram`), fresh angle: work out your life path number by hand once before buying a book, it shows how the system is built; no evidence the number predicts anything, a reflection prompt | Numerology |
+| oracle-cards-for-beginners.md | posted 2026-11-26 (linked, `?src=instagram`), fresh angle: general-guidance, archetype, animal and moon-astrology decks work differently; pick by the kind of reflection you want; prompts, not predictions | Oracle Cards |
+
+Every listed Clarity article has at least one Threads post. Next oldest: shadow work, runes (2026-11-06), then the 2026-11-07 round onward.

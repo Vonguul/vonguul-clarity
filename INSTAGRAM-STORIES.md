@@ -474,3 +474,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | candle-magic-for-beginners.md | posted 2026-11-25 | "Snuff it, don't blow" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: I Ching, sacred geometry (2026-11-04), then the 2026-11-05 round onward.
+
+## Daily round 2026-11-26 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| i-ching-for-beginners.md | posted 2026-11-26 | "Compare two translations" | still (motion last frame) |
+| sacred-geometry-for-beginners.md | posted 2026-11-26 | "Math first, then meaning" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-11-05 round onward (check the dated tables above).
