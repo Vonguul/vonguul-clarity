@@ -526,3 +526,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | oracle-cards-for-beginners.md | posted 2026-11-26 (linked, `?src=instagram`), fresh angle: general-guidance, archetype, animal and moon-astrology decks work differently; pick by the kind of reflection you want; prompts, not predictions | Oracle Cards |
 
 Every listed Clarity article has at least one Threads post. Next oldest: shadow work, runes (2026-11-06), then the 2026-11-07 round onward.
+
+## Daily round 2026-11-27 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| shadow-work-journaling-for-beginners.md | posted 2026-11-27 (linked, `?src=instagram`), fresh angle: when the workbook runs out, a notebook with numbered pages and an index; patterns only show when you can find what you wrote three months ago; reflection, not therapy | Shadow Work |
+| runes-for-beginners.md | posted 2026-11-27 (linked, `?src=instagram`), fresh angle: the set's guidebook isn't the source, read the Poetic Edda; the alphabet is real history, stone-drawing divination is largely modern | Runes |
+
+Every listed Clarity article has at least one Threads post. Next oldest: akashic records, aura reading (2026-11-07), then the 2026-11-08 round onward.

@@ -509,3 +509,15 @@ Next oldest: runes, akashic records (2026-11-06), then onward.
 |---|---|---|---|
 | gift-ideas-tarot-astrology-human-design.md | "A moon phase necklace shows the real moon on their birthday." | posted 2026-11-26 | motion-geometry+voice |
 | human-design-101-free-chart.md | "Try your Strategy on small decisions for a few weeks. Keep a log." | posted 2026-11-26 | motion-geometry |
+
+## Daily round 2026-11-27 (repeats, oldest TikTok first: 2026-11-06)
+
+2 Clarity posts today (Picks had 3 incl. the informational post; they are in `../vonguul-picks/TIKTOK-POSTS.md`). Motion videos (sacred
+geometry + real product photos) with the Clarity music bed; the runes video also carries an ElevenLabs voiceover (voice "Dallin", 153
+credits, 11.9 s). No TikTok sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list.
+Next oldest: aura reading, candle magic (2026-11-07), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| runes-for-beginners.md | "What a rune is carved into doesn't change its meaning." | posted 2026-11-27 | motion-geometry+voice |
+| akashic-records-for-beginners.md | "The Akashic Records idea dates to the late 1800s." | posted 2026-11-27 | motion-geometry |

@@ -486,3 +486,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | sacred-geometry-for-beginners.md | posted 2026-11-26 | "Math first, then meaning" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-11-05 round onward (check the dated tables above).
+
+## Daily round 2026-11-27 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| astrology-for-beginners.md | posted 2026-11-27 | "Sun, moon and rising" | still (motion last frame) |
+| lucid-dreaming-getting-started.md | posted 2026-11-27 | "Keep a journal by the bed" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: manifestation, moon phases (2026-11-06), then the 2026-11-07 round onward.
