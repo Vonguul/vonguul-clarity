@@ -521,3 +521,16 @@ Next oldest: aura reading, candle magic (2026-11-07), then onward.
 |---|---|---|---|
 | runes-for-beginners.md | "What a rune is carved into doesn't change its meaning." | posted 2026-11-27 | motion-geometry+voice |
 | akashic-records-for-beginners.md | "The Akashic Records idea dates to the late 1800s." | posted 2026-11-27 | motion-geometry |
+
+## Daily round 2026-11-28 (repeats, oldest TikTok first: 2026-11-07)
+
+2 Clarity posts today (Picks had 3; they are in `../vonguul-picks/TIKTOK-POSTS.md`). Motion videos (sacred geometry + real product
+photos) with the Clarity music bed; the aura reading video also carries an ElevenLabs voiceover (voice "Dallin", 183 credits, 15.7 s).
+No TikTok sound added, Now / Everyone, AI label off. Both listed once in TikTok Studio's content list. The aura caption's
+#energyhealing was swapped for #selfreflection before posting to keep clear of health framing.
+Next oldest: Kybalion, astral projection (2026-11-08), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| aura-reading-cleansing-for-beginners.md | "Aura colors are the vocabulary, not the skill." | posted 2026-11-28 | motion-geometry+voice |
+| candle-magic-for-beginners.md | "No candle in the right color? White stands in for any." | posted 2026-11-28 | motion-geometry |

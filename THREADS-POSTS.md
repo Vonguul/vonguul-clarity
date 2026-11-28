@@ -537,3 +537,14 @@ Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-p
 | runes-for-beginners.md | posted 2026-11-27 (linked, `?src=instagram`), fresh angle: the set's guidebook isn't the source, read the Poetic Edda; the alphabet is real history, stone-drawing divination is largely modern | Runes |
 
 Every listed Clarity article has at least one Threads post. Next oldest: akashic records, aura reading (2026-11-07), then the 2026-11-08 round onward.
+
+## Daily round 2026-11-28 (fresh angles, oldest thread first)
+
+Verified once each on the @offbahr profile. (Picks' 2 posts are in `../vonguul-picks/THREADS-POSTS.md`.)
+
+| Article | Threads post | Topic |
+|---|---|---|
+| akashic-records-for-beginners.md | posted 2026-11-28 (linked, `?src=instagram`), fresh angle: read a plain overview of the concept before committing to one teacher's ritual; no single agreed method; a belief system to explore, not a verified record | Spirituality |
+| aura-reading-cleansing-for-beginners.md | posted 2026-11-28 (linked, `?src=instagram`), fresh angle: colors are only the vocabulary; guides teach the seeing as practice (soft focus, dim light, plain background); nothing can measure an aura, reflection not proof | Spirituality |
+
+Every listed Clarity article has at least one Threads post. Next oldest: candle magic, I Ching (2026-11-08), then the 2026-11-09 round onward.

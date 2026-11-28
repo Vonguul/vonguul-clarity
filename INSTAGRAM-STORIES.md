@@ -498,3 +498,15 @@ published" and appear on instagram.com/stories/offbahr/ with their link stickers
 | lucid-dreaming-getting-started.md | posted 2026-11-27 | "Keep a journal by the bed" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: manifestation, moon phases (2026-11-06), then the 2026-11-07 round onward.
+
+## Daily round 2026-11-28 (repeats, oldest Story first)
+
+Picks' 3 Stories are in `../vonguul-picks/INSTAGRAM-STORIES.md` (same process notes). Both moved to the Planner with "story is being
+published" and appear on instagram.com/stories/offbahr/ with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| manifestation-law-of-attraction-for-beginners.md | posted 2026-11-28 | "Plan when, where, how" | still (motion last frame) |
+| moon-phases-lunar-rituals-for-beginners.md | posted 2026-11-28 | "Your birthday moon, exact" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: gift ideas, pendulum boards (2026-11-07), then the 2026-11-08 round onward.
